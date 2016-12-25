@@ -1,0 +1,50 @@
+183297003;Leg prosthesis use training;Beenprothese gebruik training;Beenprothese gebruik training;beenprothese gebruik training
+119864009;Mouth reconstruction;mond reconstructie;mond reconstructie;mond reconstructie
+237396005;Biopsy of lesion of areola;Biopsie van letsel van tepelhof;Biopsie van letsel van tepelhof;biopsie van letsel van tepelhof
+9162006;Transplantation of scrotal tissue;Transplantatie van scrotum weefsel;Transplantatie van scrotum weefsel;transplantatie van scrotum weefsel
+240959006;Therapeutic barium enema;Therapeutische bariumklysma;Therapeutische bariumklysma;therapeutische bariumklysma
+225230008;Chronic peritoneal dialysis;Chronische peritoneale dialyse;Chronische peritoneale dialyse;chronische peritoneale dialyse
+359548007;Open biopsy of small intestine;Open biopsie van de dunne darm;Open biopsie van de dunne darm;open biopsie van de dunne darm
+231305006;Skin infiltration;huid infiltratie;huid infiltratie;huid infiltratie
+180198004;Intravenous cholecystography;intraveneuze cholecystografie;intraveneuze cholecystografie;intraveneuze cholecystografie
+239318000;Osteotomy for callotasis;Osteotomie voor callotasis;Osteotomie voor callotasis;osteotomie voor callotasis
+287497001;Non-surgical ear biopsy;Niet - chirurgische oor biopsie;Niet - chirurgische oor biopsie;niet - chirurgische oor biopsie
+80865008;Specimen mammography;specimen mammografie;specimen mammografie;specimen mammografie
+197357002;Kutler amputation;Kutler amputatie;Kutler amputatie;kutler amputatie
+699944004;Bisoprolol therapy;Bisoprolol therapie;Bisoprolol therapie;bisoprolol therapie
+66402002;Peritoneal dialysis training;Peritoneale dialyse training;Peritoneale dialyse training;peritoneale dialyse training
+108101003;Obstetrics incision;verloskunde incisie;verloskunde incisie;verloskunde incisie
+71543002;Fenestration of aorta;Fenestratie van aorta;Fenestratie van aorta;fenestratie van aorta
+312452009;Aspirin prophylaxis;aspirine profylaxe;aspirine profylaxe;aspirine profylaxe
+170524008;Notification of tetanus;Kennisgeving van tetanus;Kennisgeving van tetanus;kennisgeving van tetanus
+710974008;Prevention of osteoporosis;Preventie van osteoporose;Preventie van osteoporose;preventie van osteoporose
+387731002;Laminectomy;laminectomie;laminectomie;laminectomie
+39641000;Reconstruction of umbilicus;Reconstructie van de navel;Reconstructie van de navel;reconstructie van de navel
+311524001;Functional skills training;Functionele vaardigheden training;Functionele vaardigheden training;functionele vaardigheden training
+171408004;Medicolegal examination;medicolegal onderzoek;medicolegal onderzoek;medicolegal onderzoek
+314118002;Laparoscopic total splenectomy;Laparoscopische totale splenectomie;Laparoscopische totale splenectomie;laparoscopische totale splenectomie
+302761001;Walking exercise test;Wandelen inspanningstest;Wandelen inspanningstest;wandelen inspanningstest
+6832004;Atherectomy;atherectomie;atherectomie;atherectomie
+20261004;Helium therapy;helium therapie;helium therapie;helium therapie
+395133005;Renin and aldosterone;Renine en aldosteron;Renine en aldosteron;renine en aldosteron
+17636008;Specimen collection;specimen collectie;specimen collectie;specimen collectie
+237479005;Selective transsphenoidal pituitary adenomectomy;Selectieve transsfeno ï dale hypofyse adenomectomy;Selectieve transsfeno ï dale hypofyse adenomectomy;selectieve transsfeno ï dale hypofyse adenomectomy
+76735009;Diagnostic laparoscopy;diagnostische laparoscopie;diagnostische laparoscopie;diagnostische laparoscopie
+59148003;Injection of therapeutic substance into liver;Injectie van therapeutische substantie in de lever;Injectie van therapeutische substantie in de lever;injectie van therapeutische substantie in de lever
+274493004;Endoscopic manipulation;endoscopische manipulatie;endoscopische manipulatie;endoscopische manipulatie
+34780002;Injection of therapeutic substance into testis;Injectie van therapeutische substantie in de testis;Injectie van therapeutische substantie in de testis;injectie van therapeutische substantie in de testis
+260662001;Laryngectomy incision;laryngectomie incisie;laryngectomie incisie;laryngectomie incisie
+78545003;Tenotomy;tenotomie;tenotomie;tenotomie
+274798009;Examination of retina;Onderzoek van de retina;Onderzoek van de retina;onderzoek van de retina
+242113002;Debridement of skull;Debridement van de schedel;Debridement van de schedel;debridement van de schedel
+72842003;Debridement of forefoot;Debridement van de voorvoet;Debridement van de voorvoet;debridement van de voorvoet
+449364006;Injection of electrolyte;Injectie van elektrolyt;Injectie van elektrolyt;injectie van elektrolyt
+225316001;Bedrest;Bedrust;Bedrust;bedrust
+271549001;Asymptomatic bacteriuria screening;Asymptomatische bacteriurie screening;Asymptomatische bacteriurie screening;asymptomatische bacteriurie screening
+225417009;Intermittent observation;intermitterende observatie;intermitterende observatie;intermitterende observatie
+120158008;Thorax transplantation;thorax transplantatie;thorax transplantatie;thorax transplantatie
+116788004;Transfusion of albumin;Transfusie van albumine;Transfusie van albumine;transfusie van albumine
+229390000;Mobilization of the foot;Mobilisatie van de voet;Mobilisatie van de voet;mobilisatie van de voet
+252461009;Volume plethysmography;Volume plethysmografie;Volume plethysmografie;volume plethysmografie
+14377006;Transplantation of prostatic tissue;Transplantatie van prostaatweefsel;Transplantatie van prostaatweefsel;transplantatie van prostaatweefsel
+103747003;Tocolysis;tocolyse;tocolyse;tocolyse

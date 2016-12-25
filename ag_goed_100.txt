@@ -1,0 +1,89 @@
+169166005;Isotope phlebography;isotopen flebografie;isotopen flebografie;isotopen flebografie
+177934005;Drainage of anterior abdominal wall;Drainage van de voorste buikwand;Drainage van de voorste buikwand;drainage van de voorste buikwand
+233591003;Hemoperfusion;hemoperfusie;hemoperfusie;hemoperfusie
+360354004;Open fine needle aspiration biopsy of liver;Open fijne naald aspiratie biopsie van de lever;Open fijne naald aspiratie biopsie van de lever;open fijne naald aspiratie biopsie van de lever
+31394004;Light therapy;lichttherapie;Lichttherapie;lichttherapie
+386527002;Control of antepartum hemorrhage;Controle van antepartum bloeding;Controle van antepartum bloeding;controle van antepartum bloeding
+416362002;Teriparatide therapy;teriparatide therapie;Teriparatide therapie;teriparatide therapie
+413081008;Clopidogrel prophylaxis;clopidogrel profylaxe;Clopidogrel profylaxe;clopidogrel profylaxe
+395140006;Primary intestinal anastomosis;Primaire intestinale anastomose;Primaire intestinale anastomose;primaire intestinale anastomose
+271996001;Excision of duodenal web;Excisie van duodenale web;Excisie van duodenale web;excisie van duodenale web
+428421004;Intermittent infusion of therapeutic substance;Intermitterende infusie van therapeutische substantie;Intermitterende infusie van therapeutische substantie;intermitterende infusie van therapeutische substantie
+164729009;Tonometry;tonometrie;tonometrie;tonometrie
+116788004;Transfusion of albumin;Transfusie van albumine;Transfusie van albumine;transfusie van albumine
+29174006;Injection of vulva;Injectie van vulva;Injectie van vulva;injectie van vulva
+73702005;Radical resection of thoracic structures;Radicale resectie van thoracale structuren;Radicale resectie van thoracale structuren;radicale resectie van thoracale structuren
+238308004;Intraperitoneal immunotherapy;intraperitoneale immunotherapie;intraperitoneale immunotherapie;intraperitoneale immunotherapie
+119720008;Nose manipulation;neus manipulatie;neus manipulatie;neus manipulatie
+302386007;Simple facelift;eenvoudige facelift;eenvoudige facelift;eenvoudige facelift
+77543007;Ligation of fallopian tube;Ligatie van eileider;Ligatie van eileider;ligatie van eileider
+6188005;Arthrotomy of knee;Arthrotomie van de knie;Arthrotomie van de knie;arthrotomie van de knie
+394838008;Test request;Test verzoek;Test verzoek;test verzoek
+386527002;Control of antepartum hemorrhage;Controle van antepartum bloeding;Controle van antepartum bloeding;controle van antepartum bloeding
+287762004;Reconstruction of urethra;Reconstructie van de urethra;Reconstructie van de urethra;reconstructie van de urethra
+29174006;Injection of vulva;Injectie van vulva;Injectie van vulva;injectie van vulva
+428426009;Notification of physician;Kennisgeving van arts;Kennisgeving van arts;kennisgeving van arts
+119980000;Kidney implantation;nier implantatie;nier implantatie;nier implantatie
+119623002;Shoulder incision;schouder incisie;schouder incisie;schouder incisie
+276983001;Percutaneous embolectomy of arteriovenous fistula;Percutane embolectomie van arterioveneuze fistel;Percutane embolectomie van arterioveneuze fistel;percutane embolectomie van arterioveneuze fistel
+64623003;Immobilization physiotherapy;immobilisatie fysiotherapie;immobilisatie fysiotherapie;immobilisatie fysiotherapie
+6832004;Atherectomy;atherectomie;atherectomie;atherectomie
+274015000;Tympanic membrane operation;Trommelvlies operatie;Trommelvlies operatie;trommelvlies operatie
+30195003;Excision of lesion of cerebral cortex;Excisie van letsel van cerebrale cortex;Excisie van letsel van cerebrale cortex;excisie van letsel van cerebrale cortex
+119903001;Rectum reconstruction;rectum reconstructie;rectum reconstructie;rectum reconstructie
+18649001;Rectal temperature taking;Rectale temperatuur nemen;Rectale temperatuur nemen;rectale temperatuur nemen
+66474000;Intra-arterial infusion of therapeutic substance;Intra - arteri ë le infusie van therapeutische substantie;Intra - arteri ë le infusie van therapeutische substantie;intra - arteri ë le infusie van therapeutische substantie
+260649000;Lumbar microdiscectomy;lumbale microdiscectomie;lumbale microdiscectomie;lumbale microdiscectomie
+115959002;Stereotactic radiosurgery;stereotactische radiochirurgie;stereotactische radiochirurgie;stereotactische radiochirurgie
+81099000;Cervical arthrodesis;cervicale arthrodese;cervicale arthrodese;cervicale arthrodese
+81375008;Physical assessment;lichamelijk onderzoek;lichamelijk onderzoek;lichamelijk onderzoek
+14184009;Manipulation of tissue of mediastinum;Manipulatie van weefsel van mediastinum;Manipulatie van weefsel van mediastinum;manipulatie van weefsel van mediastinum
+276976008;Percutaneous arterial embolectomy;Percutane arteri ë le embolectomie;Percutane arteri ë le embolectomie;percutane arteri ë le embolectomie
+10726005;Extensive excision of nasal polyps;Uitgebreide excisie van neuspoliepen;Uitgebreide excisie van neuspoliepen;uitgebreide excisie van neuspoliepen
+24365002;Percutaneous aspiration of liver;Percutane aspiratie van de lever;Percutane aspiratie van de lever;percutane aspiratie van de lever
+229342007;Mobilization of the elbow;Mobilisatie van de elleboog;Mobilisatie van de elleboog;mobilisatie van de elleboog
+284373003;Examination of upper arm;Onderzoek van de bovenarm;Onderzoek van de bovenarm;onderzoek van de bovenarm
+172782004;Dermabrasion of nose;Dermabrasie van de neus;Dermabrasie van de neus;dermabrasie van de neus
+65666002;Manipulation of stomach;Manipulatie van de maag;Manipulatie van de maag;manipulatie van de maag
+120110004;Eyelid transplantation;ooglid transplantatie;ooglid transplantatie;ooglid transplantatie
+91512002;Diagnostic procedure on breast;Diagnostische procedure op de borst;Diagnostische procedure op de borst;diagnostische procedure op de borst
+233578004;Continuous hemodialysis;continue hemodialyse;continue hemodialyse;continue hemodialyse
+56948003;Tube feeding by drip method;Sondevoeding door drip methode;Sondevoeding door drip methode;sondevoeding door drip methode
+80267006;Duodenoscopy;duodenoscopie;duodenoscopie;duodenoscopie
+68287001;Closed atrial septostomy;Gesloten atriale septostomie;Gesloten atriale septostomie;gesloten atriale septostomie
+391480003;Urine clinitest;urine Clinitest;urine Clinitest;urine clinitest
+61206002;Arthrotomy of spine;Arthrotomie van de wervelkolom;Arthrotomie van de wervelkolom;arthrotomie van de wervelkolom
+278906000;Nutritional support;nutritionele ondersteuning;nutritionele ondersteuning;nutritionele ondersteuning
+119903001;Rectum reconstruction;rectum reconstructie;rectum reconstructie;rectum reconstructie
+45854000;Paracentesis of bladder;Paracentese van de blaas;Paracentese van de blaas;paracentese van de blaas
+169310003;Betatron electron therapy;Betatron elektron therapie;Betatron elektron therapie;betatron elektron therapie
+265597008;Implantation of bulbar urethral prosthesis for incontinence;Implantatie van bulbaire urethra prothese voor incontinentie;Implantatie van bulbaire urethra prothese voor incontinentie;implantatie van bulbaire urethra prothese voor incontinentie
+182781000;Diabetic stabilization;diabetische stabilisatie;diabetische stabilisatie;diabetische stabilisatie
+65406006;D-xylose, urine;D - xylose , urine;D - xylose , urine;d - xylose urine
+252592009;Speech audiometry;spraakaudiometrie;spraakaudiometrie;spraakaudiometrie
+241714002;Reversal of sedation;Omkering van sedatie;Omkering van sedatie;omkering van sedatie
+266716006;Salicylate prophylaxis;salicylaat profylaxe;salicylaat profylaxe;salicylaat profylaxe
+300977003;Open medial meniscectomy;Open mediale meniscectomie;Open mediale meniscectomie;open mediale meniscectomie
+252543003;Indirect calorimetry;indirecte calorimetrie;indirecte calorimetrie;indirecte calorimetrie
+78545003;Tenotomy;tenotomie;tenotomie;tenotomie
+42843004;Laparoscopic adrenalectomy;laparoscopische adrenalectomie;laparoscopische adrenalectomie;laparoscopische adrenalectomie
+183316005;Continuous passive mobilization;Continue passieve mobilisatie;Continue passieve mobilisatie;continue passieve mobilisatie
+302697001;Drainage of skin lesion;Drainage van huidletsel;Drainage van huidletsel;drainage van huidletsel
+133859009;Fixation and immobilization;Fixatie en immobilisatie;Fixatie en immobilisatie;fixatie en immobilisatie
+287502004;Non-surgical eyelid biopsy;Niet - chirurgische ooglid biopsie;Niet - chirurgische ooglid biopsie;niet - chirurgische ooglid biopsie
+39641000;Reconstruction of umbilicus;Reconstructie van de navel;Reconstructie van de navel;reconstructie van de navel
+118627006;Marsupialization;marsupialisatie;marsupialisatie;marsupialisatie
+74735006;Endoscopy of penis;Endoscopie van de penis;Endoscopie van de penis;endoscopie van de penis
+274387006;Diagnostic aspiration of breast;Diagnostische aspiratie van de borst;Diagnostische aspiratie van de borst;diagnostische aspiratie van de borst
+391090001;Urine normetadrenaline/creatinine ratio;Urine normetadrenaline / creatinine ratio;Urine normetadrenaline / creatinine ratio;urine normetadrenaline / creatinine ratio
+307381006;Kuntschner intramedullary fixation;Kuntschner intramedullaire fixatie;Kuntschner intramedullaire fixatie;kuntschner intramedullaire fixatie
+238288000;Aspiration of peritoneal drain;Aspiratie van peritoneale drain;Aspiratie van peritoneale drain;aspiratie van peritoneale drain
+53705008;Endoscopy of testis;Endoscopie van de testis;Endoscopie van de testis;endoscopie van de testis
+69599001;Immunofixation electrophoresis;immunofixatie elektroforese;immunofixatie elektroforese;immunofixatie elektroforese
+360354004;Open fine needle aspiration biopsy of liver;Open fijne naald aspiratie biopsie van de lever;Open fijne naald aspiratie biopsie van de lever;open fijne naald aspiratie biopsie van de lever
+359659005;Echography;echografie;echografie;echografie
+384691004;Intraluminal brachytherapy;intraluminale brachytherapie;intraluminale brachytherapie;intraluminale brachytherapie
+116025006;Biopsy of pleura;Biopsie van pleura;Biopsie van pleura;biopsie van pleura
+275090004;Removal of toenail;Verwijdering van teennagel;Verwijdering van teennagel;verwijdering van teennagel
+228553007;Cognitive therapy;cognitieve therapie;Cognitieve therapie;cognitieve therapie
+363141001;Imaging of neck;Beeldvorming van de hals;Beeldvorming van de hals;beeldvorming van de hals

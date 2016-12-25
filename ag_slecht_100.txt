@@ -1,0 +1,11 @@
+233383008;Femorodistal bypass;Femorodistal bypass;Femorodistal bypass;femorodistal bypass
+392025000;Suprathreshold automated static perimetry;Suprathreshold geautomatiseerde statische perimetrie;Suprathreshold geautomatiseerde statische perimetrie;suprathreshold geautomatiseerde statische perimetrie
+171408004;Medicolegal examination;medicolegal onderzoek;medicolegal onderzoek;medicolegal onderzoek
+235384004;Gracilis sling operation;Gracilis sling operatie;Gracilis sling operatie;gracilis sling operatie
+8645007;Aorta-coronary sinus shunt;Aorta - coronaire sinus shunt;Aorta - coronaire sinus shunt;aorta - coronaire sinus shunt
+41035007;Conjoint psychotherapy;conjoint psychotherapie;conjoint psychotherapie;conjoint psychotherapie
+304341005;Awake intubation;Awake intubatie;Awake intubatie;awake intubatie
+281236004;Construct temporary dental bridge;Construct tijdelijke tandheelkundige brug;Construct tijdelijke tandheelkundige brug;construct tijdelijke tandheelkundige brug
+75480003;Planning audit;planning audit;planning audit;planning audit
+410343006;Lab findings case management;Lab bevindingen case management;Lab bevindingen case management;lab bevindingen case management
+418012007;Fluoroscopic iliopsoas bursography;Fluoroscopische iliopsoas bursography;Fluoroscopische iliopsoas bursography;fluoroscopische iliopsoas bursography

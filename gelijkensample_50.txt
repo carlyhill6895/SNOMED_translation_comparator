@@ -1,0 +1,50 @@
+231734003;Trabeculoplasty;trabeculoplastiek;trabeculoplastiek;trabeculoplastiek
+302386007;Simple facelift;eenvoudige facelift;eenvoudige facelift;eenvoudige facelift
+176716008;Sacrocolpopexy;Sacrocolpopexie;Sacrocolpopexie;sacrocolpopexie
+69599001;Immunofixation electrophoresis;immunofixatie elektroforese;immunofixatie elektroforese;immunofixatie elektroforese
+252808006;Lister perimeter plot;Lister perimeter plot;Lister perimeter plot;lister perimeter plot
+304502009;Biopsy of mouth;Biopsie van de mond;Biopsie van de mond;biopsie van de mond
+281750005;Drainage of infected bursa;Drainage van ge ï nfecteerde bursa;Drainage van ge ï nfecteerde bursa;drainage van ge ï nfecteerde bursa
+27813003;Intra-articular injection;Intra - articulaire injectie;intra - articulaire injectie;intra - articulaire injectie
+277762005;Lumbar puncture;Lumbaalpunctie;Lumbaalpunctie;lumbaalpunctie
+287482004;Non-surgical penis biopsy;Niet - chirurgische penis biopsie;Niet - chirurgische penis biopsie;niet - chirurgische penis biopsie
+119860000;Lip implantation;lip implantatie;lip implantatie;lip implantatie
+176378001;Needle aspiration of urethra;Naald aspiratie van de urethra;Naald aspiratie van de urethra;naald aspiratie van de urethra
+2794006;Cauterization of navel;Cauterisatie van de navel;Cauterisatie van de navel;cauterisatie van de navel
+303272002;Jatene procedure;Jatene procedure;Jatene procedure;jatene procedure
+108055001;Prostate manipulation;prostaat manipulatie;prostaat manipulatie;prostaat manipulatie
+274798009;Examination of retina;Onderzoek van de retina;Onderzoek van de retina;onderzoek van de retina
+274789006;Examination of hand;Onderzoek van de hand;Onderzoek van de hand;onderzoek van de hand
+440054002;Mechanical construction;mechanische constructie;mechanische constructie;mechanische constructie
+428545002;Phototherapy of skin;Fototherapie van de huid;Fototherapie van de huid;fototherapie van de huid
+229388001;Physiological mobilization of the ankle;Fysiologische mobilisatie van de enkel;Fysiologische mobilisatie van de enkel;fysiologische mobilisatie van de enkel
+386562007;Fetal cranioclasis;foetale cranioclasis;foetale cranioclasis;foetale cranioclasis
+232704006;Tracheobronchial lavage;tracheobronchiale lavage;tracheobronchiale lavage;tracheobronchiale lavage
+414468001;Immunosorbent method;immunosorbent methode;Immunosorbent methode;immunosorbent methode
+70183006;Subcutaneous mastectomy;subcutane mastectomie;subcutane mastectomie;subcutane mastectomie
+80486001;Arthrotomy with open meniscus repair;Arthrotomie met open meniscusherstel;Arthrotomie met open meniscusherstel;arthrotomie met open meniscusherstel
+117259009;Microscopy;Microscopie;Microscopie;microscopie
+108101003;Obstetrics incision;verloskunde incisie;verloskunde incisie;verloskunde incisie
+59421006;Nasoenteric tube aspiration;Maagsonde aspiratie;Maagsonde aspiratie;maagsonde aspiratie
+176028006;Uretero-ureterostomy;Uretero - ureterostomie;Uretero - ureterostomie;uretero - ureterostomie
+71254006;Venography of adrenal;Venografie van de bijnier;Venografie van de bijnier;venografie van de bijnier
+42987007;Vestibular function test;Vestibulaire functietest;Vestibulaire functietest;vestibulaire functietest
+307581005;Laparoscopic interval appendicectomy;Laparoscopische interval appendectomie;Laparoscopische interval appendectomie;laparoscopische interval appendectomie
+74909004;Harvesting of ligament;Oogsten van ligament;Oogsten van ligament;oogsten van ligament
+76601001;Intramuscular injection;intramusculaire injectie;Intramusculaire injectie .;intramusculaire injectie
+274327009;Non-surgical testis biopsy;Niet - chirurgische testis biopsie;Niet - chirurgische testis biopsie;niet - chirurgische testis biopsie
+105375001;Hand-held-transducer ultrasonography;Hand - held - transducer echografie;Hand - held - transducer echografie;hand - held - transducer echografie
+238308004;Intraperitoneal immunotherapy;intraperitoneale immunotherapie;intraperitoneale immunotherapie;intraperitoneale immunotherapie
+13385008;Mediate auscultation;bemiddelen auscultatie;bemiddelen auscultatie;bemiddelen auscultatie
+65378009;Delayed repair of episiotomy;Vertraagd herstel van episiotomie;Vertraagd herstel van episiotomie;vertraagd herstel van episiotomie
+39868003;Inspection of mouth;Inspectie van de mond;Inspectie van de mond;inspectie van de mond
+234267002;Excision of femoral lymph node;Excisie van femorale lymfeklier;Excisie van femorale lymfeklier;excisie van femorale lymfeklier
+704040006;Open rhinoseptoplasty;Open rhinoseptoplasty;Open rhinoseptoplasty;open rhinoseptoplasty
+237172007;Turco operation;turco operatie;turco operatie;turco operatie
+183339004;Educational rehabilitation;educatieve revalidatie;educatieve revalidatie;educatieve revalidatie
+66975008;Excision of lesion of urethra;Excisie van letsel van urethra;Excisie van letsel van urethra;excisie van letsel van urethra
+72577009;Excision of nipple;Excisie van tepel;Excisie van tepel;excisie van tepel
+53213008;Restoration, silicate;Restauratie , silicaat;Restauratie , silicaat;restauratie , silicaat
+252749002;Magnetic stimulation of peripheral nerves;Magnetische stimulatie van perifere zenuwen;Magnetische stimulatie van perifere zenuwen;magnetische stimulatie van perifere zenuwen
+279102009;Pain rehabilitation;pijn revalidatie;pijn revalidatie;pijn revalidatie
+32432000;Uterocentesis;Uterocentesis;Uterocentesis;uterocentesis

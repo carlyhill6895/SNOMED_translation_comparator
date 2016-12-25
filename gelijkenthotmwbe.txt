@@ -1,0 +1,992 @@
+﻿conceptId;Beschrijving;conceptId;Beschrijving thotmw
+388008;blefaroraphie;388008;blefarorafie
+628003;steinman test;628003;steinman test
+673005;indirecte laryngoscopie;673005;indirecte laryngoscopie
+754000;totale urethrectomie;754000;totale urethrectomie
+881009;cyclodialyse;881009;cyclodialyse
+1029002;foetoscopie;1029002;foetoscopie
+1651009;excisie van de peesschede;1651009;excisie van de peesschede
+1924009;hepaticotomie met drainage;1924009;hepaticotomie met drainage
+2250001;resectie van aorta ascendens met anastomose;2250001;resectie van aorta ascendens met anastomose
+2745006;omentopexie;2745006;omentopexie
+2752008;incudopexie;2752008;incudopexy
+3664004;herstel van sclerale fistel;3664004;herstel van sclera fistel
+3889008;hechten van de lip;3889008;hechting van de lip
+3942005;cystopexie;3942005;cystopexie
+3968003;facetectomie van wervel;3968003;facetectomy van wervel
+4119008;intracraniale flebectomie met anastomosis;4119008;intracraniale flebectomie met anastomose
+4344007;cryopexie;4344007;cryopexie
+4570007;chemopallidectomie;4570007;chemopallidectomy
+4758006;incudostapediopexie;4758006;incudostapediopexy
+4891005;proctostomie;4891005;proctostomie
+5057003;radicale orbitomaxillectomie;5057003;radicale orbitomaxillectomy
+5119000;epiglottidectomy;5119000;epiglottidectomie
+5233006;laterale fasciotomie;5233006;laterale fasciotomie
+5447007;transfusie;5447007;transfusie
+5721002;herstel wenkbrauw;5721002;herstel wenkbrauwen
+5771004;blefarotomie;5771004;blefarotomie
+6025007;laparoscopische appendectomie;6025007;laparoscopische appendicectomie
+6190006;colopexie;6190006;colopexy
+6221005;hechten van het colon;6221005;hechting van het colon
+6337001;ligatuur van aortaboog;6337001;ligatuur van aortaboog
+6776002;auriculair aneurysmectomie;6776002;auricularis aneurysmectomie
+6976007;craniocervicale fusie;6976007;craniocervical fusie
+7017002;ligatuur van vena jugularis interna;7017002;ligatuur van vena jugularis interna
+7534000;herstel perineourethroscrotale fistel;7534000;herstel perineourethroscrotal fistel
+8403000;herstel van nasofaryngeale fistel;8403000;herstel van nasofaryngeale fistel
+8782006;radicale perineale prostatectomie;8782006;radicale perineale prostatectomie
+8803008;iridosclerotomie;8803008;iridosclerotomie
+9215005;colotomie;9215005;colotomy
+9238008;hechten van de maag;9238008;hechting van de maag
+9373007;strippen van de stembanden;9373007;stripping van de stembanden
+9429009;gastroplastie;9429009;gastroplastiek
+9497004;verwijderen van laminaria van uterus;9497004;verwijdering van laminaria van uterus
+9524002;totale pancreatectomie;9524002;totale pancreatectomie
+10259007;rectopexie;10259007;rectopexie
+10281002;scalenectomie;10281002;scalenectomy
+11295006;angiografie van arteria brachialis;11295006;angiografie van arteria brachialis
+11343000;anusscopie met biopsie;11343000;anoscopie met biopsie
+11466000;keizersnede;11466000;keizersnede
+11954004;leverherstel;11954004;leverherstel
+12666009;cholecystocolostomie;12666009;cholecystocolostomy
+12672009;proctolysis;12672009;proctolysis
+12744005;perineale urethroscopie;12744005;perineale urethroscopie
+12865005;thoracale aneurysmectomie;12865005;thoracale aneurysmectomie
+13419005;embolisatie van abdominale arterie;13419005;embolisatie van abdominale arterie
+13490005;conchotomie;13490005;conchotomy
+13619001;thyro ï dectomie;13619001;thyro ï dectomie
+13666002;leucotomie;13666002;leukotomie
+13685004;pharyngostomie;13685004;faryngostomie
+13714004;arthroscopie;13714004;artroscopie
+13852005;transabdominale gastroscopie;13852005;transabdominal gastroscopie
+14059008;pelviene lymfadenectomie;14059008;pelviene lymfadenectomie
+14072009;totale oesofagectomie;14072009;totale oesofagectomie
+14152002;intraveneuse infusie;14152002;intraveneuze infusie
+14404001;thymopexie;14404001;thymopexy
+14687003;choledocho - enterostomie;14687003;choledocho - enterostomie
+14857006;mediale fasciotomie;14857006;medialis fasciotomie
+15050001;laparoscopische leverbiopsie;15050001;laparoscopische leverbiopsie
+15067008;nefropexie;15067008;nefropexie
+15440009;desarticulatie;15440009;disarticulatie
+16029001;oesofagoscopie via kunstmatig stoma;16029001;oesofagoscopie via kunstmatige stoma
+16226000;laparoscopische sterilisatie;16226000;laparoscopische sterilisatie
+16589005;femorale endarteri ë ctomie;16589005;femoralis endarteri ë ctomie
+17200002;ventriculaire shunt naar nasofarynx;17200002;ventriculaire shunt van nasofarynx
+17203000;totale hepatectomie;17203000;totale hepatectomie
+17238003;rechter ventriculaire resectie voor infundibulaire stenose met commissurotomie;17238003;rechter ventriculaire resectie voor infundibulaire stenose met commissurotomie
+17254000;hepaticolithotomie;17254000;hepaticolithotomie
+17423001;epifysiodese;17423001;epifysiodese
+17606004;sclerectomie;17606004;sclerectomy
+18027006;levertransplantatie;18027006;levertransplantatie
+18044005;tracheoscopie;18044005;tracheoscopie
+19060000;cauterisatie van de stembanden;19060000;cauterisatie van de stembanden
+19095002;ligatuur van bronchus;19095002;ligatuur van bronchus
+19149007;subtotale retropubische prostatectomie;19149007;subtotale retropubische prostatectomie
+19578002;artrodese;19578002;artrodese
+19606007;endarterectomie van aortaboog;19606007;endarterectomie van aortaboog
+20330006;diverticulopexie hypofarynx;20330006;diverticulopexie hypofarynx
+20534003;aortopopliteale bypass;20534003;aortopopliteal bypass
+20630000;laparoscopische cholecystectomie met cholangiografie;20630000;laparoscopische cholecystectomie met cholangiografie
+21123000;iridosclerectomie;21123000;iridosclerectomy
+21397001;vaginale spoeling;21397001;vaginale spoeling
+21596009;herstel van uveale hernia;21596009;herstel van uvea hernia
+21619009;permanente tracheostomie;21619009;permanente tracheostoma
+21689000;endoscopie van bijnier;21689000;endoscopie van bijnier
+21796007;directe laryngoscopie met dilatatie;21796007;directe laryngoscopie met dilatatie
+21922009;symphysiotomie;21922009;symphysiotomie
+22094003;lineaire proctotomie;22094003;lineaire proctotomie
+22491003;fimbrioplastie;22491003;fimbrioplastiek
+22510001;osteotomie van femurhals;22510001;osteotomie van femurhals
+22523008;vasectomie;22523008;vasectomie
+22737002;blefarectomie;22737002;blefarectomie
+22781005;anale cerclage;22781005;anale cerclage
+23797008;oesofagojejunostomie;23797008;oesofagojejunostomie
+23805000;curretage ooglid;23805000;curettage ooglid
+23928003;costochondrectomie;23928003;costochondrectomy
+23968004;colectomie;23968004;colectomie
+23984003;plicatie van vena cava inferior;23984003;plication van vena cava inferior
+24026006;intra - abdominale veneuze shunt;24026006;intra - abdominale veneuze shunt
+24139008;cystoscopie;24139008;cystoscopie
+24298005;brachioplastie;24298005;brachioplasty
+24312009;herstel laceratie van de grote vaten;24312009;herstel laceratie van de grote vaten
+24506003;oesofagogastrectomie;24506003;oesofagogastrectomie
+25353009;craniotomie;25353009;craniotomie
+25679005;cardiolysis;25679005;cardiolyse
+26294005;radicale prostatectomie;26294005;radicale prostatectomie
+26337002;exploratieve thoracotomie;26337002;exploratieve thoracotomie
+26390003;totale colectomie;26390003;totale colectomie
+26392006;Urethrovaginale fixatie;26392006;urethrovaginale fixatie
+26400009;labyrinthotomie , transtympanaal;26400009;labyrinthotomy , transtympanaal
+26452005;totale gastrectomie;26452005;totale gastrectomie
+26993008;abdominale eosofagostomie;26993008;abdominale oesofagostomie
+27056009;colorectostomie;27056009;colorectostomie
+27227004;excisie van aorta descendens;27227004;excisie van aorta descendens
+27779004;sternotomie;27779004;sternotomie
+27985001;cervicale sympathectomie;27985001;cervicale sympathectomie
+28178002;hepatopexie;28178002;hepatopexie
+28264008;amygdalotomie;28264008;amygdolotomie
+28537006;decompressie van inwendige gehoorgang;28537006;decompressie van inwendige gehoorgang
+28644007;vaginale enterocolectomie;28644007;vaginale enterocelectomy
+28725006;trachelopexie;28725006;trachelopexy
+28760000;laryngoscopie;28760000;laryngoscopie
+28903008;percutane angioscopie;28903008;percutane angioscopie
+29216007;talectomie;29216007;talectomy
+29347003;herstel tunica vaginalis;29347003;herstel tunica vaginalis
+29453004;jejunotomie;29453004;jejunotomy
+29477005;herstel van fractuur met sequestrectomie;29477005;herstel van fractuur met sequestrectomie
+29532006;proctoscopie met biopsie;29532006;proctoscopie met biopsie
+29799003;condylotomie;29799003;condylotomie
+30398006;renale calicotomie;30398006;renale calicotomy
+30574003;dilatatie van frontonasale ductus;30574003;dilatatie van frontonasal ductus
+30583008;cauterisatie van de urethra;30583008;cauterisatie van de urethra
+30940008;hechten van de anus;30940008;hechting van de anus
+31118007;intracraniale flebectomie;31118007;intracraniale flebectomie
+31489003;drainage van binnenoor;31489003;drainage van binnenoor
+31793008;embolisatie van aorta;31793008;embolisatie van aorta
+31904001;adrenalectomie;31904001;adrenalectomie
+32238004;empyemectomie;32238004;empyemectomy
+32432000;uterocentesis;32432000;uterocentesis
+32495000;cranioplastie;32495000;cranioplastiek
+32607009;reductie van gesloten sesamoid fractuur;32607009;reductie van gesloten sesamoid fractuur
+32750006;inspectie;32750006;inspectie
+33099007;incudectomie;33099007;incudectomy
+33149006;pancreatectomie;33149006;pancreatectomie
+33759004;hechten van het caecum;33759004;hechting van het caecum
+33899008;drainage van milt door marsupialisatie;33899008;drainage van milt door marsupialisatie
+34130000;cholecystocecostomie;34130000;cholecystocecostomy
+35152000;prostatolithotomie;35152000;prostatolithotomie
+35227009;spinale salpingothecale shunt met klep;35227009;spinale salpingothecal shunt met klep
+35241000;cholecystostomie;35241000;cholecystostomie
+35411000;tractotomie;35411000;tractotomie
+36253005;suprapubische prostatectomie;36253005;suprapubische prostatectomie
+36412004;manipulatie van thymus;36412004;manipulatie van thymus
+36511008;Injectie in binnenoor;36511008;injectie naar binnenoor
+36673005;intradermale injectie;36673005;intradermale injectie
+36812006;iridectomie;36812006;iridectomie
+36889006;gastropexie;36889006;gastropexie
+36895007;exploratie orbita;36895007;exploratie orbita
+36946006;epididymectomie;36946006;epididymectomie
+37182005;corneosclerale hechting;37182005;corneoscleral hechting
+37460009;extensieve clitoridectomie;37460009;extensive clitoridectomie
+37572001;endorectale resectie;37572001;endorectal resectie
+37867003;herstel atrioventriculair kanaal defect met prothese;37867003;herstel atrioventriculair kanaal defect met prothese
+38102005;cholecystectomie;38102005;cholecystectomie
+38375002;sinusotomie , multipel;38375002;sinusotomie multipele
+38447000;clipping vena cava inferior , partieel;38447000;clipping vena cava inferior partieel
+38502004;intracraniale aneurysmectomie met anastomosis;38502004;intracraniale aneurysmectomie met anastomose
+38507005;cholecystopexie;38507005;cholecystopexie
+38512006;resectie van cerebrale meningen;38512006;resectie van cerebrale meningen
+38546007;cardiocentese;38546007;cardiocentesis
+39083009;thoracale oesofagostomie;39083009;thoracale oesofagostomie
+39309004;hemilaryngectomie;39309004;hemilaryngectomie
+39645009;jerk test;39645009;jerk test
+40151007;aponeurectomie;40151007;aponeurectomie
+40297002;hallux valgus correctie met sesamoidectomie;40297002;hallux valgus correctie met sesamoidectomy
+40345006;retinaculotomie;40345006;retinaculotomy
+40380005;herstel urethroscrotale fistel;40380005;herstel urethroscrotale fistel
+40583006;resectie van trachea;40583006;resectie van trachea
+40708002;pupillotomie;40708002;pupillotomy
+40826009;ileoscopie;40826009;ileoscopie
+40833009;keratectomie;40833009;keratectomie
+40995000;pancreaticocystojejunostomie;40995000;pancreaticocystojejunostomy
+41360004;nasotracheale aspiratie;41360004;nasotracheale aspiratie
+41371003;perineale prostatectomie;41371003;perineale prostatectomie
+41424008;detorsie nier;41424008;detorsion nier
+42213007;nasale chondrotomie;42213007;neus chondrotomie
+42238002;proctoscopie;42238002;proctoscopie
+42550007;katheterisatie van vena umbilicalis;42550007;katheterisatie van vena umbilicalis
+42582005;herstel atrioventriculair kanaal defect;42582005;herstel atrioventriculair kanaal defect
+42837001;excisie van aortaboog;42837001;excisie van aortaboog
+42843004;laparoscopische adrenalectomie;42843004;laparoscopische adrenalectomie
+43060002;intraveneuse injectie;43060002;intraveneuze injectie
+43315009;adductie test;43315009;adductie test
+43450002;totale thymectomie;43450002;totale thymectomie
+44246002;endoscopie van vene;44246002;endoscopie van vene
+44307002;hysterolyse;44307002;hysterolyse
+44364007;duimamputatie;44364007;duimamputatie
+44850001;presacrale sympathectomie;44850001;presacrale sympathectomie
+44972003;laryngoscopie via stomie;44972003;laryngoscopie via stoma
+45334006;mediastinoscopie met biopsie;45334006;mediastinoscopie met biopsie
+45595009;laparoscopische cholecystectomie;45595009;laparoscopische cholecystectomie
+45842000;herstel van retroperitoneaal weefsel;45842000;herstel van retroperitoneale weefsel
+45919008;excisie van secundair membraan;45919008;excisie van secundaire membraan
+46082001;laterale orbitotomie;46082001;laterale orbitotomie
+46309001;extractie van primair membraneus cataract door excisie;46309001;extractie van primair membraneuze cataract door excisie
+46816007;intracraniale aneurysmectomie;46816007;intracraniale aneurysmectomie
+47020004;ventriculoperitoneale shunt;47020004;ventriculoperitoneale shunt
+47302001;ileostomie;47302001;ileotomie
+47909001;vestibulotomie;47909001;vestibulotomie
+48268004;gesloten atriale septectomie;48268004;gesloten atriale septectomie
+48507008;iridesis;48507008;iridesis
+48640007;plicatie van fascia;48640007;plication van fascia
+49187005;endarterectomie van aorta;49187005;endarterectomie van aorta
+49230008;oesofagoscopie;49230008;oesofagoscopie
+49372007;ureterotomie met drainage;49372007;ureterotomie met drainage
+49438003;appendectomie met drainage;49438003;appendectomie met drainage
+49780003;heminefrectomie;49780003;heminefrectomie
+49795001;pneumonectomie;49795001;pneumonectomie
+49795001;pneumonectomie;49795001;pneumonectomie
+49834007;coccygotomie;49834007;coccygotomy
+49924002;perineale colostomie;49924002;perineale colostomie
+49934006;verlenging van fascia;49934006;verlenging van fascia
+49945009;verlengen van spier;49945009;verlenging van spier
+49994009;splanchnotomie;49994009;splanchnicotomie
+50012009;caecopexie;50012009;caecopexie
+50489001;herstel telecanthus;50489001;herstel telecanthus
+50871007;intraluminale hysterolyse;50871007;intraluminal hysterolyse
+50984002;reductie van gesloten talotarsale luxatie;50984002;reductie van gesloten talotarsal luxatie
+51410004;sequestrectomie;51410004;sequestrectomie
+51683002;radiale keratotomie;51683002;radiale keratomie
+51933005;bilaterale epididymectomie;51933005;bilateraal epididymectomie
+51968005;sesamoidectomie;51968005;sesamoidectomy
+52318007;corneasclerale trepanatie;52318007;corneoscleral trepanatie
+52889002;endocervicale curettage;52889002;endocervicale curettage
+53251008;incudectomie met stapedectomie;53251008;incudectomy met stapedectomie
+53442002;gastrectomie;53442002;gastrectomie
+53613004;thoacolumbale sympathectomie;53613004;thoracolumbale sympathectomie
+54033009;cystourethroplastie;54033009;cystourethroplasty
+54057009;layngotracheobronchoscopie;54057009;laryngotracheobronchoscopie
+54460006;chemonucleolysis;54460006;chemonucleolyse
+54636000;cardiomyopexie;54636000;cardiomyopexy
+54956002;gastrostomie;54956002;gastrostomie
+55531006;urethrostomie;55531006;urethrostomie
+56023004;nasale septotomie;56023004;neus septotomie
+56162006;sequestrectomie van tibia en fibula;56162006;sequestrectomie van tibia en fibula
+56520006;exicise van cardioma;56520006;excisie van cardioma
+56807000;ureterolithotomie;56807000;ureterolithotomie
+57071006;sympathectomie;57071006;sympathectomie
+57152006;herstel van hallux valgus;57152006;herstel van hallux valgus
+57245002;pylorostomie;57245002;pylorostomie
+57271003;extraperitoneale keizersnede;57271003;extraperitoneale keizersnede
+57276008;excisie van perirectaal weefsel;57276008;excisie van pelvirectaal weefsel
+57525009;subtotale perineale prostatectomie;57525009;subtotale perineale prostatectomie
+57551006;iridoasis;57551006;iridotasis
+57598003;ventriculaire shunt naar beenmerg;57598003;ventriculaire shunt van beenmerg
+57874002;abdominale flebectomie;57874002;abdominale flebectomie
+57900006;costotransversectomie;57900006;costotransversectomie
+57922004;laparoscopische pyloromyotomie;57922004;laparoscopische pyloromyotomie
+58090001;pancreaticocystoenterostomie;58090001;pancreaticocystoenterostomy
+58380004;pericardiostomie;58380004;pericardiostomie
+58515002;cryoleucotomie;58515002;cryoleucotomy
+58889009;laserpexie;58889009;laserpexy
+59077004;canthotomie;59077004;canthotomie
+59601001;dermabrasie aangezicht;59601001;dermabrasie aangezicht
+60041003;laryngofaryngectomie;60041003;laryngofaryngectomie
+60177007;mechanische vitrectomie;60177007;mechanische vitrectomie
+60362005;hechten van het sigmo ï d;60362005;hechting van het sigmo ï d
+60463004;salpingostomie;60463004;salpingostomie
+60465006;permanente gastrostomie;60465006;permanente gastrostomie
+60761001;Endoscopie van aorta;60761001;endoscopie van aorta
+60953002;laterale canthopexie;60953002;laterale canthopexy
+61404002;o ö phoropexie;61404002;o ö foropexie
+61702004;herstel van vulva;61702004;herstel van vulva
+61854000;gewrichtsstabilisatie;61854000;gewrichtsstabilisatie
+61916001;injectie in beenmerg;61916001;injectie naar beenmerg
+62409009;foraminotomie;62409009;foraminotomie
+62471006;diepe axillaire lymfadenectomie;62471006;diepe axillaire lymfadenectomie
+62553002;herstel blefarophimosis;62553002;herstel blepharophimosis
+62843007;manipulatie van long;62843007;manipulatie van long
+63469004;obstetrische cephalometrie;63469004;obstetrische cefalometrie
+63523001;peritomie;63523001;peritomie
+63633003;open ureterale meatotomie;63633003;open ureterale meatotomie
+63697000;cardiopulmonaire bypass;63697000;cardiopulmonale bypass
+63933000;ventriculostomie;63933000;ventriculostomie
+64063003;radicale cystectomie;64063003;radicale cystectomie
+64356005;hemimandibulectomie;64356005;hemimandibulectomie
+64608008;excisie van aorta ascendens;64608008;excisie van aorta ascendens
+64656002;ventriculomyocardiotomie;64656002;ventriculomyocardiotomy
+65310005;vagotomie;65310005;vagotomie
+65468005;hemilaminectomie voor decompressie en exploratie;65468005;hemilaminectomie voor decompressie en exploratie
+65756000;vaginectomie;65756000;vaginectomie
+66072009;laryngostomie;66072009;laryngostomie
+66165006;trendelenburg test;66165006;trendelenburg test
+66478002;totale laryngectomie;66478002;totale laryngectomie
+66542005;zonulolyse met lensextractie;66542005;zonulolysis met lensextractie
+66605009;cardiopneumopexie;66605009;cardiopneumopexy
+67166004;aortocoronaire bypass;67166004;aortocoronaire bypass
+67212000;ileocystoplastie;67212000;ileocystoplasty
+67520002;proctoscopie via stoma;67520002;proctoscopie via stoma
+67598001;retropubische prostatectomie;67598001;retropubische prostatectomie
+68011001;clitoridotomie;68011001;clitoridotomy
+68287001;gesloten atriale septostomie;68287001;gesloten atriale septostomie
+68431006;transplantatie van trachea;68431006;transplantaat van trachea
+68431006;transplantatie van trachea;68431006;transplantaat van trachea
+68911004;duodenojejunostomie;68911004;duodenojejunostomie
+69130005;stapedectomie;69130005;stapedectomie
+69179002;percutane arteri ë le cutdown;69179002;percutane arteri ë le cutdown
+69446009;skelettractie;69446009;skelettractie
+69539003;directe laryngoscopie met strippen van de stembanden;69539003;directe laryngoscopie met stripping van de stembanden
+70243005;coloproctostomie;70243005;colorectostomie
+70536003;niertransplantatie;70536003;niertransplantaat
+71145001;hechten van de slokdarm;71145001;hechting van de slokdarm
+71861002;implantatie;71861002;implantatie
+72109001;herstel van bronchus;72109001;herstel van bronchus
+72193009;cardiosplenopexie;72193009;cardiosplenopexy
+72310004;circumcisio;72310004;circumcisie
+72411001;dacryoadenectomie;72411001;dacryoadenectomie
+72710001;scleroplastiek;72710001;scleroplastiek
+72757000;hymenectomie;72757000;hymenectomie
+72791001;laryngectomie;72791001;laryngectomie
+72910005;lumbale sympathectomie;72910005;lumbale sympathectomie
+73164003;neurorafie;73164003;neurorafie
+73499009;atticotomie;73499009;atticotomie
+73759005;duodenectomie;73759005;duodenectomie
+73761001;coloscopie;73761001;coloscopie
+74688006;canthoplastie;74688006;canthoplastiek
+74854002;cauterisatie van de anus;74854002;cauterisatie van de anus
+74878007;bronchotracheale anastomose;74878007;bronchotracheal anastomose
+75108001;hechten van het rectum;75108001;hechting van het rectum
+75176001;tympanectomie;75176001;tympanectomie
+75732000;vitrectomie;75732000;vitrectomie
+76077004;totale pancreatectomie met transplantatie;76077004;totale pancreatectomie met transplantatie
+76517002;otoscopie;76517002;otoscopie
+76808009;spierhechting;76808009;spierhechting
+76949005;gonioscopie;76949005;gonioscopie
+77100009;pyeloplastie;77100009;pyeloplastiek
+77474007;acromioplastie;77474007;acromioplastiek
+77665000;ventrohysteropexie;77665000;ventrohysteropexy
+78121007;directe laryngoscopie;78121007;directe laryngoscopie
+78285005;pleuropexie;78285005;pleuropexy
+78315000;faryngotomie;78315000;faryngotomie
+78384007;omentectomie;78384007;omentectomie
+78432000;intraveneuze anesthesie;78432000;intraveneuze anesthesie
+78566006;obstetische implantatie;78566006;obstetrische implantatie
+78800009;colpohysterotomie;78800009;colpohysterotomy
+79170004;ileoduodenotomie;79170004;ileoduodenotomy
+79824009;hechten van de clitoris;79824009;hechting van de clitoris
+80117009;perinasale sinusotomie;80117009;perinasal sinusotomie
+80146002;appendectomie;80146002;appendicectomie
+80250004;intranasale biopsie;80250004;intranasal biopsie
+80267006;duodenoscopie;80267006;duodenoscopie
+80496005;totale mandibulectomie met reconstructie;80496005;totale mandibulectomie met reconstructie
+81070005;bronchoscopie via tracheostomie met longbiopsie;81070005;bronchoscopie via tracheostomie met longbiopsie
+81232004;radicale cystoprostatectomie;81232004;radicale cystoprostatectomie
+81516001;parti ë le nefrectomie;81516001;parti ë le nefrectomie
+81561002;hechten van het omentum;81561002;hechting van het omentum
+81849003;pallidoansotomie;81849003;pallidoansotomy
+81870009;parotidectomie;81870009;parotidectomie
+82087005;urethrapexie;82087005;uretropexie
+82736000;trabeculotomie;82736000;trabeculotomy
+82918005;PET;82918005;pet
+83000000;manipulatie van ovarium;83000000;manipulatie van ovarium
+83019005;cricopharyngeale myotomie;83019005;cricofaryngeale myotomie
+83613005;cardiopericardiopexie;83613005;cardiopericardiopexy
+83809000;renale calicectomie;83809000;renale calicectomy
+83868006;iridocapsulectomie;83868006;iridocapsulectomy
+84275009;obstetrische hysterotomie;84275009;obstetrische hysterotomie
+84303004;neurolyse;84303004;neurolyse
+84354004;herstel van tracheo - oesofagale fistel;84354004;herstel van tracheo - oesofageale fistel
+84472009;bounce home test;84472009;bounce home test
+84510006;tijdelijke gastrostomie;84510006;tijdelijke gastrostomie
+84552001;resectie van aortaboog met anastomose;84552001;resectie van aortaboog met anastomose
+84938007;herstel ischiorectale hernia;84938007;herstel ischiorectale hernia
+85124008;hemiglossectomie;85124008;hemiglossectomie
+85419002;orchidopexie;85419002;orchidopexie
+85472003;mesenteropexie;85472003;mesenteriopexy
+85543002;plicatie van vena cava superior;85543002;plication van vena cava superior
+85548006;episiotomie;85548006;episiotomie
+86112008;bronchoplastie;86112008;bronchoplastiek
+86273004;biopsie;86273004;biopsie
+86369000;hepatotomie met drainage;86369000;hepatotomie met drainage
+86481000;laparotomie;86481000;laparotomie
+86868001;aortoiliofemorale bypass;86868001;aortoiliofemoral bypass
+86974000;ischiopubiotomie;86974000;ischiopubiotomy
+87022008;Fistelherstel vulva;87022008;fistelherstel vulva
+87030009;transurethrale fulguratie prostaat;87030009;transurethrale fulguratie prostaat
+87030009;transurethrale fulguratie prostaat;87030009;transurethrale fulguratie prostaat
+87060004;palliodotomie;87060004;pallidotomie
+87192001;pallidectomie;87192001;pallidectomie
+88039007;longtransplantatie;88039007;longtransplantaat
+88450001;embolisatie van arterie van hoofd;88450001;embolisatie van arterie van hoofd
+88517004;incisie van de mondbodem;88517004;incisie van de mondbodem
+88632002;splenopexie;88632002;splenopexy
+88849006;oesofago - oesofagostomie;88849006;oesofago - oesofagostomie
+88849006;oesofago - oesofagostomie;88849006;oesofago - oesofagostomie
+88904009;herstel epicanthus;88904009;herstel epicanthus
+88908007;rectale massage voor levatoren spasme;88908007;rectale massage voor levator spasme
+88916003;anusscopie;88916003;anoscopie
+89053004;vaginale keizersnede;89053004;vaginale keizersnede
+89079008;venotripsie;89079008;venotripsy
+89441008;jejuno - colostomie voor obesitas;89441008;jejuno - colostomie voor obesitas
+89770003;anale sfincterotomie;89770003;anale sfincterotomie
+89862001;herstel van long;89862001;herstel van long
+89915007;malleostapediopexie;89915007;malleostapediopexy
+90021002;oesofagoduodenostomie;90021002;oesofagoduodenostomie
+90090007;anastomose van ductus pancreaticus;90090007;anastomose van ductus pancreaticus
+90131007;arthrocentese;90131007;artrocentese
+90164007;trabeculodialyse;90164007;trabeculodialysis
+90249002;pneumocentese;90249002;pneumocentese
+90470006;prostatectomie;90470006;prostatectomie
+91625001;selectieve vagotomie;91625001;selectieve vagotomie
+103723005;angioscopie;103723005;angioscopie
+107820002;tracheobronchiale excisie;107820002;tracheobronchiale excisie
+108028005;ureterectomie;108028005;ureterectomie
+108034003;cystectomie;108034003;cystectomie
+112719001;xiphoidectomie;112719001;xiphoidectomy
+112737000;biopsie van radius en ulna;112737000;biopsie van radius en ulna
+112762000;open iliotibiale fasciotomie;112762000;open iliotibial fasciotomie
+112763005;osteotomie van tibia en fibula;112763005;osteotomie van tibia en fibula
+112798008;endotracheale intubatie;112798008;endotracheale intubatie
+112803004;aneurysmectomie;112803004;aneurysmectomie
+112825005;intracraniale arteri ë ctomie met anastomose;112825005;intracraniale arteri ë ctomie met anastomose
+112831008;anastomoses van venen;112831008;anastomose van venen
+112884007;cholecystoduodenostomie;112884007;cholecystoduodenostomy
+112902005;parti ë le cystectomie;112902005;parti ë le cystectomie
+112963003;aspiratie van cataract;112963003;aspiratie van cataract
+112980004;herstel van omentum hernia;112980004;herstel van omentum hernia
+115959002;stereotactische radiochirurgie;115959002;stereotactische radiochirurgie
+116140006;totale hysterectomie;116140006;totale hysterectomie
+116141005;abdominale hysterectomie;116141005;abdominale hysterectomie
+116142003;radicale hysterectomie;116142003;radicale hysterectomie
+118292001;verwijderen;118292001;verwijdering
+118457006;gesloten subcutane tenotomie;118457006;gesloten subcutaan tenotomie
+118458001;open subcutane tenotomie;118458001;open subcutaan tenotomie
+118487000;arthroplastiek van teen;118487000;artroplastiek van teen
+119283008;open biopsie;119283008;open biopsie
+119644002;schouder manipulatie;119644002;schouder manipulatie
+119713001;nasofarynx reconstructie;119713001;nasofarynx reconstructie
+119801003;abdominale arterie implantatie;119801003;abdominale arteria implantatie
+119803000;abdominale arterie injectie;119803000;abdominale arteria injectie
+119824005;pericard reconstructie;119824005;pericard reconstructie
+119860000;lip implantatie;119860000;lip implantatie
+119864009;mond reconstructie;119864009;mond reconstructie
+119903001;rectum reconstructie;119903001;rectum reconstructie
+119912004;lever implantatie;119912004;lever implantatie
+119914003;lever reconstructie;119914003;lever reconstructie
+119915002;galweg incisie;119915002;galweg incisie
+119937009;pancreas reconstructie;119937009;pancreas reconstructie
+119954001;adenectomie;119954001;adenectomie
+119966007;beenmerg excisie;119966007;beenmerg excisie
+119968008;beenmerg implantatie;119968008;beenmerg implantatie
+120008004;testis reconstructie;120008004;testis reconstructie
+120024003;scrotum reconstructie;120024003;scrotum reconstructie
+122479006;chondrectomie;122479006;chondrectomie
+125674004;scapula excisie;125674004;scapula excisie
+125883007;hemipatellectomie;125883007;hemipatellectomy
+128401003;anastomose van duodenum;128401003;anastomose van duodenum
+164721007;zenuwgeleidingsonderzoek;164721007;zenuwgeleidingsonderzoeken
+171754009;syringostomie;171754009;syringostomie
+171884008;cervicale chemische sympathectomie;171884008;cervicale chemische sympathectomie
+171964005;excisie van de epifyse;171964005;excisie van de epifyse
+172011006;transsternale thymectomie;172011006;transsternal thymectomie
+172018000;exploratie van thymus;172018000;exploratie van thymus
+172207008;mediale canthopexie;172207008;mediale canthopexy
+172237004;hertsel trichiasis;172237004;herstel trichiasis
+172485001;laser trabeculoplastiek;172485001;laser trabeculoplastiek
+172538005;mechanische lensectomie;172538005;mechanische lensectomy
+172574001;repositie plombage voor loslating;172574001;reposition plombage voor loslating
+172624005;herstel van oorlel;172624005;herstel van oorlel
+172732009;implantatie van intracochleaire prothese;172732009;implantatie van intracochlear prothese
+172733004;implantatie van extracochleaire prothese;172733004;implantatie van extracochlear prothese
+172737003;cochleostomie;172737003;cochleostomy
+172742006;vestibulaire neuroectomie;172742006;vestibulaire neurectomie
+172761005;reductie rhinoplastie;172761005;reductie rhinoplastiek
+172859007;darm beeldvorming;172859007;darm beeldvorming
+172887003;craniofaciale resectie;172887003;craniofaciale resectie
+172899005;laterale rhinotomie;172899005;laterale rinotomie
+172921000;uncinectomie;172921000;uncinectomy
+173057002;reconstructie van trachea met huidflap;173057002;reconstructie van trachea met huidflap
+173076000;tracheopexie;173076000;tracheopexy
+173170008;bilobectomie long;173170008;bilobectomy long
+173193002;drainage van long;173193002;drainage van long
+173200000;open drainage van mediastinum;173200000;open drainage van mediastinum
+173422009;tonsillectomie;173422009;tonsillectomie
+173426007;bilaterale laser tonsillectomie;173426007;bilateraal laser tonsillectomie
+173486005;radicale partotidectomie;173486005;radicale parotidectomie
+173496001;incisie van de parotis;173496001;incisie van de parotis
+173747005;Roux - en - Y gastrojejunostomie;173747005;roux - en - y gastrojejunostomie
+173788005;pyloromyotomie;173788005;pyloromyotomie
+173848007;totale duodenectomie;173848007;totale duodenectomie
+173849004;parti ë le duodenectomie;173849004;parti ë le duodenectomie
+173918008;open jejunoscopie;173918008;open jejunoscopy
+173980008;tijdelijke ileostomie;173980008;tijdelijke ileostomie
+174030005;gastrocnemius recessie;174030005;gastrocnemius recession
+174059005;proctocolectomie;174059005;proctocolectomie
+174071004;uitgebreide rechter hemicolectomie;174071004;uitgebreide rechter hemicolectomie
+174140006;dilatatie van colostomie;174140006;dilatatie van colostomie
+174140006;dilatatie van colostomie;174140006;dilatatie van colostomie
+174385004;laterale sfincterotomie;174385004;laterale sfincterotomie
+174466003;percutane embolisatie van arteria hepatica;174466003;percutane embolisatie van arteria hepatica
+174467007;percutane transluminale embolisatie van vena porta;174467007;percutane transluminale embolisatie van vena portae
+174525001;percutane cholecystostomie;174525001;percutane cholecystostomie
+174585003;galwegexploratie;174585003;galwegexploratie
+174702000;proximale pancreatectomie;174702000;proximaal pancreatectomie
+174776001;totale splenectomie;174776001;totale splenectomie
+174793001;drainage van milt;174793001;drainage van milt
+174899009;herstel van sinus venosus;174899009;herstel van sinus venosus
+175182002;diagnostische pericardcentesis;175182002;diagnostische pericardiocentesis
+175262009;open pulmonale embolectomie;175262009;open pulmonale embolectomie
+175263004;open embolisatie van arteria pulmonalis;175263004;open embolisatie van arteria pulmonalis
+175267003;percutane transluminale embolisatie van arteria pulmonalis;175267003;percutane transluminale embolisatie van arteria pulmonalis
+175380003;percutane transluminale angioplastie van arteria carotis;175380003;percutane transluminale angioplastiek van arteria carotis
+175460003;percutane transluminale embolisatie van arteria brachialis;175460003;percutane transluminale embolisatie van arteria brachialis
+175461004;percutane embolisatie van arterie vertebralis;175461004;percutane embolisatie van arteria vertebralis
+175466009;percutane transluminale embolisatie van arteria axillaris;175466009;percutane transluminale embolisatie van arteria axillaris
+175798002;plicatie van vena cava;175798002;plication van vena cava
+175808002;veneuze klep transplantatie;175808002;veneuze klep transplantatie
+175871007;percutane transluminale embolisatie van vene;175871007;percutane transluminale embolisatie van vene
+175881006;revascularisatie voor impotentie;175881006;revascularisatie voor impotentie
+176028006;uretero - ureterostomie;176028006;uretero - ureterostomie
+176106009;radicale cystoprostatourethrectomie;176106009;radicale cystoprostatourethrectomy
+176117005;cecocystoplastie;176117005;cecocystoplasty
+176135001;perineale urethrostomie;176135001;perineale urethrostomie
+176258007;open prostatectomie;176258007;open prostatectomie
+176288003;transurethrale laser prostatectomie;176288003;transurethrale laser prostatectomie
+176373005;ballondilatatie urethra;176373005;ballondilatatie urethra
+176434006;bilaterale orchidopexie;176434006;bilateraal orchidopexie
+176585001;rituele clitoridectomie;176585001;rituelen clitoridectomie
+176586000;clitoroplastie;176586000;clitoroplasty
+176597000;totale vulvectomie;176597000;totale vulvectomie
+176641009;vrouwelijke perineoplastie;176641009;vrouwelijke perineoplastiek
+176716008;sacrocolpopexie;176716008;sacrocolpopexy
+176742008;drainage van het kanaal van nuck;176742008;drainage van het kanaal van nuck
+176795006;subtotale abdominale hysterectomie;176795006;subtotale abdominale hysterectomie
+176846001;excisie periurethraal weefsel;176846001;excisie periuretraal weefsel
+176995002;endoscopische injectie in eileider;176995002;endoscopische injectie naar eileider
+177246004;wenkbrauwlift;177246004;wenkbrauwlift
+177250006;abdominoplastie;177250006;abdominoplastiek
+177252003;abdominoplastie en liposuctie;177252003;abdominoplastiek en liposuctie
+177594004;piercen van oorlel;177594004;piercing van oorlel
+177783000;open pleurectomie;177783000;open pleurectomie
+177814005;biopsie periurethraal weefsel;177814005;biopsie periuretraal weefsel
+178055007;dermatofasciectomie;178055007;dermatofasciectomy
+178086001;herstel van fascia;178086001;herstel van fascia
+178101005;drainage van ganglion;178101005;drainage van ganglion
+178124003;herstel van bursa;178124003;herstel van bursa
+178203000;reconstructie van peesschede;178203000;reconstructie van peesschede
+178325009;exploratie van chyleuze fistel;178325009;exploratie van chyleuze fistel
+178668000;percutane discectomie;178668000;percutane discectomie
+178669008;laser discectomie;178669008;laser discectomie
+178732003;pyloroduodenotomie;178732003;pyloroduodenotomy
+178773002;exploratieve thoracale laminectomie;178773002;exploratieve thoracale laminectomie
+178774008;exploratieve lumbale laminectomie;178774008;exploratieve lumbale laminectomie
+178900007;Excisie van ectopisch bot;178900007;excisie van ectopische bot
+178932007;Rotatie osteotomie;178932007;rotatoire osteotomie
+179225002;abductie tractie;179225002;abductie tractie
+179537001;excisie arthroplastiek;179537001;excisie artroplastiek
+180124009;coventry tibiale osteotomie;180124009;coventry tibialis osteotomie
+180223008;intraveneuse immunotherapie;180223008;intraveneuze immunotherapie
+180284004;beenmerg donatie;180284004;beenmerg donatie
+184153002;biopsie van binnenoor;184153002;biopsie van binnenoor
+185876009;enteroplastie;185876009;enteroplastiek
+187528002;fasciodese;187528002;fasciodese
+195767005;cholangiostomie;195767005;cholangiostomie
+196505006;hepaticostomie;196505006;hepaticostomie
+197357002;kutler amputatie;197357002;kutler amputatie
+199001009;hepaticotomie;199001009;hepaticotomie
+202568006;biopsie van de traanzak;202568006;biopsie van de traanzak
+203644001;sclerostomie;203644001;sclerostomie
+221182006;Hymenoplastie;221182006;hymenoplastie
+229316007;cervicale tractie;229316007;cervicale tractie
+229317003;thoracale tractie;229317003;thoracale tractie
+229318008;lumbale tractie;229318008;lumbale tractie
+229474001;elleboog stretching;229474001;elleboog , stretching
+229827003;enucleatie van likdoorn;229827003;enucleatie van likdoorns
+230861003;diepe hersenstimulatie;230861003;diepe hersenstimulatie
+230902008;embolisatie van intracraniaal aneurysma;230902008;embolisatie van intracraniaal aneurysma
+231162001;lumbaal plexus block;231162001;lumbale plexus block
+231249005;spinale anesthesie;231249005;spinale anesthesie
+231293005;intradermale infiltratie;231293005;intradermale infiltratie
+231388005;lumbale subdurale neurolyse;231388005;lumbale subduraal neurolyse
+231390006;cervicale epidurale neurolyse;231390006;cervicale epidurale neurolyse
+231391005;thoracale epidurale neurolyse;231391005;thoracale epidurale neurolyse
+231590007;laterale canthale sling;231590007;laterale canthal sling
+231591006;laterale canthotomie;231591006;laterale canthotomie
+231592004;laterale canthoplastie;231592004;laterale canthoplastiek
+231629008;dacryocystorhinostomie;231629008;dacryocystorhinostomie
+231630003;intranasale dacryocystorhinostomie;231630003;intranasal dacryocystorhinostomie
+231710008;keratomileusis;231710008;keratomileusis
+231724007;perifere iridectomie;231724007;perifere iridectomie
+231726009;laser iridectomie;231726009;laser iridectomie
+231734003;trabeculoplastiek;231734003;trabeculoplastiek
+231735002;chirurgische trabeculoplastiek;231735002;chirurgische trabeculoplastiek
+231750006;pars plana lensectomie;231750006;pars plana lensectomy
+231765007;drainage van subretinaal vocht;231765007;drainage van subretinaal vocht
+231766008;pneumatische retinopexie;231766008;pneumatische retinopexie
+231774009;retinotomie;231774009;retinotomy
+231775005;retinectomie;231775005;retinectomy
+231777002;intravitreale tamponade;231777002;intravitreaal tamponade
+231788008;drainage van suprachoroidaal vocht;231788008;drainage van suprachoroidal vocht
+232185003;Incus transpositie;232185003;incus transpositie
+232201002;Echografische labyrinthectomie;232201002;echografische labyrintectomie
+232464005;open rhinoplasie;232464005;open rhinoplastiek
+232481001;septodermoplastie;232481001;septodermoplasty
+232485005;chemische cauterisatie van inwendige neus;232485005;chemische cauterisatie van inwendige neus
+232546000;totale laryngofaryngectomie;232546000;totale laryngofaryngectomie
+232554003;epiglottopexie;232554003;epiglottopexy
+232565008;excisie sulcus vocalis;232565008;excisie sulcus vocalis
+232642006;extrapericardiale pneumonectomie;232642006;extrapericardiaal pneumonectomie
+232643001;intrapericardiale pneumonectomie;232643001;intrapericardial pneumonectomie
+232644007;extrapleurale pneumonectomie;232644007;extrapleurale pneumonectomie
+232645008;pleuropneumonectomie;232645008;pleuropneumonectomy
+232646009;completion pneumonectomie;232646009;completion pneumonectomie
+232657004;enkelvoudige longtransplantatie;232657004;enkelvoudige longtransplantaat
+232674004;orotracheale intubatie;232674004;orotracheal intubatie
+232679009;nasotracheale intubatie;232679009;nasotracheale intubatie
+232704006;tracheobronchiale lavage;232704006;tracheobronchiale lavage
+232850000;aortoventriculoplastie;232850000;aortoventriculoplasty
+232979006;herstel van vena pulmonalis;232979006;herstel van vena pulmonalis
+233194003;pericardiopleurale shunt;233194003;pericardiopleural shunt
+233195002;pericardioperitoneale shunt;233195002;pericardioperitoneal shunt
+233308001;endarterectomie van arteria femoralis superficialis;233308001;endarterectomie van arteria femoralis superficialis
+233316005;embolisatie van arterie;233316005;embolisatie van arterie
+233323006;embolisatie van arteria carotis interna;233323006;embolisatie van arteria carotis interna
+233324000;embolisatie van arteria carotis externa;233324000;embolisatie van arteria carotis externa
+233327007;embolisatie van arteria spinalis;233327007;embolisatie van arteria spinalis
+233332008;embolisatie van arteria hepatica;233332008;embolisatie van arteria hepatica
+233336006;percutane trombolyse van arteria iliaca communis;233336006;percutane trombolyse van arteria iliaca communis
+233338007;percutane trombolyse van arteria femoralis communis;233338007;percutane trombolyse van arteria femoralis communis
+233339004;percutane trombolysis van arteria femoralis superficialis;233339004;percutane trombolyse van arteria femoralis superficialis
+233424001;embolisatie van vene;233424001;embolisatie van vene
+233448005;femorofemorale veneuze crossover shunt;233448005;femorofemoral veneuze crossover shunt
+233449002;directe anastomosis van vene;233449002;directe anastomose van vene
+233545006;hysteroscopie;233545006;hysteroscopie
+233554009;verwijdering van Hickman lijn;233554009;verwijdering van hickman lijn
+233591003;haemoperfusie;233591003;hemoperfusie
+234085002;chirurgische avulsie van vene;234085002;chirurgische avulsie van vene
+234319005;splenectomie;234319005;splenectomie
+234681007;gingivectomie;234681007;gingivectomie
+234919002;hechten van de mondbodem;234919002;hechting van de mondbodem
+234937001;excisie van de grote speekselklier;234937001;excisie van de grote speekselklieren
+235147008;enteroscopie;235147008;enteroscopie
+235150006;totale coloscopie;235150006;totale coloscopie
+235159007;percutane endoscopische gastrostomie;235159007;percutane endoscopische gastrostomie
+235161003;Ivor Lewis subtotale oesofagectomie;235161003;ivor lewis subtotale oesofagectomie
+235191008;longitudinale gastroplastie;235191008;longitudinale gastroplastiek
+235226003;Finney pyloroplastie;235226003;finney pyloroplastiek
+235249001;maagspoeling met water;235249001;maagspoeling met water
+235325001;uitgebreide linker hemicolectomie;235325001;uitgebreide linker hemicolectomie
+235326000;rechter hemicolectomie;235326000;rechter hemicolectomie
+235369008;anale myomectomie;235369008;anale myectomie
+235378002;mesh rectopexie;235378002;mesh rectopexie
+235389009;open hemorro ï dectomie;235389009;open hemorro ï dectomie
+235390000;gesloten hemorro ï dectomie;235390000;gesloten hemorro ï dectomie
+235391001;submucosale hemorro ï dectomie;235391001;submucosal hemorro ï dectomie
+235408004;jejuno - colostomie;235408004;jejuno - colostomie
+235504000;open pancreaticografie;235504000;open pancreatografie
+235566000;galwegdrainage;235566000;galwegdrainage
+236147004;open nefrostomie;236147004;open nefrostomie
+236148009;open pyelostomie;236148009;open pyelostomy
+236170007;antegrade ureteroscopie;236170007;anterograde ureteroscopie
+236209003;salvage cystoprostatourethrectomie;236209003;salvage cystoprostatourethrectomy
+236211007;salvage cystoprostatectomie;236211007;salvage cystoprostatectomie
+236224007;cystoscopie met transurethrale prostaatbiopsie;236224007;cystoscopie en transurethrale prostaatbiopsie
+236245000;retropubische urethrolyse;236245000;retropubische urethrolysis
+236267004;vaginale urethrolyse;236267004;vaginale urethrolysis
+236334001;orchidectomie;236334001;orchidectomie
+236359005;penis revascularisatie voor impotentie;236359005;penis revascularisatie voor impotentie
+236829007;skinning vulvectomie;236829007;skinning vulvectomie
+236850003;colpocleisis;236850003;colpocleisis
+236879005;morcellatie van cervix;236879005;morcellation van cervix
+236886002;hysterectomie;236886002;hysterectomie
+236887006;laparoscopische hysterectomie;236887006;laparoscopische hysterectomie
+236889009;laparoscopische supracervicale hysterectomie;236889009;laparoscopische supracervicale hysterectomie
+236901008;endoscopische myomectomie;236901008;endoscopische myomectomie
+236902001;vaginale myomectomie;236902001;vaginale myomectomie
+236908002;herkanalisatie van hypoplastische cervix;236908002;rekanalisatie van hypoplastische cervix
+236916006;distale salpingostomie;236916006;distaal salpingostomie
+236925000;lineaire salpingotomie;236925000;lineaire salpingotomie
+236941004;ampullosalpingoscopie;236941004;ampullosalpingoscopy
+236942006;microhysteroscopie;236942006;microhysteroscopy
+236992007;rechter mediolaterale episiotomie;236992007;rechter mediolateraal episiotomie
+237007002;repositie van geprolabeerde arm;237007002;reposition van geprolabeerde arm
+237010009;suprapubische druk op foetale schouder;237010009;suprapubische druk op foetale schouder
+237390004;exploratie van tepel;237390004;exploratie van tepel
+237400005;microdochectomie;237400005;microdochectomy
+238307009;transpositie van omentum;238307009;transpositie van omentum
+239322005;phemister epifysiodese;239322005;phemister epifysiodese
+239418004;open meniscectomie;239418004;open meniscectomie
+239430005;ligament reconstructie;239430005;ligamentum reconstructie
+239455004;cheilectomie;239455004;cheilectomy
+239457007;chondroplastiek;239457007;chondroplastiek
+239989009;rectorectostomie;239989009;rectorectostomy
+240325001;kadaver donor nefrectomie;240325001;kadaver donor nefrectomie
+240926008;percutane embolectomie;240926008;percutane embolectomie
+240929001;percutane trombolyse;240929001;percutane trombolyse
+240935001;percutane trombolyse van arteria hepatica;240935001;percutane trombolyse van arteria hepatica
+240970004;subperiostale facelift;240970004;subperiostaal facelift
+241696005;totale intraveneuze anesthesie;241696005;totale intraveneuze anesthesie
+241705007;intraveneuze sedatie;241705007;intraveneuze sedatie
+241720001;tapen van ooglid;241720001;taping van ooglid
+251548005;extrapetrosale drainage;251548005;extrapetrosal drainage
+252452009;laser doppler;252452009;laser doppler
+252464001;capillaroscopie;252464001;capillaroscopie
+252471006;elektromagnetische flowmetrie;252471006;elektromagnetische flowmetry
+252476001;progressieve inspanningstest;252476001;progressieve inspanningstest
+252481005;shuttle test;252481005;shuttle test
+252547002;glycerol dehydratatie test;252547002;glycerol dehydratie test
+252548007;acetazolamide test;252548007;acetazolamide test
+252549004;Isosorbide test;252549004;isosorbide test
+252661001;Grassi test;252661001;grassi test
+252717002;gewricht goniometrie;252717002;gewricht goniometry
+252748005;repititieve zenuwstimulatie;252748005;repetitief zenuwstimulatie
+260648008;hemilaminectomie;260648008;hemilaminectomie
+261479009;mediastinoscopie;261479009;mediastinoscopie
+261517000;silver bunionectomie;261517000;silver bunionectomy
+261532007;fenestrectomie;261532007;fenestrectomy
+261578004;vaginale z - plastie;261578004;vaginale z - plasty
+262457001;cervicale mediastinoscopie;262457001;cervicale mediastinoscopie
+265054005;cervicale poliepectomie;265054005;cervicale poliepectomie
+265056007;vaginale hysterectomie;265056007;vaginale hysterectomie
+265059000;open myomectomie;265059000;open myomectomie
+265206007;open herstel van glenoid labrum;265206007;open herstel van glenoid labrum
+265292003;goniotomie;265292003;goniotomie
+265293008;goniopunctie;265293008;goniopuncture
+265294002;chirurgische iridotomie;265294002;chirurgische iridotomie
+265303002;reconstructie van uitwendige gehoorgang;265303002;reconstructie van uitwendige gehoorgang
+265357009;antireflux chirurgie;265357009;antireflux chirurgie
+265487002;pericarddrainage;265487002;pericarddrainage
+265554003;percutane pyelolysis;265554003;percutane pyelolysis
+265735000;hemipelvectomie;265735000;hemipelvectomie
+274021001;embolectomie;274021001;embolectomie
+274031008;rectale poliepectomie;274031008;rectale poliepectomie
+274044003;colpotomie;274044003;colpotomie
+274053005;Condylectomie;274053005;condylectomie
+274056002;kniearthrodese;274056002;knieartrodese
+274314005;percutane naaldbiopsie;274314005;percutane biopsienaald
+274325001;percutane leverbiopsie;274325001;percutane leverbiopsie
+274969000;anterior tracheostomie;274969000;anterior tracheostoma
+274970004;laterale tracheostomie;274970004;laterale tracheostoma
+275218004;pyeloscopie;275218004;pyeloscopie
+275249009;correctie van scoliosis;275249009;correctie van scoliose
+275254000;open embolectomie van arteria iliaca communis;275254000;open embolectomie van arteria iliaca communis
+276916004;paramediane incisie;276916004;paramediaan incisie
+276918003;subcostale incisie;276918003;subcostale incisie
+276937007;percutane endarterectomie van arteria femoralis superficialis;276937007;percutane endarterectomie van arteria femoralis superficialis
+276976008;percutane arteri ë le embolectomie;276976008;percutane arteri ë le embolectomie
+276977004;percutane veneuse trombectomie;276977004;percutane veneuze trombectomie
+277182002;resectie van arteria pulmonalis;277182002;resectie van arteria pulmonalis
+277515001;percutane embolisatie van vene;277515001;percutane embolisatie van vene
+277520001;percutane embolisatie van arteria choroidea;277520001;percutane embolisatie van arteria choroidea
+277528008;percutane embolisatie van arteria carotis externa;277528008;percutane embolisatie van arteria carotis externa
+277762005;lumbaalpunctie;277762005;lumbaalpunctie
+277917001;thoracale impedantie cardiografie;277917001;thoracale impedantie cardiografie
+278717009;perirectale incisie;278717009;perirectaal incisie
+278719007;pilonidale incisie;278719007;pilonidaal incisie
+278721002;Pfannenstiel incisie;278721002;pfannenstiel incisie
+278728008;occipitale incisie;278728008;occipitalis incisie
+278730005;periorbitale incisie;278730005;periorbitale incisie
+278731009;supraorbitale incisie;278731009;supraorbitalis incisie
+278734001;intraorale incisie;278734001;intraoraal incisie
+278824004;plantaire incisie;278824004;plantaris incisie
+281002001;buccale frenectomie;281002001;buccale frenectomie
+281187007;open atriale septectomie met inflow occlusie;281187007;open atriale septectomie met inflow occlusie
+281651004;drainage van blaar;281651004;drainage van blaar
+281758003;peesherstel;281758003;peesherstel
+281818006;gewrichtstabilisatie door ligamentherstel;281818006;gewrichtsstabilisatie door ligamentherstel
+282078004;bovenste labiale frenectomie;282078004;bovenste labiale frenectomie
+283018000;banding van vene;283018000;afbinding van vene
+283165009;decompressieve laminectomie;283165009;decompressie laminectomie
+286079005;choledochostomie;286079005;choledochostomie
+287218009;craniale ventriculostomie;287218009;craniaal ventriculostomie
+287235008;traanzak drainage;287235008;traanzak drainage
+287265003;drainage van schildklier;287265003;drainage van schildklier
+287292009;infarct myocardectomie;287292009;infarct myocardiectomy
+287332008;cardioplastie;287332008;cardioplasty
+287365000;aneurysmorafie;287365000;aneurysmorafie
+287528001;bronchoscopie via tracheostomie;287528001;bronchoscopie via tracheostoma
+287644000;supramalleolaire enkel amputatie;287644000;supramalleolar enkel amputatie
+287666007;compressie sclerosis;287666007;compressie sclerose
+287720006;cystoprostatectomie;287720006;cystoprostatectomie
+287761006;urethrale anastomose;287761006;urethra anastomose
+287782000;periprostatisch weefsel drainage;287782000;periprostatisch weefsel drainage
+287816003;radicale gastrectomie;287816003;radicale gastrectomie
+287819005;pylorectomie;287819005;pylorectomie
+287824008;enterotomie voor exploratie;287824008;enterotomie voor exploratie
+287829003;enterotomie voor drainage;287829003;enterotomie voor drainage
+287846000;radicale pancreaticoduodenectomie;287846000;radicale pancreaticoduodenectomie
+287866009;choledocotomie en endoscopie;287866009;choledochotomie en endoscopie
+287867000;choledocotomie en drainage;287867000;choledochotomie en drainage
+287966005;radicale vulvectomie;287966005;radicale vulvectomie
+288001002;pyelotomie en drainage;288001002;pyelotomie en drainage
+288002009;pyelotomie en exploratie;288002009;pyelotomie en exploratie
+288153008;spinale extensie tractie;288153008;spinale extension tractie
+300012004;intercostale neurectomie;300012004;intercostale neurectomie
+300022005;diathermie van perineale wratten;300022005;diathermie van perineale wratten
+300036000;subcutaan infuus;300036000;subcutaan infusie
+300897007;totale salpingectomie;300897007;totale salpingectomie
+301071008;embolisatie van arteria axillaris;301071008;embolisatie van arteria axillaris
+301072001;embolisatie van arteria brachialis;301072001;embolisatie van arteria brachialis
+301083005;embolisatie van arteria pulmonalis;301083005;embolisatie van arteria pulmonalis
+301891000;resurfacing arthroplastiek;301891000;resurfacing artroplastiek
+302354002;dunne darm stricturoplastie;302354002;dunne darm strictureplasty
+302369001;clitoridectomie;302369001;clitoridectomie
+302495003;arthrotomie;302495003;artrotomie
+302615005;abdominale sacrocolpopexie;302615005;abdominale sacrocolpopexy
+303621003;totale faryngectomie;303621003;totale faryngectomie
+303639007;directe hersenstimulatie;303639007;directe hersenstimulatie
+304583001;uitgebreide rechter hemicolectomie met ileostomie;304583001;uitgebreide rechter hemicolectomie en ileostomie
+304848009;callosotomie;304848009;callosotomy
+304926002;open atriale septostomie;304926002;open atriale septostomie
+305101000;therapeutische elleboog stretching;305101000;therapeutische elleboog stretching
+305928009;open atrial septectomie;305928009;open atriale septectomie
+307007002;percutane tracheostomie;307007002;percutane tracheostoma
+307260009;hechten van duodenumulcus;307260009;hechting van duodenumulcus
+307262001;extraperitoneale incisie;307262001;extraperitoneale incisie
+307283007;ureterale meatotomie;307283007;ureterale meatotomie
+307328003;endoscopische transaxillaire cervicale sympathectomie;307328003;endoscopische transaxillary cervicale sympathectomie
+307585001;percutane caecostomie;307585001;percutane caecostomie
+307657009;linker hemicolectomie en colostomie;307657009;linker hemicolectomie en colostomie
+307666008;totale colectomie met ileostomie;307666008;totale colectomie en ileostomie
+307826006;chemische labyrinthectomie;307826006;chemische labyrintectomie
+308001003;epididymogram;308001003;epididymogram
+308963000;intravasculaire injectie;308963000;intravasculaire injectie
+309727002;laterale faryngotomie;309727002;laterale faryngotomie
+309812005;extubatie;309812005;extubatie
+309849004;pericardiocentese;309849004;pericardiocentesis
+309871009;ureterorenoscopie en biopsie;309871009;ureterorenoscopy en biopsie
+309876004;endocervicale excisie;309876004;endocervicale excisie
+309879006;Abdominale hysterocolpectomie;309879006;abdominale hysterocolpectomie
+309880009;Vaginale hysterocolpectomie;309880009;vaginale hysterocolpectomie
+310634005;controle coloscopie;310634005;controle coloscopie
+312138002;embolisatie van arteria uterina;312138002;embolisatie van arteria uterina
+312139005;percutane embolisatie van arteria uterina;312139005;percutane embolisatie van arteria uterina
+312302004;plicatie van aorta ascendens;312302004;plication van aorta ascendens
+312341002;permanente percutane endoscopische gastrostomie;312341002;permanente percutane endoscopische gastrostomie
+312492006;excisie van musculus scalenus anterior;312492006;excisie van musculus scalenus anterior
+312641007;exploratie van arteria tibialis anterior;312641007;exploratie van arteria tibialis anterior
+313275006;astigmate keratotomie;313275006;astigmatic keratotomie
+314118002;laparoscopische totale splenectomie;314118002;laparoscopische totale splenectomie
+314121000;bilaterale guillotine tonsillectomie;314121000;bilaterale guillotine tonsillectomie
+315065002;open salpingotomie;315065002;open salpingotomie
+315066001;laparoscopische salpingotomie;315066001;laparoscopische salpingotomie
+315315000;perineoplastie;315315000;perineoplastiek
+315324009;linker hemicolectomie met anastomose;315324009;linker hemicolectomie met anastomose
+315325005;linker hemicolectomie met stoma;315325005;linker hemicolectomie met stoma
+315629008;release suprapubische sling;315629008;release suprapubische sling
+341943002;atrioventriculostomie;341943002;atrioventriculostomy
+357579002;oesofago - enterostomie;357579002;oesofago - enterostomie
+359551000;angioplastie van vene;359551000;angioplastiek van vene
+359562000;duodenotomie voor biopsie;359562000;duodenotomie voor biopsie
+359595006;miller operatie;359595006;miller operatie
+359599000;jejunopexie;359599000;jejunopexy
+359659005;echografie;359659005;echografie
+359672006;mediane sternotomie;359672006;medianus sternotomie
+359703006;totale glossectomie;359703006;totale glossectomie
+359860002;colotomie voor biopsie;359860002;colotomy voor biopsie
+359879004;radicale bunionectomie;359879004;radicale bunionectomy
+359913006;arthrolyse;359913006;artrolyse
+359926005;excisie periprostatisch weefsel;359926005;excisie periprostatisch weefsel
+360365009;perineorafie;360365009;perineorafie
+360810000;laser urethrotomie;360810000;laser uretrotomie
+361220006;episioperineoplastie;361220006;episioperineoplastiek
+361260007;cystoscopie met cauterisatie van de blaas;361260007;cystoscopie en cauterisatie van de blaas
+363051003;decompressie fasciotomie;363051003;decompressive fasciotomie
+363258002;paracentese huid;363258002;paracentesis huid
+363742001;pyloroplastie;363742001;pyloroplastiek
+367439007;herstel van trachea;367439007;herstel van trachea
+367441008;percutane punctie nier;367441008;percutane punctie nier
+367446003;achillotomie;367446003;achillotomy
+367463004;dilatatie van vagina;367463004;dilatatie van vagina
+367531007;totale adrenalectomie;367531007;totale adrenalectomie
+370957004;seidel test;370957004;seidel test
+371186005;teenamputatie;371186005;teenamputatie
+371345007;laser iridotomie;371345007;laser iridotomie
+371346008;Yag laser iridotomie;371346008;yag laser iridotomie
+371346008;Yag laser iridotomie;371346008;yag laser iridotomie
+371346008;Yag laser iridotomie;371346008;yag laser iridotomie
+372085008;beenmerg beeldvorming;372085008;beenmerg beeldvorming
+386194005;cystolitholapaxie;386194005;cystolitholapaxy
+386544003;urethroscopie;386544003;urethroscopie
+386607008;iridotomie;386607008;iridotomie
+386652006;colocystoplastie;386652006;colocystoplasty
+386770004;dissectie van vasculaire bundel;386770004;dissectie van vasculaire bundel
+386829005;tijdelijke colostomie;386829005;tijdelijke colostomie
+387644004;supracervicale hysterectomie;387644004;supracervicale hysterectomie
+387657007;bilaterale labiectomie;387657007;bilaterale labiectomy
+387683002;transcarpale amputatie;387683002;transcarpal amputatie
+387688006;gewrichtsmanipulatie;387688006;gewrichtsmanipulatie
+387701008;ureterre ï mplantatie;387701008;ureterre ï mplantatie
+387715005;peritoneale spoeling;387715005;peritoneale spoeling
+387717002;ureteroscopie;387717002;ureteroscopie
+387731002;laminectomie;387731002;laminectomie
+387865007;gastrocentesis;387865007;gastrocentesis
+387869001;gastromyotomie;387869001;gastromyotomie
+389153003;indirecte gonioscopie;389153003;indirecte gonioscopie
+389154009;indentatie gonioscopie;389154009;indentation gonioscopie
+389155005;directe gonioscopie;389155005;directe gonioscopie
+391929006;hechten van de trachea;391929006;hechting van de trachea
+391935006;pericardiolysis;391935006;pericardiolyse
+392028003;selectieve laser trabeculoplastiek;392028003;selectieve laser trabeculoplastiek
+395136002;totale mesorectale excisie;395136002;totale mesorectale excisie
+395724000;choledocholithotomie;395724000;choledocholithotomie
+396450009;vaginoperineotomie;396450009;vaginoperineotomy
+396490007;myringoplastie;396490007;myringoplastiek
+396540005;flebotomie;396540005;flebotomie
+397045002;arteri ë le embolectomie;397045002;arteri ë le embolectomie
+397167004;mazet amputatie;397167004;mazet amputatie
+397219003;guyon amputatie;397219003;guyon amputatie
+397523007;keratoscopie;397523007;keratoscopie
+397805007;conjunctivorhinostomie;397805007;conjunctivorhinostomy
+397989004;conjunctivodacryocystostomie;397989004;conjunctivodacryocystostomy
+398030006;tracheobronchiale lavage via tracheostomie;398030006;tracheobronchiale lavage via tracheostoma
+398072007;verwijderen wimpers;398072007;verwijdering wimpers
+398141006;palmaire fasciotomie;398141006;palmaris fasciotomie
+398740003;colostomie;398740003;colostomie
+399032008;salpingohysterostomie;399032008;salpingohysterostomy
+399141000;mannelijke sterilisatie;399141000;mannelijke sterilisatie
+399202009;transmetatarsale amputatie;399202009;transmetatarsale amputatie
+401226007;vertebroplastie;401226007;vertebroplastiek
+405289006;excisie van vasculair neoplasma;405289006;excisie van vasculaire neoplasma
+405291003;supraclaviculaire cervicale sympathectomie;405291003;supraclavicularis cervicale sympathectomie
+405301008;scalenotomie;405301008;scalenotomie
+405308002;decompressie van arteria axillaris;405308002;decompressie van arteria axillaris
+405323007;diathermie van vene;405323007;diathermie van vene
+405326004;angioplastie van arteria carotis interna;405326004;angioplastiek van arteria carotis interna
+405344007;biopsie van craniale arterie;405344007;biopsie van craniale arterie
+405379009;herstel van arteria carotis interna;405379009;herstel van arteria carotis interna
+405382004;embolectomie van arteria tibialis anterior;405382004;embolectomie van arteria tibialis anterior
+405390004;exploratie van arteria femoralis superficialis;405390004;exploratie van arteria femoralis superficialis
+405391000;exploratie van arteria femoralis communis;405391000;exploratie van arteria femoralis communis
+405425001;katheterisatie van vena jugularis interna;405425001;katheterisatie van vena jugularis interna
+405441000;transtarsale amputatie;405441000;transtarsal amputatie
+405487006;aorto - iliacale bypass met prothese;405487006;aorta - iliacale bypass met prothese
+408652004;13C ureum ademtest;408652004;13c ureum ademtest
+408693007;vitropressie;408693007;vitropression
+410023005;directionele atherectomie;410023005;directional atherectomie
+410573003;intravitreale antibiotica injectie;410573003;intravitreaal antibiotica injectie
+410574009;intravitreale antivirale injectie;410574009;intravitreaal antivirale injectie
+412711000;herstel van arteria hepatica aneurysma;412711000;herstel van arteria hepatica aneurysma
+412759000;debulking bovenste ooglid;412759000;debulking bovenste ooglid
+413195008;cholangioscopie;413195008;cholangioscopie
+413954006;diepe sclerectomie;413954006;diepe sclerectomy
+415745004;transverse keratotomie;415745004;transversum keratotomie
+418170009;yag laser trabeculotomie;418170009;yag laser trabeculotomy
+422246005;conjunctivale resectie;422246005;conjunctiva resectie
+426056001;diepe sclerectomie zonder spacer;426056001;diepe sclerectomy zonder spacer
+426738005;duodenal switch;426738005;duodenale switch
+426900002;pulmonale trombo - endarteri ë ctomie;426900002;pulmonale trombo - endarteri ë ctomie
+426966006;diepe sclerectomie met spacer;426966006;diepe sclerectomy met spacer
+427074001;laparoscopische sleeve gastrectomie;427074001;laparoscopische sleeve gastrectomie
+427175002;verwijderen ecg loop recorder;427175002;verwijdering ecg loop recorder
+427337008;peesbiopsie;427337008;peesbiopsie
+427615008;allograft van navelstrengbloed naar beenmerg;427615008;allograft van navelstrengbloed van beenmerg
+427980007;sleeve gastrectomie met duodenal switch;427980007;sleeve gastrectomie met duodenale switch
+428379000;tattoo ë ren van tepel;428379000;tatoe ë ren van tepel
+428802000;endovasculair herstel van arteria carotis;428802000;endovascular herstel van arteria carotis
+428831001;radiotherapie van perineum;428831001;radiotherapie van perineum
+429170003;percutane transhepatische cholangioscopie;429170003;percutane transhepatische cholangioscopie
+429287007;angioplastie van arteria carotis;429287007;angioplastiek van arteria carotis
+430799001;transjugulaire leverbiopsie;430799001;transjugulaire leverbiopsie
+431316002;laparoscopische subtotale hysterectomie;431316002;laparoscopische subtotale hysterectomie
+431671007;retrograde ureteropyelografie;431671007;retrograad ureteropyelografie
+431748001;intracardiale echografie;431748001;intracardiale echografie
+433232009;epicardiale echocardiografie;433232009;epicardial echocardiografie
+438338008;totale gastrectomie met uitgebreide lymfadenectomie;438338008;totale gastrectomie met uitgebreide lymfadenectomie
+439110003;cystoscopische ureteroneocystostomie;439110003;cystoscopisch ureteroneocystostomie
+439826004;laparoscopische pyeloplastie;439826004;laparoscopische pyeloplastiek
+441525007;percutane transluminale chemo - embolisatie van arterie;441525007;percutane transluminale chemo - embolisatie van arterie
+442737009;appendicovesicostomie;442737009;appendicovesicostomy
+443516005;MRI nucleus subthalamicus;443516005;mri nucleus subthalamicus
+444116009;psoas compartiment block;444116009;psoas compartimentum block
+444562008;preoperatieve pulmonale onderzoeken;444562008;preoperatieve pulmonale onderzoek
+444592004;drainage van mediastinum;444592004;drainage van mediastinum
+444770000;exploratie zaadstreng;444770000;exploratie zaadstreng
+445901000;endobronchiale echografie;445901000;endobronchiale echografie
+445944001;endodiathermie van corpus vitreum;445944001;endodiathermy van corpus vitreum
+446450009;laparoscopische diathermie van ovaria;446450009;laparoscopische diathermie van ovarium
+446858006;MRI vena subclavia;446858006;mri vena subclavia
+447001002;falloposcopie;447001002;falloposcopy
+447015000;flexibele endoscopie van de nasofarynx;447015000;flexibele endoscopie van de nasopharynx
+447078009;laparoscopische orchidectomie;447078009;laparoscopische orchidectomie
+447346005;cardiopulmonale inspanningstest;447346005;cardiopulmonale inspanningstest

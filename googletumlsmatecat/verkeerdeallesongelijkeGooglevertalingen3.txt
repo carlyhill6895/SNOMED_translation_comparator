@@ -1,0 +1,401 @@
+456004;Total abdominal colectomy with ileostomy;Totale abdominale colectomy met ileostoma;totale abdominale colectomie met ileostomie;Total abdominale colectomy met ileostoma
+897004;Radical maxillary antrotomy;Radicale maxillary antrotomy;radicale maxillaris intranasaal;Radical bovenkaak antrotomy
+948007;Phlebectomy of intracranial varicose vein;Phlebectomy van intracrani ë le spatader;flebectomie intracraniale veneuze spataderen;Phlebectomy van ader intracrani ë le spataderen
+1390003;Laparoscopic-assisted sigmoid colectomy;- Laparoscopische bijgestaan ​​ sigmavormige colectomy;laparoscopische - begeleide sigmo ï dectomie;- Laparoscopische bijgestaan ​​ sigmoid colectomy
+1398005;Direct thrombectomy of iliac vein by leg incision;Directe thrombectomy van iliacale ader van been incisie;directe trombectomie vena iliaca op been incisie;Direct thrombectomy van iliacale ader van been incisie
+1862006;Thoracic phlebectomy;Thoracale phlebectomy;thoracale flebectomie;Thoracic phlebectomy
+2977001;Thrombectomy of lower limb vein;Thrombectomy van de onderste ledematen ader;trombectomie onderste ledemaat;Thrombectomy van ader onderste extremiteit
+3559005;Insertion of ureteral stent with ureterotomy;Inbrengen van ureterstent met ureterotomy;van ureter stent met ureterotomy;Het inbrengen van ureterstent met ureterotomy
+3654008;Lingulectomy of lung;Lingulectomy van longkanker;lingulectomy long;Lingulectomy van de long
+3826004;Blepharotomy with drainage of abscess of eyelid;Blepharotomy met drainage van abces van het ooglid;ooglidabcesdrainage;Blepharotomy met de afvoer van abces van het ooglid
+4636001;Denker operation for radical maxillary antrotomy;Denker operatie voor radicale bovenkaak antrotomy;denker chirurgie voor radicale maxillaris intranasaal;Denker operatie radicale bovenkaak antrotomy
+5176003;Thromboendarterectomy with graft of renal artery;Thromboendarterectomy met graft van de nierslagader;endarterectomie met transplantaat van arteria renalis;Thromboendarterectomy met graft van nierslagader
+5551006;Direct laryngoscopy with arytenoidectomy with operating microscope;Directe laryngoscopie met arytenoidectomy met operatiemicroscoop;directe laryngoscopie met arytenoidectomy met operating microscope;Directe laryngoscopie met arytenoidectomy met operationele microscoop
+5636007;Fistulectomy of bone;Fistulectomy bot;fistelexcisie bot;Fistulectomy van het bot
+5663008;Phlebectomy of varicose vein of head and neck;Phlebectomy van spataderen van hoofd en nek;flebectomie van varices van hoofd en hals;Phlebectomy van spataders van het hoofd en de nek
+11127003;Esophagogastrostomy, antesternal or antethoracic;Esophagogastrostomy , antesternal of intrathoracale;oesophagogastrostomie , antesternal en antethoracic;Esophagogastrostomy , antesternal of antethoracic
+14403007;Ileotransversostomy;Ileotransversostomy;ileotransverse anastomose;ileotransversostomie
+22737002;Blepharectomy;Blepharectomy;blefarectomie;blepharectomie
+26390003;Total colectomy;Totaal colectomy;colectomie totaal;Colectomie
+32189006;Pubiotomy;Pubiotomy;symfysiotomie;symphyseotomie
+36732002;Pyelolithotomy;Pyelolithotomy;niersteenverwijdering;pyelolithotomie
+36910002;Craniectomy;craniectomy;crani ë ctomie;craniectomie
+42268006;Ileosigmoidostomy;Ileosigmoidostomy;ileosigmo ï dostomie;iliosigmoideostomie
+49266009;Hydrocelectomy;Hydrocelectomy;hydrocolectomie;hydroc è lectomie
+55698005;Valvulotomy of pulmonary valve in total repair of tetralogy of Fallot;Valvotomy van pulmonale klep in de totale reparatie van tetralogie van Fallot;pulmonaire valvotomie in totale tetralogie van fallot - herstel;Valvulotomy van pulmonale klep in de totale reparatie van tetralogie van Fallot
+57071006;Sympathectomy;sympathectomy;sympathectomie;sympathicectomie
+78800009;Colpohysterotomy;Colpohysterectomy;colpohysterotomy;colpohysterotomie
+81714000;Ileorectostomy;Ileorectostomy;ileoproctostomie;iliorectostomie
+83876008;Bursectomy;Bursectomy;bursaverwijdering;bursectomie
+175907006;Nephroureterectomy;nephroureterectomy;nefro;nefro - ureterectomie
+176915001;Left salpingo-oophorectomy;Links salpingo - oophorectomy;linker salpingo - o ö forectomie;salpingo - o ö thectomie
+195969003;Choledochoduodenostomy;Choledochoduodenostomy;choledocoduodenostomie;choledochoduodenostomie
+274044003;Colpotomy;Colpotomy;colpotomie;vaginatomie
+307170004;Endoscopic transaxillary thoracic sympathectomy;Endoscopische transaxillary thoracale sympathectomy;endoscopische transaxillary thoracale sympathectomie;Transaxillary van de Endoscopische thoracic sympathectomy
+307283007;Ureteral meatotomy;ureteral meatotomy;ureterale meatotomie;Ureterale meatotomy
+307303006;Billroth I gastric antrectomy;Billroth I maag antrectomy;billroth operatie i maag antrectomy;Billroth ik maag antrectomy
+307561009;Ileectomy and ileostomy;Ileectomy en ileostoma;ileumresectie en ileostomie;Ileectomy en ileostomy
+307615003;Extended left hemihepatectomy;Extended links hemihepatectomy;uitgebreide linker hemihepatectomy;Uitgebreide links hemihepatectomy
+307644001;Transverse colectomy and ileostomy;Transversale colectomy en ileostoma;colectomie transversum met ileostomie;Transversale colectomy en ileostomy
+307648003;Sigmoid colectomy and ileostomy;Sigmo ï d colectomy en ileostoma;sigmo ï en ileostomie;Sigmoid colectomy en ileostomy
+307658004;Sigmoid colectomy and colostomy;Sigmo ï d colectomy en stoma;sigmo ï en colostomie;Sigmoid colectomy en colostomie
+307666008;Total colectomy and ileostomy;Total colectomy en ileostoma;colectomie totaal of ileostomie;Totale colectomy en ileostomy
+307669001;Total colectomy, ileostomy and closure of rectal stump;Totaal colectomy , ileostoma en de sluiting van de rectale stomp;totale colectomie nao ileostoma en herstel van rectale amputatiestomp;Totale colectomy , de ileostomy en de sluiting van rectale stomp
+310558000;Preretinal membranectomy by peeling;Preretinal membranectomy door pellen;preretinale membranectomy door exfoliatie;Preretinal membranectomy door peeling
+312600002;Oral frenectomy;Oral frenectomy;orale frenectomie;Mondelinge frenectomy
+385713004;Ostomy irrigation;ostomy irrigatie;ostomy lavage;Ostomy irrigation
+388990007;Synovectomy;synovectomy;synovi ë ctomie;synovectomie
+397046001;Thrombectomy of artery;Thrombectomy van de slagader;trombectomie arterie;Thrombectomy van slagader
+397108006;Esophagostomy operation;Esophagostomy operatie;oesofagostomie;Esophagostomy operation
+397194000;Percutaneous rotational coronary endarterectomy;Percutane coronaire rotatie endarterectomy;percutane rotatoire coronaire endarteri ë ctomie;Percutane roterende coronaire endarterectomy
+397875008;Reinsertion of pyelostomy tube or catheter;Reinsertion van pyelostomy buis of katheter;replantatie , pyelostomy fallopii en katheter;Herintegratie van pyelostomy buis of katheter
+401307002;Functional endoscopic sinus surgery - polypectomy of nasal sinus;Functionele endoscopische sinus chirurgie - polypectomy nasale sinus;functioneel endoscopische sinus chirurgie , poliepectomie sinusitis;Functional endoscopic sinus surgery - polypectomie van de nasale sinus
+405291003;Supraclavicular cervical sympathectomy;Supraclaviculaire cervicale sympathectomy;supraclavicular cervicale sympathectomie;Supraclavicular cervicale sympathectomy
+405292005;Upper limb sympathectomy;Bovenste ledematen sympathectomy;bovenste sympathectomie;Bovenste extremiteit sympathectomy
+405294006;Visceral sympathectomy;Visceral sympathectomy;viscerale sympathectomie;Viscerale sympathectomy
+405315005;Thrombectomy of common femoral vein;Thrombectomy gemeenschappelijke lies;trombectomie communis vena femoralis;Thrombectomy van gemeenschappelijke femorale ader
+405317002;Thrombectomy of superficial femoral vein;Thrombectomy van oppervlakkige lies;trombectomie van vena femoralis;Thrombectomy van oppervlakkige femorale ader
+405318007;Thrombectomy of profunda femoris vein;Thrombectomy van ader profunda femoris;trombectomie van profunda femoris v;Thrombectomy van profunda femoris ader
+405370008;Upper limb vascular prosthesis thrombectomy;Bovenste ledematen vaatprothese thrombectomy;bovenste bloedvatprothese trombectomie;Bovenste extremiteit vasculaire prothese thrombectomy
+405371007;Lower limb vascular prosthesis thrombectomy;Onderste ledematen vaatprothese thrombectomy;onderste bloedvatprothese trombectomie;Onderste ledematen vasculaire prothese thrombectomy
+405373005;Abdominal vascular prosthesis thrombectomy;Abdominale vaatprothese thrombectomy;abdominale bloedvatprothese trombectomie;Abdominale vasculaire prothese thrombectomy
+410093000;Ostomy irrigation assessment;Ostomy irrigatie assessment;ostomy lavage onderzoek;Ostomy irrigatie beoordeling
+412766004;Revision of dacryocystorhinostomy and insertion of tube;Herziening van dacryocystorhinostomy en het inbrengen van de buis;hervormen dacryocystorhinostomie en van eustachius;Herziening van de dacryocystorhinostomy en inbrengen van buis
+413955007;Deep sclerectomy with collagen implant;Deep sclerectomy met collageen implantaat;diepe sclerectomy met collageenaandoening implantaat;Diepe sclerectomy met collageen implantaat
+414436009;Hyperopic astigmatic photorefractive keratectomy;Hypermetrope astigmatische fotorefractieve keratectomy;hypermetropisch astigmatic fotorefractieve keratectomie;Hyperopic astigmatic fotorefractieve keratectomy
+414536007;Intrastromal photodisruption laser keratectomy;Intrastromale photodisruptie laser keratectomy;intrastromal photodisruption laserkeratectomie;Intrastromal photodisruption laser keratectomy
+414575003;Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy;Laparoscopische totale abdominale hysterectomie en bilaterale salpingo - oophorectomy;laparoscopische totale abdominale hysterectomie met bilaterale salpingo - o ö forectomie;Laparoscopische totale abdominale hysterectomie en bilaterale salpingo - o ö forectomie
+414751001;Mixed astigmatic photorefractive keratectomy;Mixed astigmatische fotorefractieve keratectomy;gemengde astigmatic fotorefractieve keratectomie;Gemengde astigmatic fotorefractieve keratectomy
+425825000;Bilateral plasma mediated ablation tonsillectomy;Bilaterale plasma gemedieerde ablatie tonsillectomy;bilaterale plasma gemedieerde trigeminusablatie tonsillectomie;Bilaterale plasma gemedieerde ablatie tonsillectomie
+433060000;Chemical sympathectomy using fluoroscopic guidance;Chemische sympathectomy met behulp van doorlichting;chemische denervatie , sympathische using fluoroscopic guidance;Chemische sympathectomy met behulp van fluoroscopic begeleiding
+433243001;Percutaneous endoscopic insertion of gastrostomy tube using fluoroscopic guidance;Percutane endoscopische inbrengen van gastrostomy buis met behulp van doorlichting;percutane endoscopische van gastrostomietube using fluoroscopic guidance;Percutane endoscopische inbrengen van gastrostomy buis met behulp van fluoroscopic begeleiding
+438349002;Lumbar sympathectomy using computed tomography guidance;Lumbale sympathectomy gebruik van computertomografie begeleiding;lumbale sympathectomie using scan guidance;Lumbale sympathectomy met computertomografie begeleiding
+438573009;Sympathectomy of superficial palmar arch;Sympathectomy van oppervlakkige palmar boog;sympathectomie van arcus palmaris superficialis;Sympathectomy voor oppervlakkige palmar arch
+438576001;Excision and primary suture of coccygeal pressure ulcer with coccygectomy;Excision en primaire hechting van coccygeale decubitus met coccygectomy;excisie en primaire hechting pilonidalis decubitus ulcus coccygectomie;Excisie en primaire hechtdraad coccygeal druk Ulcus met coccygectomy
+438894002;Sympathectomy of ulnar artery;Sympathectomy van ellepijpslagader;sympathectomie arteria ulnaris;Sympathectomy van ulnaire slagader
+439409004;Thoracoscopy with total pericardiectomy;Thoracoscopie met een totale pericardiectomy;pleuroscopie met volledig pericardexcisie;Thoracoscopy met totale pericardiectomy
+439523004;Sympathectomy of digital artery;Sympathectomy digitale slagader;denervatie , digitale arterie;Sympathectomy van digitale slagader
+439541007;Percutaneous thrombectomy of cerebral artery using fluoroscopic guidance;Percutane thrombectomy van cerebrale slagader met behulp van doorlichting;percutane trombectomie a . using fluoroscopic guidance;Percutane thrombectomy van cerebrale slagader met behulp van fluoroscopic begeleiding
+439625002;Percutaneous mechanical thrombectomy of cerebral venous sinus using fluoroscopic guidance;Percutane mechanische thrombectomy van de cerebrale veneuze sinus met behulp van doorlichting;percutane mechanische trombectomie cerebrale sinus using fluoroscopic guidance;Percutane mechanische thrombectomy van de cerebrale veneuze sinus met behulp van fluoroscopic begeleiding
+439781002;Insertion of peripancreatic drain with cholecystostomy;Het inbrengen van peripancreatic afvoer met cholecystostomy;plaatsing van peripancreatic drain met cholecystostomie;Inbrengen van peripancreatic afvoer met cholecystostomy
+439850002;Excision of trochanteric pressure ulcer with ostectomy;Excisie van trochanteric decubitus met ostectomy;excisie trochanter decubitus ulcus ostectomie;Excisie van Trochanteravulsie druk zweer met ostectomy
+439878001;Completion gastrectomy;afronding gastrectomy;completion gastrectomie;Voltooiing Gastrectomie
+439998005;Sympathectomy of radial artery;Sympathectomy van polsslagader;sympathectomie arteria radialis;Sympathectomy van radiale slagader
+440081002;Excision of ischial pressure ulcer with skin flap closure and ostectomy;Excisie van ischiaal decubitus met de huid flap sluiting en ostectomy;excisie van ischial ulcus met huidflap sluiting en ostectomie;Excisie van ischial druk zweer met huid flap sluiting en ostectomy
+440116000;Excision of ischial pressure ulcer with ostectomy;Excisie van ischiaal decubitus met ostectomy;excisie van ischial ulcus met ostectomie;Excisie van ischial druk zweer met ostectomy
+440386000;Excision and primary suture of ischial pressure ulcer with ostectomy;Excision en primaire hechting van ischial decubitus met ostectomy;excisie en primaire herstel ischial ulcus met ostectomie;Excisie en primaire hechtdraad ischial druk Ulcus met ostectomy
+440667003;Endoscopy of nasal sinus with dacryocystorhinostomy;Endoscopie van nasale sinus met dacryocystorhinostomy;endoscopie sinusitis met dacryocystorhinostomie;Endoscopie van de neus sinus met dacryocystorhinostomy
+441244001;Home visit for cystostomy care and maintenance;bezoek huis voor cystostomy verzorging en onderhoud;doktersvisites voor cystostomie zorg en maintenance;Home bezoeken voor cystostomy zorg en onderhoud
+441820006;Laparoscopy assisted vaginal hysterectomy with bilateral salpingo-oophorectomy;Laparoscopie geassisteerde vaginale hysterectomie met bilaterale salpingo - oophorectomy;laparoscopie begeleide vaginale hysterectomie met bilaterale salpingo - o ö forectomie;De vaginale hysterectomie laparoscopie bijgestaan met bilaterale salpingo - o ö forectomie
+442058009;Revisional hemilaminectomy for decompression of lumbar spine;Revisional hemilaminectomy voor decompressie van de lumbale wervelkolom;revisional hemilaminectomy voor decompressie lendenwervel;Revisional hemilaminectomy voor decompressie van lumbale wervelkolom
+442188002;Percutaneous transluminal valvotomy and valvuloplasty of pulmonary valve structure;Percutane transluminale valvotomy en valvuloplasty van pulmonalisklep structuur;percutane transluminale valvotomy en longklepherstel systeem;Percutane transluminale valvotomy en valvuloplasty van pulmonale klep structuur
+442399006;Circumferential panniculectomy;rondlopende panniculectomy;circumferential panniculectomy;Ze panniculectomy
+442732003;Circumferential lipectomy;rondlopende lipectomy;circumferential lipectomie;Ze lipectomy
+443396005;Pneumonostomy with open drainage of abscess of lung using computed tomography guidance;Pneumonostomy met open afvoer van abces van longkanker met behulp van computertomografie begeleiding;pneumonostomy met open drainage van abces using scan guidance;Pneumonostomy met open drainage van het abces van de longen met behulp van computertomografie begeleiding
+443810005;Minithoracotomy and biopsy of lung;Minithoracotomy en biopsie van de long;minithoracotomy en longbiopsie;Minithoracotomy en biopsie van longkanker
+444162001;Suction assisted lipectomy of abdomen;Zuig bijgestaan ​​ lipectomy van de buik;afzuigen begeleide lipectomie abdomen;Zuignap bijgestane lipectomy van buik
+445944001;Endodiathermy of vitreous body;Endodiathermy van het glasachtig lichaam;endodiathermy van corpus vitreum;Endodiathermy van glasvocht lichaam
+446420001;Simple mastectomy with complete axillary lymphadenectomy;Simple mastectomie met volledige oksel lymphadenectomy;mastectomie met volledig axillaire lymfadenectomie;Eenvoudige mastectomie , met volledige axillaire lymphadenectomy
+446570000;Craniectomy by retromastoid approach;Craniectomy door retromastoide aanpak;crani ë ctomie door retromastoid approach;Craniectomy door de aanpak van de retromastoid
+446960007;Laparoscopic salpingo-oophorectomy with conversion to laparotomy;Laparoscopische salpingo - oophorectomy met conversie naar laparotomie;laparoscopische adnexectomie met conversiestoornissen - laparotomie;Laparoscopische salpingo - o ö forectomie met conversie naar laparotomie
+447168009;Excision of breast tissue with complete axillary lymphadenectomy;Excisie van borstweefsel met volledig oksel lymphadenectomy;excisie van weefsel met volledig axillaire lymfadenectomie;Excisie van het weefsel van de borst met volledige axillaire lymphadenectomy
+447746007;Endarterectomy and patch repair of inferior mesenteric artery;Endarterectomy en patch reparatie van inferieure mesenterica;endarterectomie en epicutane herstel van arteria mesenterica inferior;Endarterectomy en patch reparatie van inferieure mesenterische slagader
+448341002;Endarterectomy and patch repair of suprarenal artery;Endarterectomy en patch reparatie van bijnieren slagader;endarterectomie en epicutane herstel suprarenal arterieel;Endarterectomy en patch reparatie van suprarenal slagader
+448369005;Pharyngolaryngoesophagectomy and radical neck dissection;Pharyngolaryngoesophagectomy en radicale halsklierdissectie;pharyngolaryngoesophagectomy en radicale nekdissectie;Pharyngolaryngoesophagectomy en radicale nek dissectie
+449665001;Escharotomy of burnt skin of upper arm;Escharotomy van verbrande huid van de bovenarm;escharotomie van brandwonden geclassificeerd naar uitgebreidheid van betrokken van bovenarm;Escharotomy van verbrande huid van bovenarm
+449666000;Escharotomy of burnt skin of upper limb;Escharotomy van verbrande huid van de bovenste ledematen;escharotomie van brandwonden geclassificeerd naar uitgebreidheid van betrokken huid van bovenste extremiteit;Escharotomy van verbrande huid van bovenste extremiteit
+449667009;Escharotomy of burnt skin of lower limb;Escharotomy van verbrande huid van de onderste ledematen;escharotomie van brandwonden geclassificeerd naar uitgebreidheid van betrokken huid van onderste extremiteit;Escharotomy van verbrande huid van onderste extremiteit
+449668004;Escharotomy of burnt skin of lower leg;Escharotomy van verbrande huid van onderbeen;escharotomie van brandwonden geclassificeerd naar uitgebreidheid van betrokken van onderbeen;Escharotomy van verbrande huid van het onderbeen
+450486009;Antegrade colonic enema through appendicostomy;Antegrade colon klysma door middel appendicostomy;anterograde colon lavementtoediening via appendicostomie;Antegrade colonic klysma via appendicostomy
+450696008;Endarterectomy and patch repair of artery;Endarterectomy en patch reparatie van slagader;endarterectomie en epicutane arterieel herstel;Endarterectomy and patch repair of artery
+711210005;Cholecystostomy using computed tomography guidance;Cholecystostomy gebruik van computertomografie begeleiding;cholecystostomie using scan guidance;Cholecystostomy met behulp van computertomografie begeleiding
+711229004;Laparoscopic distal subtotal gastrectomy;Laparoscopische distale subtotaal gastrectomy;laparoscopische billroth operatie i;Laparoscopische distale subtotaal Gastrectomie
+711471000;Cheilectomy of tarsal;Cheilectomy van tarsal;cheilectomy van meibom;Cheilectomy of tarsal
+3001009;Total lobectomy with bronchoplasty;Totaal lobectomie met bronchoplasty;totale lobectomie ( met bronchoplastiek;Total lobectomie met bronchoplasty
+5777000;Flexorplasty of elbow;Flexorplasty elleboog;flexorplasty van elleboog;Flexorplasty van de elleboog
+178492001;Genioplasty;genioplasty;mentoplastiek;kinplastiek
+208111009;Ureteroplasty;Ureteroplasty;ureterherstel;urteroplastiek
+235375004;V-Y anoplasty;V - Y anoplasty;v - y anoplastiek;VY anoplasty
+307240001;Balanoplasty;Balanoplasty;penisherstel;balanoplastiek
+307817008;Arthroplasty of knee using cement;Arthroplasty van de knie met behulp van cement;implantatie van using cement;Artroplastiek van knie met cement
+307922009;Laser assisted uvulopalatopharyngoplasty;Laser bijgestaan ​​ uvulopalatopharyngoplasty;laser uvulopalatofaryngoplastiek;Laser bijgestaan uvulopalatopharyngoplasty
+312097006;Oral vestibuloplasty using graft;Orale vestibuloplasty gebruik graft;vestibuloplastiek using transplantaat;Mondelinge vestibuloplasty met behulp van graft
+392207004;Uterine stomatoplasty;baarmoeder stomatoplasty;uterus stomatoplasty;Uteriene stomatoplasty
+413934005;Crescentic wedge resection after penetrating keratoplasty;Crescentische wigresectie na penetrerende keratoplasty;toenemende teennagelwig resectie na perforerende keratoplastiek;Crescentic wig resectie na indringende keratoplasty
+414873001;Noncontact holmium YAG laser keratoplasty;Contactloze holmium YAG laser keratoplasty;noncontact holmium yag laser keratoplastiek;Noncontact holmium YAG laser keratoplasty
+415230005;Radiofrequency somnoplasty;radiofrequentie Somnoplasty;radiofrequency somnoplasty;Radiofrequente somnoplasty
+415687006;Suture adjustment after keratoplasty;Suture aanpassing na keratoplasty;suture aanpassingsreactie na keratoplastiek;Sutuur ( geologie ) aanpassing na keratoplasty
+421266004;Descemet's stripping endothelial keratoplasty;Descemet stripping endothelial keratoplasty;descemet - stripping endotheliale keratoplastiek;Van Descemet strippen endothelial keratoplasty
+429269009;Aortoventriculoplasty with pulmonary valve autograft;Aorta Ventriculoplasty met pulmonale klep autograft;aortoventriculoplasty met pulmonale autograft;Aortoventriculoplasty met pulmonale klep autograft
+438859009;Revision of arthroplasty of wrist joint with removal of implant;Herziening van arthroplasty van polsgewricht met het verwijderen van het implantaat;hervormen implantatie pols met verwijdering;Herziening van artroplastie van pols gezamenlijke met verwijdering van implantaat
+439530005;Percutaneous intradiscal annuloplasty using fluoroscopic guidance;Percutane intradiscale annuloplasty behulp van doorlichting;elektrostimulatie , intradiscal annuloplasty using fluoroscopic guidance;Percutane intradiscal annuloplasty met behulp van fluoroscopic begeleiding
+439925004;Excision of constriction ring of finger with Z plasty;Excision van beklemming ring van de vinger met Z plasty;excisie constrictie ring van vingers , ge z plasty;Excisie van vernauwing ring voor vinger met Z - plastie
+448352008;Sphincteroplasty of pancreatic duct using duodenal approach;Sphincteroplasty van alvleesklierbuis gebruik duodenale aanpak;sfincterherstel van ductus using duodeni approach;Sphincteroplasty van de ductus pancreaticus met duodenale aanpak
+448796005;Primary interposition arthroplasty of metatarsophalangeal joint;Primaire tussenkomst arthroplasty van metatarsofalangeale gewricht;primaire interposition implantatie middenvoetsbeengewricht;Primaire spreekbeurt artroplastie van metatarsofalangeale gezamenlijke
+647000;Excision of cervix by electroconization;Excisie van de baarmoederhals door electroconization;excisie van cervicale electroconization;Excisie van baarmoederhals door electroconization
+746002;Chiropractic adjustment of coccyx subluxation;Chiropractische behandeling van stuitbeen subluxation;chiropraxis bijstellen van subluxatie;Chiropractie aanpassing van stuitbeen subluxation
+5745003;Excision ampulla of Vater with reimplantation of common duct;Excision ampulla van Vater met herimplantatie van gemeenschappelijk kanaal;excisie oddi met replantatie ductus communis;Excision ampulla van Vater met reimplantation van gemeenschappelijk kanaal
+52224004;Pelvic exenteration;Pelvic exenteration;bekkenorganenverwijdering;pelviotomie
+62972009;Extraction;Extraction;bevalling;Extraheren
+64879003;Photocoagulation;photocoagulation;lichtcoagulatie;fotocoagulatie
+75180006;Percussion;Percussion;percussie;Slaginstrument
+185925007;Prescription event monitoring;Prescription event monitoring;profylaxe niet monitoring;monitoring van geneesmiddelenvoorschrijving
+306995009;Dissection protocol MRI;Dissection protocol MRI;dissecans protocol angiografie;Dissectie protocol MRI
+306997001;Local anesthetic block of sympathetic nerve or ganglion;Plaatselijke verdoving blok sympathiek of ganglion;anesthesie anesthesie , sympathische en cyste;Plaatselijke verdoving blok van sympathische zenuwen of ganglion
+307072009;Microsuction clearance of external auditory canal;Microsuction goedkeuring van de uitwendige gehoorgang;microsuction clearance in de uitwendige gehoorgang;Microsuction externe auditieve canal Goedkeuringvande
+307507006;Excision jejunocolic fistula;Excision jejunocolic fistel;extern jejunocolic fistel;Excisie jejunocolic fistel
+307944004;Excision vocal cord mucosal cyst;Excision stembanden mucosale cyste;excisie stemband mucosacyste;Excisie koord vocale mucosal cyste
+308696000;Coarctation angioplasty;coarctation angioplastiek;coarctatie angioplastiek;Coarctation angioplasty
+308709009;Nerve block of cranial nerve or ganglion;Zenuwblokkade van hersenzenuw of ganglion;zenuwblokkade , hersenzenuw - en cyste;Zenuw blok craniale zenuw of ganglion
+308710004;Neurolytic block of cranial nerve or ganglion;Neurolytische blok hersenzenuw of ganglion;neurolytic obstructie van de craniale zenuwen en cyste;Neurolytic blok craniale zenuw of ganglion
+310393006;Suture of lung laceration;Suture van longkanker laceration;hechting inscheuring van long;Sutuur ( geologie ) voor longkanker bedwelming beschadigen
+310394000;Stapling of lung laceration;Nieten van de long laceration;dichtnieten inscheuring van long;Nieten van longkanker bedwelming beschadigen
+311693007;Phonation exercises;phonation oefeningen;fonatie inspanningstherapie;Articulatie oefeningen
+312713003;Panretinal photocoagulation;panretinale photocoagulation;panretina laser coagulatie;Panretinal photocoagulation
+312773005;Re-ligation of saphenofemoral junction;Re - ligatie van saphenofemoral junction;#NAAM?;Opnieuw Afbinding van saphenofemoral junction
+313048008;Augmentation of femur;Augmentation van femur;augmentation van;Vergroting van het dijbeen
+313050000;Augmentation of humerus;Augmentation van opperarmbeen;augmentation van humerus;Vergroting van de humerus
+313051001;Augmentation of ulna;Augmentation van ellepijp;augmentation ulna;Vergroting van de ulna
+361165009;V-Y operation for ectropion;V - Y verrichting voor ectropion;v - y chirurgie voor ectropion;VY verrichting voor ectropion
+384708008;Fulguration;fulguration;elektrocaustiek;fulguratio
+394867009;Health administration;Health Administration;gezondheid toediening;ADMINISTRATIE
+397193006;Percutaneous transluminal coronary angioplasty by rotoablation;PTCA door rotoablation;percutane transluminale coronaire angioplastiek door rotoablation;Percutane transluminale coronaire angioplasty door rotoablation
+397244006;Repair of renal laceration;Reparatie van renale laceration;herstel van laceratie;Reparatie van renale bedwelming beschadigen
+399117003;Polymerase chain reaction test for Hepatitis C;Polymerase chain reaction test voor Hepatitis C;pcr test hepatitis;Polymerase kettingreactie test voor Hepatitis C
+399143002;Polymerase chain reaction test for Neisseria gonorrhea;Polymerase chain reaction test voor Neisseria gonorroe;pcr test neisseria gonorroe;Polymerase kettingreactie test voor Neisseria gonorroe
+399150003;Polymerase chain reaction test for SARS;Polymerase chain reaction test voor SARS;pcr test sars;Polymerase kettingreactie test voor SARS
+399158005;Repair of fallopian tube by reimplantation into uterus;Reparatie van de eileider door reimplantation in de baarmoeder;salpingoplastiek door replantatie naar uterus;Reparatie van eileider door reimplantation in baarmoeder
+399256002;Polymerase chain reaction test for HIV 1;Polymerase chain reaction test voor HIV - 1;pcr test voor hiv 1;Polymerase kettingreactie test voor HIV - 1
+400926009;Accomodative convergence/accomodation ratio measurement;Accomodative convergentie / accomodation verhouding meting;accomodative convergentie / accomodation ratio;Meting van de verhouding van Accomodative convergentie / accommodatie
+401306006;Phakoemulsification of lens and insertion of prosthetic replacement;Phakoemulsification van de lens en het inbrengen van een prothese;phakoemulsification lens en van vervanging;Phakoemulsification van de lens en inbrengen van prothetische vervanging
+405284001;Correction of portal-systemic shunt by complete suture ligation;Correctie van portal - systemische shunt door volledige hechtdraad ligation;herstel van portale systemische shunt door volledige suture ligatuur;Correctie van portaal - systemische shunt door volledige hechtdraad afbinding
+405298009;Excision of cervical rib by trans-axillary approach;Excision van cervicale rib van trans - oksel aanpak;halsribexcisie door trans van axillaire approach;Excisie van cervicale rib door trans - axillaire aanpak
+405325000;Avulsion of subfascial perforating veins;Avulsion van subfascial perforerende aderen;traumatisch subfascial perforerende extremiteiten;Avulsie van subfascial aderen holpijpen
+405521008;Aorto-profunda bifrucation graft for repair of aneurysm;Aorto - profunda bifrucation graft voor reparatie van het aneurysma;aorta - profunda bifrucation transplantaat voor aneurysmaherstel;Aorto - profunda bifrucation transplantaat voor reparatie van aneurysma
+405540002;Avulsion of eyelid nerve;Avulsion van het ooglid zenuw;avulsie van hersenzenuw;Avulsie van ooglid zenuw
+405712005;Excision of hyperplastic oral soft tissue;Excision van uitgesproken orale weke delen;excisie hyperplastische oraal;Excisie van hyperplastische mondelinge weke delen
+405713000;Excision of denture irritation hyperplasia;Excision prothese irritatie hyperplasie;excisie van gebitsprothese irritatie hyperplasie;Excisie van gebit irritatie hyperplasie
+406918006;Procion brilliant blue MRS stain method;Procion schitterende blauwe MRS methode vlek;procion brilliant blauwe mrs stain - kleuring;Procion briljant blauw MRS vlek methode
+408888006;Vision care assessment;Vision care assessment;gezichtsvermogen zorg onderzoek;Visie zorg beoordeling
+408889003;Vision care education;Vision zorg onderwijs;gezichtsvermogen zorg onderwijzen;Visie zorg onderwijs
+410170008;Nutrition care assessment;Nutrition indicatiestelling;ondervoeding zorg onderzoek;Voeding verzorging beoordeling
+410171007;Nutrition care education;Nutrition zorg onderwijs;ondervoeding zorg onderwijzen;Voeding zorg onderwijs
+410172000;Nutrition care management;Nutrition zorgmanagement;ondervoeding zorg behandeling;Voeding zorg management
+410555001;Excision of benign salivary neoplasm;Excision van goedaardige gezwellen speeksel;benigne tumorexcisie speekselklier neoplasma;Excisie van goedaardige gezwellen van speeksel
+410751007;Procedure on ganglion cyst;Procedure op ganglion;verrichting cyste;Procedure op ganglion cyste
+415089008;Phacoemulsification of cataract with intraocular lens implantation;Phacoemulsification van cataract met intra - oculaire lensimplantatie;phacoemulsification cataract met lensimplantaat;Phacoemulsification van cataract met intraoculaire lens implantatie
+416382003;Percussion vibrator technique;Percussion vibrator techniek;percussie vibrator ,;Percussie vibrator techniek
+416985008;Traction technique;Traction techniek;tractieloslating ,;Tractie techniek
+418121005;Bimanual phacoemulsification of lens with intraocular lens implantation;Bimanual phacoemulsification van de lens met intra - oculaire lensimplantatie;bimanual phacoemulsification van lens bij lensimplantaat;Bimanual phacoemulsification van lens met intraoculaire lens implantatie
+418151004;Polymerase chain reaction test for Leishmania infantum;Polymerase chain reaction test voor Leishmania infantum;pcr test leishmania infantum;Polymerase kettingreactie test voor Leishmania infantum
+418311007;Repair of lower eyelid ectropion by suture;Reparatie van de onderste ooglid ectropion door hechtdraad;herstel van ectropion ligatuur;Reparatie van onderste ooglid ectropion door Sutuur ( geologie )
+418430006;Bimanual phacoemulsification of cataract with intraocular lens implantation;Bimanual phacoemulsification van cataract met intra - oculaire lensimplantatie;bimanual phacoemulsification cataract met lensimplantaat;Bimanual phacoemulsification van cataract met intraoculaire lens implantatie
+419767009;Bimanual microincisional phacoemulsification of cataract with intraocular lens implantation;Bimanual microincisional phacoemulsification van cataract met intra - oculaire lensimplantatie;bimanual microincisional phacoemulsification cataract met lensimplantaat;Bimanual microincisional phacoemulsification van cataract met intraoculaire lens implantatie
+425751005;Endoscopic cryoablation of lesion of kidney;Endoscopische cryoablation van letsel van de nier;endoscopische cryochirurgie van de nier;Endoscopische cryoablation van laesie van de nier
+438557003;Excision and total replacement of lumbar intervertebral disc with prosthesis by anterior approach;Excision en totale vervanging van de lumbale tussenwervelschijf met prothese door anterior aanpak;hysterectomie met implantatie lumbale tussenwervelschijf met prothese door voorste approach;Excisie en totale vervanging van lumbale tussenwervelschijf met prothese door anterieure benadering
+438769009;Unifocalization of pulmonary artery with cardiopulmonary bypass;Unifocalization van longslagader met cardiopulmonale bypass;unifocalization abnormaal met cardiopulmonale bypass;Unifocalization van de longslagader met cardiopulmonale bypass
+439363002;Repair of nonunion of carpal bone;Reparatie van nonunion van carpaal bot;herstel van niet aangroeien van pols;Reparatie van nonunion van de carpale botten
+439368006;Laparoscopic cryoablation of neoplasm of liver;Laparoscopische cryoablation van neoplasma van lever;laparoscopische cryochirurgie van lever neoplasma;Laparoscopische cryoablation van gezwellen in de lever
+439524005;Dissection within cavernous sinus for obliteration of carotid artery aneurysm;Dissection binnen spelonkachtige sinus voor de vernietiging van de halsslagader aneurysma;dissecans binnen sinus cavernosus voor postmastectomie aneurysma;Dissectie binnen cavernous sinus voor vernietiging van de halsslagader aneurysma
+439826004;Laparoscopic reconstruction of ureteropelvic junction;Laparoscopische reconstructie van ureteropelvic junction;laparoscopische pyeloplastiek;Laparoscopische wederopbouw van ureteropelvic junction
+440369006;Evaluation of oral stage deglutition and pharyngeal stage deglutition;Evaluatie van de mondelinge behandeling slikken en keelholte fase deglutition;onderzoek van stadium slikken en farynx stadium slikken;Evaluatie van de mondelinge behandeling deglutition en faryngaal fase deglutition
+440470008;Creation of lesion of gasserian ganglion with neurolytic agent using stereotactic method;Oprichting van letsel van Gasser ganglion met neurolytic middel met behulp van stereotactische methode;operatie van ganglion gasseri met neurolytic door using stereotactic - kleuring;Oprichting van laesie of gasserian ganglion met neurolytic agent stereotactische methode
+441525007;Percutaneous transluminal chemoembolization of artery;Percutane transluminale chemoembolization van de slagader;percutane transluminale chemoembolization arterie;Percutane transluminale chemoembolization van slagader
+441925000;Remanipulation of fragment of bone and fixation using screw;Remanipulation van fragment van bot en fixatie met behulp van de schroef;remanipulation van fragment van bot en fractuur using botschroeven;Remanipulation van fragment van bot - en fixatie met behulp van de schroef
+442192009;Revisional fusion of occipitocervical junction;Revisional fusie van occipitocervical junction;revisional sluiting van occipitocervical overgang;Revisional fusion van occipitocervical junction
+442207004;Remanipulation of fracture of short bone and fixation using screw;Remanipulation van breuk van korte bot en fixatie met behulp van de schroef;remanipulation van van bot fractuur using botschroeven;Remanipulation van fractuur van het korte been en fixatie met behulp van de schroef
+442807006;Insertion of intraaortic balloon counterpulsation device through femoral artery;Het inbrengen van intraaortic ballon counterpulsation apparaat via liesslagader;plaatsing van intraaortic transluminale counterpulsation hulpmiddel via arteria femoralis;Inbrengen van intraaortic ballon counterpulsation toestel via de femorale slagader
+442836006;Excision of benign neoplasm of phalanx of finger with autograft;Excision van goedaardige gezwellen van de falanx van de vinger met autograft;excisie van benigne phalanx van vingers , ge ï autograft;Excisie van goedaardige gezwellen in de falanx van vinger met autograft
+443025009;Reamputation of lower leg through tibia and fibula;Reamputation van onderbeen door middel van scheenbeen en kuitbeen;reamputation been via tibia en fibula;Reamputation van het onderbeen via scheenbeen en kuitbeen
+443139007;Replantation of forearm between wrist and elbow after complete amputation;Replantation van voorarm tussen de pols en elleboog na volledige amputatie;replantatie , onderarm tussen pols en elleboog na volledige amputatie;Replantation van de onderarm tussen pols en elleboog na volledige amputatie
+443244005;Replantation of hand between wrist and fingers after complete amputation;Replantation van de hand tussen de pols en de vingers na volledige amputatie;replantatie , hand tussen pols en vingers na volledige amputatie;Replantation van de hand tussen de pols en vingers na volledige amputatie
+443422003;Replantation of thumb between carpometacarpal and metacarpophalangeal joints after complete amputation;Replantation van de duim tussen carpometacarpale en metacarpofalangeaal gewricht na volledige amputatie;replantatie duim tussen carpometacarpale en metacarpofalangeaal gewrichten na volledige amputatie;Replantation van duim tussen afgescheiden en metacarpophalangeal gewrichten na volledige amputatie
+443530000;Screen for 29 common genetic mutations of cystic fibrosis using amplification refractory mutation system polymerase chain reaction assay technique;Scherm voor 29 gemeenschappelijke genetische mutaties van cystic fibrosis gebruik versterking van vuurvaste mutatie systeem polymerase chain reaction assay techniek;screen voor 29 gewone genetische mutations van fibrose using amplification refractaire mutatie nao pcr assay ,;Scherm voor 29 gemeenschappelijke genetische mutaties van cystic fibrosis met behulp van versterking vuurvaste mutatie systeem polymerase kettingreactie assay techniek
+443614004;Replantation of upper arm between elbow and shoulder after complete amputation;Replantation van bovenarm tussen de elleboog en de schouder na volledige amputatie;replantatie , membrum superius elleboog schouder na volledige amputatie;Replantation van de bovenarm tussen de elleboog en schouder na volledige amputatie
+443797003;Revison of amputation;Revision van amputatie;revison - amputatie;Hieruit van amputatie
+443829004;Percutaneous transluminal balloon angioplasy of coarctation of aorta with insertion of stent;Percutane transluminale ballon angioplasy van coarctation van de aorta met het inbrengen van de stent;percutane transluminale arteri ë le angioplasy , coarctatie van aorta , met implantatie stentplaatsing;Percutane transluminale ballon angioplasy van coarctation van aorta met invoeging van stent
+443891005;Injection of steroid into chalazion;Injectie van stero ï den in chalazion;inspuiting van stero ï naar chalazion;Injectie van stero ï de in chalazion
+444260001;Screen for 20 common genetic mutations of cystic fibrosis using amplification refractory mutation system polymerase chain reaction assay technique;Scherm voor 20 gemeenschappelijke genetische mutaties van cystic fibrosis gebruik versterking van vuurvaste mutatie systeem polymerase chain reaction assay techniek;screen voor 20 gewone genetische mutations van fibrose using amplification refractaire mutatie nao pcr assay ,;Scherm voor 20 gemeenschappelijke genetische mutaties van cystic fibrosis met behulp van versterking vuurvaste mutatie systeem polymerase kettingreactie assay techniek
+444272007;Quantitative measurement of mass concentration of mephenytoin and normephenytion in serum or plasma specimen;Kwantitatieve meting van de massa concentratie van mefenyto ï ne en normephenytion in serum of plasma specimen;quantitative , gezwel concentratie ( mephenytoin en normephenytion in serum en plasma bronchoalveolaire;Kwantitatieve meting van de massaconcentratie van mephenytoin en normephenytion in serum of plasma monster
+444975002;Detection of Treponema pallidum using polymerase chain reaction technique;Detectie van Treponema pallidum met behulp van polymerase chain reaction techniek;test , treponema using pcr ,;Detectie van Treponema pallidum met behulp van polymerase kettingreactie techniek
+445155002;Removal of wax from external auditory canal using microsuction;Het verwijderen van was uit uitwendige gehoorgang met behulp microsuction;verwijdering smeer in oor using microsuction;Verwijderen van was uit externe auditieve kanaal met behulp van microsuction
+445346006;Detection of avian influenza A using polymerase chain reaction technique;Detectie van aviaire influenza A met behulp van polymerase chain reaction techniek;test vogelpestvirus - using pcr ,;Detectie van aviaire influenza A met behulp van polymerase kettingreactie techniek
+445469005;Reinsertion of internal bone fixation device;Reinsertion interne bot fixatie apparaat;replantatie , osteosynthese hulpmiddel;Herintegratie van interne bot fixatie apparaat
+445758008;Balloon compression of trigeminal ganglion;Balloon compressie van trigeminus ganglion;transluminale compressie ganglion trigeminale;Ballon compressie van trigeminal ganglion
+445979004;Assessment using World Health Organization fracture risk assessment tool for hip fracture probability;Assessment met behulp van World Health Organization risico op botbreuken tool voor heupfractuur waarschijnlijkheid assessment;beoordeling , using wereld van organization fractuur risicobeoordeling tool voor fractuur probability;Beoordeling met behulp van de World Health Organization breuk risico evaluatieprogramma voor heup fractuur kans
+445984005;Assessment using World Health Organization fracture risk assessment tool for osteoporotic fracture probability;Assessment met behulp van World Health Organization risico op botbreuken assessment tool voor osteoporotische fracturen waarschijnlijkheid;beoordeling , using wereld van organization fractuur risicobeoordeling tool voor fractuur probability;Beoordeling met behulp van de World Health Organization breuk risico evaluatieprogramma voor osteoporotisch fractuur kans
+446067007;Fenestration of lamina of vertebra;Fenestration van de lamina van de wervel;fenestration van lamina wervel;Fenestration van lamina van wervel
+446107007;Focal photocoagulation of chorioretinal lesion using laser;Focal photocoagulation van chorioretinale laesie met behulp van laser;focale fotocoagulatie chorioretinale aandoening using laser;Focal photocoagulation van chorioretinal - laesie met behulp van laser
+446108002;Grid photocoagulation of chorioretinal lesion using laser;Grid photocoagulation van chorioretinale laesie met behulp van laser;grid fotocoagulatie chorioretinale aandoening using laser;Raster photocoagulation van chorioretinal - laesie met behulp van laser
+446114009;Excision of malignant epithelial neoplasm of nose;Excision van kwaadaardige epitheliale neoplasma van de neus;excisie carcinoom van de neus;Excisie van kwaadaardige epitheliale gezwellen in de neus
+446295000;Excision of scar;Excision litteken;littekenexcisie;Excisie van litteken
+446412003;Electrocauterization of urinary bladder;Electrocauterization van urineblaas;electrocauterization blaas;Electrocauterization van de urineblaas
+446433007;Anterior exenteration of female pelvis;Anterior exenteration van de vrouwelijke bekken;voorste evisceratie vrouwelijk bekken;Anterieure exenteration van vrouwelijke bekken
+446491006;Reinsertion of tunneled central venous catheter;Reinsertion van getunnelde centraal veneuze katheter;replantatie , tunneled veneuze katheterisatie;Herintegratie van getunnelde centraal veneuze katheter
+446679008;Total laparoscopic exicision of uterus by abdominal approach;Totale laparoscopische exicision van de baarmoeder door abdominale benadering;totale laparoscopische exicision uterus door ectopisch approach;Totale laparoscopische exicision van de baarmoeder door de aanpak van de buik
+446705006;Trephination of cranium and drainage of chronic hematoma from subdural space;Trephination van de schedel en de drainage van chronische hematoom van subdurale ruimte;trepanatie en afscheiding , hematoom van subduraal;Trephination van schedel en afvoer van chronische hematoom vanuit de subduraal ruimte
+446805001;Exploration using laparoscope;Exploration gebruik laparoscope;exploration using laparoscopen;Met behulp van de laparoscoop exploratie
+446850004;Trephination of cranium and external drainage of effusion from subdural space;Trephination van de schedel en externe drainage van de uitstorting van subdurale ruimte;trepanatie en uitwendige drainage vochtophoping in subduraal;Trephination van schedel en externe afvoer van effusie van subduraal ruimte
+446971008;Assessment using mini-mental state examination;Assessment met behulp van mini - Mental State Examination;beoordeling , using mmse;Beoordeling met behulp van de mini - mental staatsexamen
+447156000;Trephination of cranium and drainage of empyema of subdural space;Trephination van de schedel en de afvoer van empyeem van subdurale ruimte;trepanatie en empyeemdrainage , subduraal;Trephination van schedel en afvoer van ruimte op de subduraal empyeem
+447173003;Excision of contiguous neoplasm of extradural and intradural space of spine;Excision aaneengesloten neoplasma van extradurale en intradurale ruimte van de wervelkolom;excisie van contiguous neoplasma extraduraal en intradural ruimte van;Excisie van aaneengesloten gezwellen in extradural en intradural ruimte voor spine
+447221008;Fenestration of cyst of arachnoid;Fenestration van cyste van arachnoid;fenestration van van arachnoidea;Fenestration van van arachnoid cyste
+447862008;Excision of benign neoplasm of mandible;Excision van goedaardige gezwellen van de onderkaak;excisie van benigne neoplasma van onderkaak;Excisie van goedaardige gezwellen in de onderkaak
+447877000;Transcatheter arterial chemoembolization using ethiodized oil vehicle;Transcatheter arteri ë le chemoembolization behulp ethiodized olie voertuig;transcatheter arteri ë le chemoembolization using ethiodized olie voertuig;Transcatheter arteri ë le chemoembolization gebruik ethiodized olie voertuig
+448018000;Reexcision of skin margins of head and/or neck;Reexcision van de huid marges van het hoofd en / of nek;reexcision van margins van hoofd en hals;Reexcision van de marges van de huid van het hoofd en / of nek
+448023000;Excisional biopsy of ganglion cyst;Excisiebiopt van ganglion;biopsie cyste;Excisional biopsie van ganglion cyste
+448340001;Reopening of chest and reexploration of intraabdominal operation site;Heropening van de borst en reexploration van intra - abdominale operatie ter plaatse;reopening van thorax en reexploration van intra chirurgische plaats;Heropening van borst - en reexploration van intraabdominal operatie site
+448511003;Excisional biopsy of ganglion cyst of hand;Excisiebiopt van ganglion van de hand;biopsie ganglion van hand;Excisional biopsie van ganglion cyste van hand
+448785002;Placement of stent at site of coarctation of aorta;Plaatsing van de stent op de site van coarctation van de aorta;stentplaatsing ter plaatsen van aortacoarctatie;Plaatsing van een stent op de site van coarctation van de aorta
+448901001;Excision of ganglion cyst of finger;Uitsnijden van ganglion van de vinger;ganglionverwijdering vinger;Excision of ganglion cyst of finger
+448940006;Reopening of cranium and reexploration of intracranial operation site;Heropening van de schedel en reexploration van intracrani ë le behandelinglocatie;reopening van schedel en reexploration van de intracraniale chirurgische plaats;Heropening van de schedel en de reexploration van intracrani ë le operatie site
+448941005;Reopening of abdomen and reexploration of intraabdominal operation site;Heropening van de buik en reexploration van intra - abdominale operatie ter plaatse;reopening buik en reexploration van intra chirurgische plaats;Heropening van de buik - en reexploration van intraabdominal operatie site
+449028002;Remanipulation of fracture of bone and external fixation;Remanipulation van breuk van het bot en externe fixatie;remanipulation van bot , externe;Remanipulation van fractuur van het bot en externe fixatie
+449376006;Reamputation of thumb;Reamputation van de duim;reamputation duim;Reamputation van duim
+449403001;Balloon dilation of recoarctation of aorta;Ballondilatatie van recoarctation van de aorta;transluminale dilatatie van recoarctation van;Ballon dilatatie van recoarctation van de aorta
+450485008;Electrodesiccation of lesion of skin;Electrodesiccation laesie van de huid;elektrodesiccatie van de huid;Electrodesiccation van laesie van de huid
+450488005;Excision and retrograde filling of root of tooth;Excision en retrograde vulling van de wortel van de tand;excisie en retrograde filling van de;Excisie en retrograde vulling van wortel van de tand
+450517005;Photodestruction of lesion of skin of neck;Photodestruction laesie van de huid van de nek;photodestruction van de huid van hals;Photodestruction van laesie van de huid van de nek
+450589004;Excision of recurrent sebaceous cyst;Excision van recidiverende Atheroomcyste;excisie recidiverende cyste;Excisie van terugkerende Atheroomcyste
+450590008;Excision of recurrent lipoma of subcutaneous tissue;Excision van recidiverende lipoom van het onderhuidse weefsel;excisie recidiverende lipoom van;Excisie van terugkerende Lipoom van subcutane weefsel
+450730008;Assessment using World Health Organization surgical safety checklist first edition;Assessment met behulp van World Health Organization chirurgische veiligheidscontrolestaat eerste editie;beoordeling , using wereld van organization chirurgische safety checklist eerste edition;Beoordeling met behulp van de World Health Organization chirurgische veiligheid Controlelijst eerste editie
+450802002;Photodestruction of lesion of skin of head;Photodestruction laesie van de huid van het hoofd;photodestruction van de huid van;Photodestruction van laesie van de huid van het hoofd
+450822003;Reexcision of ganglion of hand;Reexcision van ganglion van de hand;reexcision ( ganglion van hand;Reexcision van het ganglion van hand
+450830002;Excision of orbital fat herniation;Excisie van orbitale vet herniation;excisie van orbita vet hernia;Excisie van de orbitale vet herniation
+4934001;Salpingography;Salpingography;salpingogram;salpingografie
+73164003;Neurorrhaphy;Neurorrhaphy;neurorafie;zenuwhechting
+168858007;Retrograde cystography;retrograde cystography;retrograde cystogram;retrograde uretro - cystografie
+176087004;Retrograde bulb ureteropyelography;Retrograde bol ureteropyelography;retrograde bulb ureteropyelography;retrograde uretero - pyelografie
+241052009;Zonography;Zonography;zonografie;zonegrafie
+271317002;Kymography/electrokymography;Kymography / electro kymography;kymografie en electrokymography;Kymography / electrokymography
+312691006;Calibrating aortography;kalibreren aortography;calibrating aortogram;Kalibreren van aortography
+418135007;Fluoroscopic cystography;fluoroscopische cystography;cystogram;Fluoroscopic Cystogram
+418253005;Fluoroscopic defecating proctography;Fluoroscopische mest - proctography;fluoroscopic defecating proctography;Fluoroscopic poepen proctography
+418623007;Fluoroscopic vasography;fluoroscopische vasography;fluoroscopic vasography;Fluoroscopic vasografie
+419407006;Fluoroscopic ileal conduitography;Fluoroscopische ileale conduitography;fluoroscopic van ileum conduitography;Fluoroscopic ileale conduitography
+419741004;Fluoroscopic gastrointestinal tract loopography;Fluoroscopische maagdarmkanaal loopography;fluoroscopic intestinale loopography;Fluoroscopic gastro - intestinale tractus loopography
+431350006;Single photon emission computed tomography scintimammography;SPECT - scan scintimammography;single - photon - scintimammography;SPECT - scan
+439515001;Light reflection rheography;Lichtreflectie rheography;fotopletysmografie;Licht reflectie rheography
+441491005;Ultrasound elastography of liver;Echografie elastography van de lever;echo elastography lever;Echografie van de lever elastography
+441597006;Insertion of depth electroencephalogram electrode into brain for electroencephalography;Het inbrengen van diepte elektro elektrode in de hersenen voor electroencephalography;plaatsing van depth elektro elektrode naar hersenen en eeg;Inbrengen van diepte electroencephalogram elektrode in de hersenen voor elektro - encefalografie
+441617000;Placement of subdural electroencephalogram electrode on brain surface for electroencephalography;Plaatsing van subdural elektro elektrode op de hersenen oppervlak voor electroencephalography;placement van subduraal elektro elektrode nao hersenen oppervlak voor eeg;Plaatsing van subduraal electroencephalogram elektrode op de hersenen oppervlak voor elektro - encefalografie
+443275001;Single photon emission computed tomography with computed tomography scintimammography;SPECT - scan met computertomografie scintimammography;emissiecomputertomografie scan scintimammography;Single photon emission tomography met computertomografie scintimammography berekend
+448764002;Ultrasound elastography;ultrasound elastography;echo elastography;Ultrasone elastography
+451016002;Radiotherapy planning using cone beam computed tomography;Radiotherapie planning met behulp van cone beam computed tomography;oncologie , radio - planning using baarmoederhals conus beam scan;Radiotherapie planning met behulp van cone beam computed tomografie
+711269003;Fluoroscopic splenoportography;fluoroscopische splenoportography;fluoroscopic splenoportografie;Fluoroscopic splenoportography
+711304008;Magnetic resonance imaging proctography;Magnetic Resonance Imaging proctography;magnetische proctography;MRI - scanner
+711356000;Fluoroscopic hypotonic duodenography;Fluoroscopische hypotone duodenography;fluoroscopic inertia duodenography;Fluoroscopic hypotone duodenography
+10259007;Proctopexy;Proctopexy;rectopexie;proctopexie
+307043008;Retry-in denture;Retry - in prothese;retry , gebitsprothese;Nieuwe poging - in gebit
+397832002;Transcranial cerebral oximetry;Transcrani ë le cerebrale oximetry;transcraniale cerebrale oximetrie;Transcrani ë le cerebrale oxymetrie
+24247004;Euglobulin lysis time;Euglobuline lysis tijd;euglobulin lysis stollingstijd;euglobulinestolsel - lysistijd
+397453002;Gamma-phage lysis test;Gamma - faag lysis - test;gamma - bacteriofaag lysis -;Gamma - faag lysis test
+439817002;Thoracoscopy with total pulmonary decortication and intrapleural pneumonolysis;Thoracoscopie met een totale pulmonale ontdopping en intrapleurale pneumonolysis;pleuroscopie met volledig pulmonale decortication en intrapleural pneumolyse;Thoracoscopy met totale pulmonaire ontdopping en pleurale pneumonolysis
+441600007;Arthrolysis after total prosthetic replacement of knee joint;Arthrolysis na een totale prothese vervanging van het kniegewricht;artrolyse na totale vervanging van knie;Arthrolysis na totale prothetische vervanging van kniegewricht
+443799000;Quantitative measurement of number fraction of hypertonic cryohemolysis of red blood cells;Kwantitatieve meting van het aantal fractie van hypertone cryohemolysis van rode bloedcellen;quantitative , number fraction - hyperactieve cryohemolysis rode bloedcellen;Kwantitatieve meting van nummer breuk van hypertonic cryohemolysis van rode bloedcellen
+443979002;Quantitative measurement of mass concentration of creatinine in postdialysis serum or plasma specimen;Kwantitatieve meting van de massa concentratie van creatinine in postdialysis serum of plasma specimen;quantitative , gezwel concentratie ( creatinine in postdialysis serum en plasma bronchoalveolaire;Kwantitatieve meting van de massaconcentratie van creatinine in postdialysis serum of plasma monster
+446891002;Laparoscopic lysis of perirenal adhesions;Laparoscopische lysis van verklevingen perirenal;laparoscopische peritoneale verklevingen verwijderen perirenaal adhesie;Laparoscopische lysis van perirenal verklevingen
+446892009;Laparoscopic lysis of periureteral adhesions;Laparoscopische lysis van verklevingen periureteral;laparoscopische peritoneale verklevingen verwijderen periureteral adhesie;Laparoscopische lysis van periureteral verklevingen
+446893004;Laparoscopic lysis of perivesical adhesions;Laparoscopische lysis van verklevingen perivesicaal;laparoscopische peritoneale verklevingen verwijderen perivesical adhesie;Laparoscopische lysis van perivesical verklevingen
+447494005;Laparoscopic lysis of perirenal adhesions by retroperitoneal approach;Laparoscopische lysis van perirenal verklevingen door retroperitoneale benadering;laparoscopische peritoneale verklevingen verwijderen perirenaal adhesie door retroperitoneale approach;Laparoscopische lysis van perirenal verklevingen door de aanpak van de retroperitoneal
+447495006;Laparoscopic lysis of periureteral adhesions by retroperitoneal approach;Laparoscopische lysis van periureteral verklevingen door retroperitoneale benadering;laparoscopische peritoneale verklevingen verwijderen periureteral adhesie door retroperitoneale approach;Laparoscopische lysis van periureteral verklevingen door de aanpak van de retroperitoneal
+447509005;Laparoscopic lysis of intraluminal adhesions of ureter by retroperitoneal approach;Laparoscopische lysis van intraluminale verklevingen van de urineleider door retroperitoneale benadering;laparoscopische peritoneale verklevingen verwijderen intraluminal adhesie ureter door retroperitoneale approach;Laparoscopische lysis van de intraluminale Verklevingen van urineleider door de aanpak van de retroperitoneal
+400933009;Three step test for cyclovertical muscle palsies;Driestapstoets voor cyclovertical spier palsies;drie step test cyclovertical spier palsies;Drie stap test voor cyclovertical spier palsies
+401212003;Fecal screening tests;Fecal screeningtests;fecale screening onderzoeken;Fecaal screeningtests
+673005;Indirect laryngoscopy;Indirecte laryngoscopy;indirecte laryngoscopie;indirect laryngoscopy
+307769009;Diagnostic tracheoscopy;Diagnostic tracheoscopy;diagnostische tracheoscopie;Diagnostische tracheoscopy
+307810005;Brain ventriculoscopy;Brain ventriculoscopy;hersenen ventriculoscopy;Brein ventriculoscopy
+397556008;Corneal specular photomicroscopy;Cornea spiegelende photomicroscopy;cornea specular photomicroscopy;Hoornvlies spiegelende photomicroscopy
+418284007;Fluoroscopy and aspiration of thorax;Fluoroscopy en aspiratie van de thorax;doorlichting en aspiratie borst;Fluoroscopie en aspiratie van thorax
+418691000;Fluoroscopy of submandibular gland;Fluoroscopy van submandibulaire klier;doorlichting glandula submandibularis;Fluoroscopie van submandibulaire klier
+418919001;Fluoroscopy of lower limb;Fluoroscopy van de onderste ledematen;doorlichting been;Fluoroscopie van onderste extremiteit
+419023000;Fluoroscopy and aspiration of pelvis;Fluoroscopy en aspiratie van het bekken;doorlichting en aspiratie van bekken;Fluoroscopie en aspiratie van bekken
+419119006;Fluoroscopy of renal vein;Fluoroscopy van renale ader;doorlichting niervene;Fluoroscopie van renale ader
+419149008;Fluoroscopy of oesophagus and dilatation;Fluoroscopy van de slokdarm en dilatatie;doorlichting slokdarm en dilatatie;Fluoroscopie van slokdarm en maagdilatatie
+419352008;Fluoroscopy and drainage of thorax;Fluoroscopy en drainage van de thorax;doorlichting en drainage van thorax;Fluoroscopie en afvoer van de thorax
+419413002;Fluoroscopy of biliary tract;Fluoroscopy van de galwegen;doorlichting nao;Fluoroscopie van galwegen
+419497000;Fluoroscopy and aspiration of abdomen;Fluoroscopy en aspiratie van de buik;doorlichting en aspiratie buik;Fluoroscopie en aspiratie van buik
+419506000;Fluoroscopy and drainage of pelvis;Fluoroscopy en drainage van het bekken;doorlichting en drainage van bekken;Fluoroscopie en afvoer van bekken
+419552007;Fluoroscopy and biopsy of pelvis;Fluoroscopy en biopsie van het bekken;doorlichting en biopsie van bekken;Fluoroscopie en biopsie van bekken
+419571009;Fluoroscopy of upper limb;Fluoroscopy van de bovenste ledematen;doorlichting arm;Fluoroscopie van bovenste extremiteit
+419664009;Fluoroscopy of upper gastrointestinal tract;Fluoroscopy van de bovenste maagdarmkanaal;doorlichting bovenste maagdarmstelsel;Fluoroscopie van bovenste gastro - intestinale tractus
+419683002;Fluoroscopy of lumbar spine;Fluoroscopy van de lumbale wervelkolom;doorlichting lumbale wervelkolom;Fluoroscopie van lumbale wervelkolom
+419726004;Fluoroscopy and drainage of abdomen;Fluoroscopy en drainage van de buik;doorlichting en abdominocentese;Fluoroscopie en afvoer van buik
+420022001;Fluoroscopy of gastrointestinal tract;Fluoroscopy van het maagdarmkanaal;doorlichting maagdarmstelsel;Fluoroscopie van maagdarmkanaal
+420043000;Fluoroscopy and biopsy of abdomen;Fluoroscopy en biopsie van de buik;doorlichting en biopsie buikwand;Fluoroscopie en biopsie van buik
+420088004;Fluoroscopy of salivary glands;Fluoroscopy van de speekselklieren;doorlichting van speekselklieren;Fluoroscopie van speekselklieren
+421339001;Computer-assisted videokeratoscopy;Computerondersteunde videokeratoscopy;computers , hulp bij videokeratoscopy;Computer - assisted videokeratoscopy
+433065005;Fluoroscopy of gastrointestinal tract using water soluble contrast swallow and meal;Fluoroscopy van het maagdarmkanaal het gebruik van water - oplosbare contrast zwaluw en maaltijd;doorlichting gastro - intestinale using water soluble contrast hirundinidae en meal;Fluoroscopie van gastro - intestinale tractus gebruikt wateroplosbare contrast swallow en maaltijd
+439111004;Cystourethroscopy with transurethral excision of ejaculatory duct;Cystourethroscopy met transurethrale uitsnijding van ejaculatory koker;cysto - urethroscopie met transurethrale resectie van ductus ejaculatorius;Cystourethroscopy met transuretrale excisie van de ejaculatory buis
+439497008;Cystourethroscopy and excision of internal sphincter;Cystourethroscopy en uitsnijding van de interne sluitspier;cysto - urethroscopie en verwijdering van interne achalasie;Cystourethroscopy en excisie van interne sfincter
+440191006;Cystourethroscopy with irrigation and removal of clot;Cystourethroscopy met irrigatie en het verwijderen van stolsel;cysto - urethroscopie met irrigatietherapie en van bloedstolsel;Cystourethroscopy met irrigatie en verwijdering van clot
+446587003;Ureteroscopy and electrohydraulic lithotripsy of calculus of ureter;Ureteroscopy en elektrohydraulische lithotripsy van calculus van de urineleider;ureteroscopie en electrohydraulic lithotripsie renaal ureter;Ureteroscopy en elektrisch lithotripsy van de calculus van urineleider
+448124009;Choledochoscopy and U-tube drainage of common bile duct;Choledochoscopy en U - tube drainage van de galwegen;choledochoscopie en u - drain drainage van ductus choledochus;Choledochoscopy en U - vormige buis drainage van Galgang
+449201002;Video assisted thoracoscopy;Video bijgestaan ​​ thoracoscopy;video begeleide pleuroscopie;Video - geassisteerde thoracoscopy
+295001;Nonexcisional destruction of cyst of ciliary body;Nonexcisional vernietiging van de cyste van corpus ciliare;nonexcisional van corpus ciliare;Nonexcisional vernietiging van cyste of corpus ciliare
+4520009;Anastomosis of esophagus, antesternal or antethoracic, with insertion of prosthesis;Anastomose van de slokdarm , antesternal of antethoracic met insertie prothesen;anastomose , slokdarm antesternal en antethoracic , oogprothese plaatsing;Anastomose van de slokdarm , antesternal of antethoracic met inbrengen prothesen
+9666005;Esophagocolic anastomosis, antesternal or antethoracic;Slokdarm Koliek anastomose , antesternal of antethoracic;esophagocolic anastomose , antesternal en antethoracic;Esophagocolic anastomose , antesternal of antethoracic
+307191007;Transduodenal pancreatic biopsy;Transduodenal pancreas biopsie;transhepatische pancreasbiopsie;Transduodenal alvleesklier biopsie
+307237001;Sternal turnover for pectus excavatum;Sternal omzet pectus;van sternum turnover voor excavatum;Sternale omzet voor pectus excavatum
+307641009;Transduodenal needle biopsy of pancreas;Transduodenal naald biopsie van pancreas;transhepatische biopsienaald pancreas;Transduodenal naald biopsie van de alvleesklier
+309729004;Spinal probing;Spinal indringende;spinale traankanaal probe;Spinale sonderen
+310243009;Nutritional assessment;Nutritional assessment;voedingsbeoordeling;Nutritionele evaluatie
+311479006;Spinal instrumentation;Spinal instrumentatie;spinale instrumentation;Spinale instrumentatie
+359604006;Esophagoesophageal anastomosis, antesternal or antethoracic;Esophago Oesofageale anastomose , antesternal of antethoracic;esophagoesophageal anastomose , antesternal en antethoracic;Esophagoesophageal anastomose , antesternal of antethoracic
+397930006;Percutaneous dilational tracheostomy;Percutane dilational tracheostomie;percutane dilational tracheostoma;Percutane dilational tracheostomy
+408981001;Renal care assessment;Renal care assessment;nier zorg onderzoek;Beoordeling van de renale zorg
+408982008;Renal care education;Renal zorg onderwijs;nier zorg onderwijzen;Renale zorg onderwijs
+408983003;Renal care management;Renal zorgmanagement;nier zorg behandeling;Renale zorg management
+410151003;Professional / ancillary services management;Professional / ondersteunende diensten beheer;professional - ancillary werk behandeling;Professionele / ondersteunende services - beheer
+423650001;Paraprofessional/aide care case management;Paraprofessional / aide zorg case management;paraprofessional - aide zorg case management;Paraprofessional / aide zorg casebeheer
+424186008;Paraprofessional/aide care education, guidance, counseling;Paraprofessional / aide zorg onderwijs , begeleiding , advies;paraprofessional - aide zorg ntenvoorlichting guidance - advies;Paraprofessional / aide zorg onderwijs , begeleiding , counseling
+441701001;Revisional posterior lumbar medial facetectomy;Revisional posterior lumbale mediale facetectomie;revisional achterste lumbale mediale facetectomy;Revisional posterieure lumbale mediale facetectomy
+441715004;Revisional fusion of joint of spine;Revisional fusie van de gezamenlijke van de wervelkolom;revisional fusie van wervelkolom;Revisional fusie van gewricht van de wervelkolom
+441907007;Revisional repair of multiple tears of rotator cuff of shoulder;Revisional reparatie van meerdere tranen van rotator cuff van de schouder;revisional herstel van traan syndroom;Revisional reparatie van meerdere tranen van de rotatorenmanchet van schouder
+442208009;Revisional posterior fusion of atlantoaxial joint using pedicle screw;Revisional posterieure fusie van atlantoaxiale gezamenlijke gebruik pedikelschroef;revisional achterste vergroeiing atlantoaxiaalgewricht using pedicle botschroeven;Revisional posterieure fusie van gezamenlijke stam schroef met atlantoaxial
+442233007;Revisional posterior fusion of atlantoaxial joint using transarticular screw;Revisional posterieure fusie van atlantoaxiale gezamenlijke gebruik transarticular schroef;revisional achterste vergroeiing atlantoaxiaalgewricht using transarticular botschroeven;Revisional posterieure fusie van atlantoaxial gecombineerd met behulp van transarticular schroef
+443024008;Revision of gastrojejunal anastomosis with reconstruction with vagotomy;Herziening van gastrojejunal anastomose met de wederopbouw met vagotomie;hervormen gastrojejunale anastomose met plastische met vagotomie;Herziening van gastrojejunal anastomosis met wederopbouw met vagotomy
+446415001;Endoscopy of large intestine by transabdominal approach;Endoscopie van de dikke darm door transabdominal aanpak;endoscopie dikke darm door transabdominal approach;Endoscopie van de dikke darm door de aanpak van de transabdominal
+446416000;Endoscopy of small intestine by transabdominal approach;Endoscopie van de dunne darm door transabdominal aanpak;endoscopie dunne darm door transabdominal approach;Endoscopie van de dunne darm door de aanpak van de transabdominal
+446733006;Suturing of laceration of esophagus by transabdominal approach;Hechten van scheuren van de slokdarm door transabdominal aanpak;onderhuidsweefselhechting van slokdarmlaceratie door transabdominal approach;Van bedwelming beschadigen van de slokdarm wordt door de aanpak van de transabdominal
+449291005;Excision of extraadrenal paraganglioma;Excisie van extraadrenal paragangliomen;excisie van extraadrenal tumor;Excision of extraadrenal paraganglioma
+450742003;Assessment using National Institutes of Health stroke scale;Beoordeling met behulp van National Institutes of Health een beroerte schaal;beoordeling , using national institutes van van hersenen schaal;Beoordeling met behulp van de National Institutes of Health beroerte schaal
+711534004;Maternal cervical assessment;Maternal cervicale assessment;maternale cervicale onderzoek;Maternale cervicale beoordeling
+416883000;Mental health monitoring verbal invitation;Mental health monitoring mondelinge uitnodiging;psychische stoornissen monitoring verbaal invitation;Geestelijke gezondheid controle van verbale uitnodiging
+416930009;Facilitated oscillatory release technique;Facilitated vrijlating techniek oscillerende;facilitated oscillatory reductie ,;Vergemakkelijkt oscillerende release techniek
+417036008;Liquid based cervical cytology screening;Liquid gebaseerd cervicale cytologie screening;losse based cervicaal cytologie screening;Vloeistof op basis van screening van de cervicale cytologie
+417124004;Dilated pinhole test;Dilated pinhole - test;congestieve pinhole -;Verwijde pinhole test
+417132007;Suture of skin of ear;Suture van de huid van het oor;hechting van huid van oor;Sutuur ( geologie ) van de huid van oor
+417211006;First booster low dose diphtheria, tetanus and inactivated polio vaccination;Eerste booster lage dosis difterie , tetanus en polio ge ï nactiveerde vaccinatie;eerste booster laag dose difterie tetanus en inactivated vaccin;Eerste booster lage dosis difterie , tetanus en ge ï nactiveerd polio vaccinatie
+417224006;Suture of laceration of external ear;Suture van scheuring van het uitwendige oor;hechting inscheuring van oor;Sutuur ( geologie ) van bedwelming vernietigen van het externe oor
+417272007;Mandibular drainage technique;Mandibular drainage techniek;mandibularis afscheiding ,;Mandibulaire drainage techniek
+417384007;Second booster low dose diphtheria, tetanus and inactivated polio vaccination;Tweede booster lage dosis difterie , tetanus en polio ge ï nactiveerde vaccinatie;tweede booster laag dose difterie tetanus en inactivated vaccin;Tweede booster lage dosis difterie , tetanus en ge ï nactiveerd polio vaccinatie
+417431007;Ligamentous articular strain technique;Ligamentous articulaire stam techniek;ligamentous artropathie van ,;Ligamenteuze articulaire stam techniek
+417447009;Muscle energy technique;Muscle energie techniek;spier energie ,;Spier energie techniek
+417476007;Bowel continence assessment;Darm continentie assessment;colon continence onderzoek;Fecale continentie beoordeling
+417899003;Fluoroscopic arthrography of intertarsal joint;Fluoroscopische artrografie van intertarsaal joint;artrogram van de articulatio intertarsalis;Fluoroscopic arthrography van de intertarsal gezamenlijke
+417945007;Radionuclide white blood cell imaging study;Radionuclide witte bloedcellen imaging studie;scan witte beeldvorming functieonderzoek;Radionuclide witte bloedcel imaging studie
+418169008;Dye disappearance test;Dye verdwijning - test;dye disappearance -;Kleurstof verdwijning test
+418181007;X-ray for colonic transit study;X - ray voor colon doorvoer studie;r ö voor colon - transit - functieonderzoek;X - Ray voor Colon - transit - studie
+418198007;Radiographic imaging nephrostomy;Radiografische imaging Nefrostoma;r ö ntgenfoto beeldvorming nefrostomie;Radiografische beeldvorming Nefrostoma
+418347008;Fluoroscopic angiography of femorofemoral crossover bypass;Fluoroscopische angiografie van femorofemoral crossover bypass;angiogram femorofemoral crossover bypass;Fluoroscopic angiografie van femorofemoral crossover omzeilen
+418386007;Family medication education;Family medicatie onderwijs;familie geneesmiddelen onderwijzen;Familie medicatie onderwijs
+418411006;Medial spindle procedure;Medial spindel procedure;mediale spoelcel nao;Mediale spindel procedure
+418515004;X-ray of little finger;X - ray van de pink;r ö ntgenfoto van little vinger;R ö ntgenfoto van Pink
+418622002;Taking oral swab;Die orale swab;taking orale swab;Nemen van mondelinge doekje
+418824004;Off-pump coronary artery bypass;Off - pump coronaire bypass;bypass;Off - pomp - coronaire bypass
+418880005;Fluoroscopy of hip;Fluoroscopie van hip;doorlichting heup;Fluoroscopie van heup
+418940000;Computed tomography arthrography of intratarsal joint;Computertomografie artrografie van intratarsal joint;computertomografie artrogram van intratarsal gewricht;Berekend tomografie arthrography van intratarsal gewricht
+419080000;X-ray of ring finger;X - ray van de ringvinger;r ö ntgenfoto van ring van vinger;R ö ntgenfoto van de ringvinger
+419218008;Fluoroscopic angioplasty of infrapopliteal artery;Fluoroscopische angioplastiek van infrapopliteal slagader;fluoroscopic angioplastiek van infrapopliteal arterieel;Fluoroscopic angioplasty van infrapopliteal slagader
+419235007;Fluoroscopic angiography of pudendal artery;Fluoroscopische angiografie van pudendal slagader;angiogram pudendalis arterie;Fluoroscopic angiografie van pudendal slagader
+419279005;Jones dye test;Jones dye - test;jones dye -;Jones kleurstof test
+419380005;X-ray of middle finger;X - ray van de middelvinger;r ö ntgenfoto van middenste vinger;R ö ntgenfoto van de middelvinger
+419457003;Fluoroscopic arthrography of facet joint;Fluoroscopische artrografie van facet joint;artrogram van de facetgewricht;Fluoroscopic arthrography van facet gezamenlijke
+419507009;Fluoroscopic angiography of axillofemoral graft;Fluoroscopische angiografie van axillofemoral graft;angiogram axillofemorale transplantaat;Fluoroscopic angiografie van axillofemoral prothese
+419524003;Fluoroscopic angioplasty of aorta;Fluoroscopische angioplastie of aorta;fluoroscopic angioplastiek van;Fluoroscopic angioplasty van aorta
+419551000;Jones dye test I;Jones dye - test I;jones dye - i;Jones kleurstof test ik
+419773005;Small bowel series with water soluble contrast follow through;Dunne darm series met water oplosbare contrast volgen via;dunnedarmfoto ' s met water soluble contrast transit;Kleine darm serie met water oplosbare contrast volgen via
+419795009;Jones dye test II;Jones dye - test II;jones dye - 2;Jones kleurstof test II
+419942003;X-ray of lumbar spine and sacroiliac joints;X - ray van de lumbale wervelkolom en de SI - gewrichten;r ö ntgenfoto van lumbale wervelkolom en sacro gewrichten;R ö ntgenfoto van de lumbale wervelkolom en sacro - iliacale gewrichten
+419976007;Computed tomography of sternoclavicular joint;Computertomografie van sternoclavicular joint;computertomogram van sternoclaviculair gewricht;Computertomografie van sternoclavicular gewricht
