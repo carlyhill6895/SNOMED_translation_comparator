@@ -1,0 +1,50 @@
+410155007;Occupational therapy assessment;Ergotherapie assessment;Beoordeling van de ergotherapie;therapie , ergo - onderzoek
+416815004;Osteopathic manipulation, soft tissue technique;Osteopathie manipulatie , zacht weefsel techniek;Osteopatische Manipulatie , weke techniek;manupulatie , wekedelen -
+448037009;Closed reduction of fracture of long bone and rigid internal fixation;Gesloten vermindering van de breuk van lange beenderen en rigide interne fixatie;Gesloten reductie van fractuur van lange beenderen en rigide inwendige fixatie;gesloten reductie van van de lange beenderen en starre inwendige fixatie
+405320005;Repair of common femoral vein;Reparatie van gemeenschappelijke lies;Reparatie van gemeenschappelijke femorale ader;herstel van vena femoralis communis
+404214001;Iliac-femoral arterial bypass;Darmbeen - dijbeen arteri ë le bypass;Iliac - femorale arteri ë le bypass;arteria iliaca communis arteria femoralis communis bypass
+313905000;240 minute serum GH measurement;240 minuten serum GH meting;240 minute serum GH measurement;240 minuut serum gh -
+448035001;Excision of polyp of larynx using laser;Excisie van poliep van larynx middels laser;Excisie van de poliep van strottenhoofd met behulp van laser;excisie van poliep laser
+401255004;Fecal sucrose level;Fecale sucrose niveau;Fecale sacharose niveau;fecale sucrose antistof
+440578004;Photocoagulation of macular drusen;Fotocoagulatie van macula drusen;Photocoagulation van macula drusen;fotocoagulatie van maculaire drusen
+418733007;Ultrasound scan of abdominal vessels;Echografie van abdominale schepen;Echografie van de buik vaartuigen;echografie abdominale bloevaten
+711580002;Minor ambulatory surgery;Minor ambulante chirurgie;Minor ambulatory surgery;minderjarig chirurgie , poliklinische
+398801000;Exteriorization of colon;Uittreding van de dikke darm;Exteriorization van de dikke darm;exteriorisatie van colon
+442563002;Measurement of occult blood in single stool specimen;Meting van occult bloed in de ontlasting enkele specimen;Meting van occult bloed in éé n kruk monster;, occult bloed singe ontlasting specimen
+441823008;Quantitative measurement of amino acid in cerebrospinal fluid specimen;Kwantitatieve meting van aminozuur in cerebrospinale vloeistof specimen;Kwantitatieve meting van aminozuur in cerebrospinaal vocht monster;urine aminozuurspiegel cerebrospinaal vocht
+443216009;Assessment using malnutrition universal screening tool;Beoordeling met behulp van ondervoeding universele screening tool;Met behulp van ondervoeding universele screening tool beoordeling;onderzoek van universele screening tool voor
+447887001;Closure of defect of atrioventricular septum using prosthetic patch;Sluiting van defect van atrioventriculaire septum met behulp van prothetische patch;Sluiting van defect van Atrioventriculaire tussenschot met prothetische patch;sluiten atrioventriculair septum met prosthese
+440499003;Radiofrequency ablation of lesion of kidney using ultrasound guidance;Radiofrequente ablatie van letsel van de nier met behulp van echografie begeleiding;RadioFrequente ablatie van laesie van nier met behulp van echografie begeleiding;radiofrequente ablatie van van nierletsel onder echogeleide
+418041003;Ultrasound scan and biopsy of chest;Echografie en biopsie van de borst;Echografie en een biopsie van de borst;echogeleide biopsie thorax
+418658009;Fluoroscopic angiography of lower limb artery and insertion of stent;Fluoroscopische angiografie van de onderste ledematen slagader en het inbrengen van de stent;Fluoroscopic angiografie van de onderste ledematen slagader en invoeging van stent;angiografie van het onderste lidmaat met plaatsen van stent
+309876004;Endocervical excision;endocervicaal uitsnijding;Endocervical excisie;endocervicale excisie
+448659005;Wedge osteotomy of metacarpal bone;Wig osteotomie van middenhandsbeentje;Wedge osteotomy of metacarpal bone;wigosteotomie van de metacarpaal
+711012007;Assessment of transfer injury;Evaluatie van de overdracht letsel;Beoordeling van de schade van de overdracht;bepaling van peestranfer letsel
+406806003;Alkali blue 5B (4B) stain method;Alkali blauw 5B ( 4B ) methode vlek;Alkali blauwe 5B ( 4B ) vlek methode;alkali blauw 5b ( 4b ) vlek methode
+409993002;High power oil immersion light microscopy;High power olie - immersie lichtmicroscopie;Hoogvermogen olie onderdompeling van de lichte microscopie;hooggradige sterkte olie loopgraven licht microscopie
+415089008;Phacoemulsification of cataract with intraocular lens implantation;Phacoemulsification van cataract met intra - oculaire lensimplantatie;Phacoemulsification van cataract met intraoculaire lens implantatie;faco - met implantatie van intraoculaire lens
+309096008;Harvest of reproductive tissue;Oogst van de reproductieve weefsel;Oogst van reproductieve weefsel;oogsten van reproducerend weefsel
+441949002;Measurement of sulfonylurea in urine specimen by screening method;Meting van sulfonylureum in urinemonster door screeningsmethode;Meting van sulfonylurea in urine monster door screening methode;, sulfonylurea urine specimen met screening methode
+446224008;Computed tomography triple phase study of kidney;Computertomografie triple fase studie van de nieren;Tomografie triple fase studie van nier berekend;ct drievoudige fase van nier
+412773009;Referral to stroke clinic;Verwijzing naar een beroerte kliniek;Verwijzing naar lijn kliniek;verwijzing naar het beroerte clinic
+311691009;Voice exercises;Voice oefeningen;Stem - oefeningen;defect inspanningstherapie
+410243008;Ear wax removal management;Oorsmeer verwijderen beheer;Beheer van de verwijdering van Ear wax;verwijderen van oorsmeer behandeling
+448360009;Sigmoidoscopic argon plasma coagulation of lesion of rectum;Sigmoidoscopic argon plasma coagulatie laesie van rectum;Sigmoidoscopic argon plasma stolling van laesie of endeldarm;sigmoidoscopic argon laser therapie van een rectumletsel
+447979003;Argon plasma coagulation of lesion of rectum;Argon plasma coagulatie laesie van rectum;Argon plasma stolling van laesie of endeldarm;argon laser therapie van een rectumletsel
+446416000;Endoscopy of small intestine by transabdominal approach;Endoscopie van de dunne darm door transabdominal aanpak;Endoscopie van de dunne darm door de aanpak van de transabdominal;transabdominale endoscopie van de dunne darm
+408232008;Animal dander mix RAST test;Huidschilfers van dieren mix RAST - test;Dierlijke huidschilfers mix RAST test;animal huidschilfers mix radioallergosorbent test
+415272006;Referral to genitourinary clinic;Verwijzing naar urogenitale kliniek;Verwijzing naar urogenitaal kliniek;verwijzing naar het genito clinic
+408216005;Calculus calcium non-oxalate content measurement;Calculus calcium non - oxalaat inhoudsmeting;Calculus calcium niet - oxalaat inhoud meting;steen , calcium - oxalaatzout - saturatie
+438362003;Excision of lamina of vertebra with transection of spinal accessory nerve;Uitsnijden van lamina van wervel met doorsnijding van spinale accessoire zenuw;Excisie van lamina van wervel met transect van nervus;laminectomie met transectie van spinale accessoire zenuw
+442981009;Diagnostic mediastinoscopy and thoracoscopy with ventilation of lung;Diagnostische mediastinoscopie en thoracoscopie met ventilatie van de longen;Diagnostische Mediastinoscopie en thoracoscopy met ventilatie van Long;diagnostische mediastinoscopie en thoracoscopie met longventilatie
+307659007;Subtotal colectomy with ileorectal anastomosis;Subtotale colectomie met ileorectale anastomose;Subtotaal colectomy met ileorectal anastomose;subtotale colectomie met ileo - rectale anastomose
+425196008;Insertion of peripherally inserted central catheter;Het inbrengen van perifeer ingevoegd centrale katheter;Invoeging van ook ingevoegde centrale katheter;insertie van perifeer geplaatste centrale catheter
+711006002;Measurement of fluid intake;Meting van vloeistofinname;Meting van de vochtinname;maat van vochtinname
+442013003;Measurement of corrected end-tidal carbon monoxide;Meting van de gecorrigeerde end - tidal koolmonoxide;Meting van de gecorrigeerde einde - getijde koolmonoxide;, gecorrigeerd - tidal koolmonoxide
+449654006;Transposition of tissue of lower limb;Omzetting van weefsel van de onderste ledematen;Omzetting van weefsel van de onderste extremiteit;transpositie van weefsel van onderste extremiteit
+31558004;Metyrapone test;metyrapon - test;metopirontest;metyrapon belastingstest
+415349007;Rose bengal staining of eye;Bengaals roze kleuring van de ogen;Steeg Bengalen kleuring van oog;bengaals roodkleuring thv oog
+445818000;Assessment using childhood health assessment questionnaire;Beoordeling met behulp van de kindertijd Health Assessment Questionnaire;Beoordeling via jeugd gezondheid beoordeling vragenlijst;onderzoek van een kind gezond voedingsbeoordeling questionnaire
+433213003;Radiouclide imaging of whole body using gallium;Radiouclide beeldvorming van het gehele lichaam via gallium;Radiouclide beeldvorming van gehele lichaam met behulp van gallium;radiouclide beeldvorming gehele lichaam gallium
+408213002;Absolute CD16 count;Absolute CD16 count;Absolute CD16 graaf;absoluut cd16 bloedceltelling
+443558008;Percutaneous embolization of arteriovenous fistula using fluoroscopic guidance;Percutane embolisatie van arterioveneuze fistels met behulp van doorlichting;Percutane embolisatie van Arterioveneuze fistels met behulp van fluoroscopic begeleiding kan leiden;percutane embolizatie van arterioveneuze fistel onder fluoroscopische begeleiding

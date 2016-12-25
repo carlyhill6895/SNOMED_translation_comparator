@@ -1,0 +1,695 @@
+618007;sinusectomie van frontale sinus
+1163003;uretero-enterostomie
+1328002;ilio-iliacale shunt
+1578004;ketenreconstructie met stapedectomie
+2234009;procto-sigmoiedopexie
+2644002;cauterizeren van de lever
+2752008;incudopexie
+4758006;incudostapediopexie
+5019003;directe laryngoscopie met bioptiename
+5447007;transfusie
+6164008;osteoclasie van de clavicula
+6307005;keratofakie
+8093000;transuretero-ureterostomie
+8215004;lisfranc schouderdesarticulatie
+8782006;radicale perineale prostatectomie
+8906004;caecostomie
+8929007;oesofago-gastropexie
+10281002;scalenectomie
+10795000;aanleggen ventriculocavale shunt met klep
+11343000;anusscopie met biopsie
+11466000;keizersnede
+12744005;perineale urethroscopie
+13303004;posterieure sclerotomie
+13513008;cycloanemisatie
+13714004;arthroscopie
+13846009;augmentatie van de bil
+13852005;transabdominale gastroscopie
+14192000;excisie van de sinus tarsi
+14404001;thymopexie
+16866008;larrey schouderdesarticulatie
+17444001;biopsie van het omentum
+17473003;caecotomie
+19060000;cauterisatie van de stembanden
+19062008;encefalocentese
+19317004;dorsale anale sfincterotomie
+19578002;artrodese
+19606007;endarterectomie van aortaboog
+20119004;uretero-caecostomie
+21123000;iridosclerectomie
+21805006;verwijderen van salpingothecale shunt
+21815000;nasotracheobronchiale katheteraspiratie
+22510001;osteotomie van femurhals
+22523008;vasectomie
+23379002;incisie ciliaire lichaam
+23928003;costochondrectomie
+24026006;intra-abdominale veneuze shunt
+24420007;sigmoiedoscopie
+24462000;cholecystostomie met trocar
+24485004;plastie van de trochanter
+26294005;radicale prostatectomie
+26302000;Osteorafie
+26978009;myotomie van de darm
+27041000;cholecysto-ileostomie
+27613000;ventriculopleurale shunt
+27779004;sternotomie
+27813003;intraarticulaire infiltratie
+28467003;intrathoracale oesofago-ileostomie
+28644007;vaginale enterocolectomie
+28725006;trachelopexie
+28903008;percutane angioscopie
+29216007;talectomie
+29532006;proctoscopie met biopsie
+29825008;vitreumimplantatie
+30583008;cauterisatie van de urethra
+31489003;drainage van binnenoor
+31694007;fenestratie van intervertebrale discus
+31738002;jejuno-caecostomie voor obesitas
+31904001;adrenalectomie
+32238004;empyemectomie
+32432000;uterocentesis
+32578005;biopsie van de appendix
+32894008;plaatsen van botgreffes in de patella
+33756006;partiële adrenalectomie
+34130000;cholecystocecostomie
+34945008;angiografie van het hart
+35212009;excisie van letsel van tepel
+35219000;biopsie van de hypofarynx
+35686005;labyrinthotomie door cryochirurgie
+36253005;suprapubische prostatectomie
+36412004;manipulatie van thymus
+36496002;uretero-caliciale anastomose
+37073001;labyrinthdecompressie
+38018001;aanleggen fenestratie van trommelvlies
+38102005;cholecystectomie
+38497001;verwijderen van steen uit de darm
+38546007;cardiocentese
+38616001;sclerectomie met warmte
+39267002;pericardiorraphie
+39667005;amygdalohippocampectomie
+40345006;retinaculotomie
+40701008;echografie hart
+40708002;pupillotomie
+40995000;pancreaticocystojejunostomie
+41339005;angioplastie van coronaire arterie
+41360004;nasotracheale aspiratie
+41371003;perineale prostatectomie
+42161006;punctie van het hoornvlies
+42238002;proctoscopie
+42837001;excisie van aortaboog
+42843004;laparoscopische adrenalectomie
+42980009;excisie van peri-anaal weefsel
+43060002;intraveneuse  injectie
+43232006;extrapleurale pneumonectomie met uitruiming van empyeem
+44703001;trabeculotomie ab extreno
+45052000;abdomino-uterotomie
+45334006;mediastinoscopie met biopsie
+45595009;laparoscopische cholecystectomie
+45657005;reamputatie transmetacarpaal
+45919008;excisie van secundair membraan
+47020004;ventriculoperitoneale shunt
+48127001;osteoclasie van de fibula
+48507008;iridesis
+48537004;bypass greffe
+48783008;choledoco-pancreaticostomie
+49187005;endarterectomie van aorta
+49438003;appendectomie met drainage
+49586007;appendicocaecostomie
+49676001;minimaal invasieve commissurotomie van mitraalklep
+49924002;perineale colostomie
+51431001;plaatsen van botgreffes in het femur
+51968005;sesamoidectomie
+52889002;endocervicale curettage
+52998000;pantalaire arthrodese
+53087005;intrathoracale oesofago-colostomie
+53145005;lymfangiotomie
+53251008;incudectomie met stapedectomie
+54033009;cystourethroplastie
+54636000;cardiomyopexie
+54750003;pyelorraphie
+54956002;gastrostomie
+56153009;arthroplastiek van radiuskop
+56433002;thyroïdorrhafie
+56520006;exicise van cardioma
+56833008;ambulante endometriale curettage
+57271003;extraperitoneale keizersnede
+57551006;iridoasis
+57561004;osteotomie van de calcaneus
+58090001;pancreaticocystoenterostomie
+58515002;cryoleucotomie
+58889009;laserpexie
+58985002;Cauterisatie van vulva
+59230000;verwijderen klep vas deferens
+59912004;pancreatico-duodenostomie
+60041003;laryngofaryngectomie
+60177007;mechanische vitrectomie
+60465006;permanente gastrostomie
+60809008;biopsie van de clitoris
+60892005;jejuno-jejunostomie
+61151005;cholecysto-pancreaticostomie
+61303007;open tenotomie van de iliopsoas
+61328004;gastro-duodenoscopie
+61732007;sclerectomie met trepaan
+61735009;hepato-duodenostomoie
+61829000;curettage van spier
+62409009;foraminotomie
+62726004;claviculotomie bij foetus
+62843007;manipulatie van long
+63104000;osteoclasie van de patella
+63296004;excisie van de aorta
+63313009;lumbale sympathische ganglionectomiçe
+63389004;drainage van de bursa
+63699002;reno-portale anastomose
+63933000;ventriculostomie
+64063003;radicale cystectomie
+64562004;hysterotrachelorraphie
+64608008;excisie van aorta ascendens
+64656002;ventriculomyocardiotomie
+64663002;prostaatmassage
+65310005;vagotomie
+66226002;verwijderen van nasaar door capsulotomie
+66478002;totale laryngectomie
+66542005;zonulolyse met lensextractie
+66633009;nefrocystanastomose
+66943005;ureterectomie met blaascuff
+67212000;ileocystoplastie
+67354000;verwijderen van een lumbosubarachnoïdale shunt
+67598001;retropubische prostatectomie
+67706006;pancreaticolithotomie
+68011001;clitoridotomie
+68275008;tijdelijk sluiten van de anus
+68287001;gesloten atriale septostomie
+69130005;stapedectomie
+69171004;excisie van de kop van de radius
+69179002;percutane arteriële cutdown
+70031002;oöphorostomie
+70172002;ileo-anale anastomose
+70183006;subcutane mastectomie / Webster
+70627009;myocardresectie
+71827004;choledocho-jejunostomie
+71861002;implantatie
+71861002;inbrengen
+71861002;plaatsen
+71861002;implantatie
+71861002;inbrengen
+71861002;plaatsen
+71861002;implantatie
+71861002;inbrengen
+71861002;plaatsen
+72091008;Osteomyocutane flap
+72193009;cardiosplenopexie
+72577009;excisie van de tepel
+73021008;ileal stal liesbreukherstel van pyélo en cutanée s
+73570001;dupuytren schouderdesarticulatie
+74854002;cauterisatie van de anus
+74878007;bronchotracheale anastomose
+75404005;epiploëctomie
+75626002;pallido-amygdalotomie
+75732000;vitrectomie
+75905004;sigmoiedo-proctostomie
+76292006;arthroplastiek van carpale beenderen
+76611008;laser atherectomie
+76949005;gonioscopie
+76967003;ileo-pancreatische anastomose
+76981001;discografie
+77539008;pancreatico-cysto-duodenostomie
+77665000;ventrohysteropexie
+77914005;aspiratie van een peesschede
+78121007;directe laryngoscopie
+78285005;pleuropexie
+78384007;omentectomie
+78432000;intraveneuze anesthesie
+78611003;Z-plastie epicanthus
+78646006;entectropie gastrectomtr
+79170004;ileoduodenotomie
+79583008;maagsonde voor maagdecompressie
+79733001;bovenbeenamputatie
+79950009;lymfangiografie
+80021004;claviculotomie
+80267006;duodenoscopie
+80772001;hepato-gastrostomie
+80945002;cysto-proctostomie
+81240005;bunionectomie met arthrodese
+81404005;transmeatale tympanolyse
+81516001;partiële nefrectomie
+81849003;pallidoansotomie
+81870009;parotidectomie
+82254000;heraanhechten
+82269004;cauterisatie van eileider
+82736000;trabeculotomie
+82941002;nasofaryngoscopie
+83065008;cmc -arthrodese
+83101004;laryngo-oesofagectomie
+83328003;biopsie van de navel
+83613005;cardiopericardiopexie
+83868006;iridocapsulectomie
+84041000;bronchoscopie met dilatatie van bronchus
+84510006;tijdelijke gastrostomie
+84985001;perineum biopsie
+85472003;mesenteropexie
+85548006;episiotomie
+86273004;biopsie
+86481000;laparotomie
+87060004;palliodotomie
+87150006;darmstoma
+87677003;rectumresectie
+88908007;rectale massage voor levatoren spasme
+88916003;anusscopie
+89053004;vaginale keizersnede
+89079008;venotripsie
+89770003;anale sfincterotomie
+89915007;malleostapediopexie
+90164007;trabeculodialyse
+90976006;endoscopie van het jejunum
+91625001;selectieve vagotomie
+103723005;angioscopie
+108152001;incisie van lens
+108180004;excisie van mediastinum
+112719001;xiphoidectomie
+112737000;biopsie van radius en ulna
+112963003;aspiratie van cataract
+112976009;excisie van het binnenoor
+115959002;stereotactische radiochirurgie
+116140006;totale hysterectomie
+116141005;abdominale hysterectomie
+116142003;radicale hysterectomie
+116234005;open biopsie van het mediastinum
+118659004;tenonsuspensie procedure
+119256007;resectie van carina
+119283008;open biopsie
+119284002;biopsie van het mediastinum
+119608007;incisie van het bekken
+119613006;sluiten van het bekken
+119644002;schouder manipulatie
+119654003;reconstructie van de hand
+119665008;manipulatie van de hand
+119711004;sluiten van de neus
+119733002;implantatie van bronchus
+119739003;reconstructie van trachea
+119750000;intrapleurale injectie
+119752008;sluiten van pleura
+119757002;pleuratransplantatie
+119776000;sluiten van aorta
+119777009;reconstructie van aorta
+119860000;lip implantatie
+119864009;mond reconstructie
+119881000;stomache implan-duodenectomie
+119882007;maaginjectie
+119883002;sluiten van de maag
+119884008;reconstructie van de maag
+119896001;rectale implantatie
+119897005;anale implantatie
+119898000;rectale injectie
+119899008;anale injectie
+119901004;sluiten van het rectum
+119903001;rectum reconstructie
+119906009;transplantatie anus
+119912004;lever implantatie
+119913009;sluiten van de lever
+119914003;lever reconstructie
+119919008;gallbladdere implan-duodenectomie
+119921003;inspuiten van de galblaas
+119923000;endoscopie van de galblaas
+119924006;sluiten van de galblaas
+119927004;gallbladdere recons-duodenectomie
+119931005;gallbladdere transp-duodenectomie
+119933008;gallbladdere manipu-duodenectomie
+119944000;implantatie van schildklier
+119945004;sluiten van schildklier
+119946003;reconstrutie van schildklier
+119965006;beenmerg exploratie
+119967003;implantatie van thymus
+119968008;beenmerg implantatie
+119970004;injectie van thymus
+119974008;sluiten van thymus
+119991007;sluiten van de blaas
+119994004;sluiten van de urethra
+120004002;epididymis injectie
+120008004;testis reconstructie
+120013000;excisie vas deferens
+120018009;injectie vas deferens
+120019001;injectie zaadblaas
+120021006;sluiten scrotum
+120031004;implantatie van vulva
+120033001;reconstructie van vulva
+120071009;obstetrische reconstructie
+120113002;intracorneale injectie
+120122001;lensreconstructie
+120139004;middenoorimplantatie
+120142005;cochleaire implantatie
+120144006;binnenoorreconstructie
+120162002;implantatie van mediastinum
+120163007;injectie van mediastinum
+120164001;sluiten van mediastinum
+120165000;reconstructie van mediastinum
+120167008;sluiten van het diafragma
+120184002;sluiten van het mesenterium
+120188004;reconstructie van het mesenterium
+120201000;sluiten van het perineum
+120204008;reconstrueren van het perineum
+120210008;manipuleren van het perineum
+120217006;incisie van de onderarm
+123679006;arteriele anastosmose
+125883007;hemipatellectomie
+133874006;selectieve foeticide
+171529006;punctie van ventriculaire shunt
+172011006;transsternale thymectomie
+172120000;open capsulotomie van borst
+172667002;myringoplastie met plug
+172732009;implantatie van intracochleaire prothese
+172733004;implantatie van extracochleaire prothese
+172812000;cauterisatie van inwendige neus
+172887003;craniofaciale resectie
+172921000;uncinectomie
+172938001;laryngofaryngo-oesofagectomie
+173076000;tracheopexie
+173764008;reconstructie van de gastrostomie
+173830003;irrigatie van de maag
+173918008;open jejunoscopie
+173962004;colon bypass met ileo-transversostomie
+174000002;stricturoplastie van het ileum
+174059005;proctocolectomie
+174333001;excisie van perianale condylomata
+174385004;laterale sfincterotomie
+174425003;orthotopische levertransplantatie
+174966008;Open cardiale valvulotomie
+175194006;cardiotachygrafie
+175262009;open pulmonale embolectomie
+175881006;revascularisatie voor impotentie
+175988004;nefrostomogram
+176028006;uretero-ureterostomie
+176117005;cecocystoplastie
+176118000;ileo-caeco-cystoplastie
+176258007;open prostatectomie
+176288003;transurethrale laser prostatectomie
+176318007;transurethrale biopsie van de prostaat
+176547004;voorhuidplastie
+176586000;clitoroplastie
+177170007;geboorte met behulp van forceps van piper
+177246004;wenkbrauwlift
+177256000;huidreductie t.h.v. de dij
+177279004;excisie neurofibromata
+177594004;piercen van oorlel
+177923007;excisie van de urachus
+178055007;dermatofasciectomie
+178070008;fasciotomie van de bovenarm
+178071007;fasciotomie van de onderarm
+178101005;drainage van ganglion
+178203000;reconstructie van peesschede
+178206008;drainage van een peesschede
+178384006;biopsie van een letsel ter hoogte van de schedel
+178526006;microdiscectomie van cervicale intervertebrale discus
+178538002;revisie microdiscectomie van cervicale intervertebrale discus
+178618008;lumbale discectomie
+178631003;revisie lumbale discectomie
+178668000;percutane discectomie
+178669008;laser discectomie
+178732003;pyloroduodenotomie
+178796002;biopsie van de cervicale wervel
+178914007;Excisie van een synostose
+178934008;Multiplanaire osteotomie
+179174007;tractie met schoen
+179194003;epifysioplastie
+180223008;intraveneuse immunotherapie
+181021005;verwijderen van periostium
+182513006;intuberen van de darm
+182514000;darmdrainage
+184153002;biopsie van binnenoor
+197357002;kutler amputatie
+197922007;biopsie van de traanklier
+209055006;biopsie van het middenoor
+220187008;hymenorrafie
+225202008;relocatie van intraveneuse infusie site
+225202008;relocatie van intraveneuse infusie site
+225202008;relocatie van intraveneuse infusie site
+225202008;relocatie van intraveneuse infusie site
+225236002;re-anastomose van navelstreng
+229316007;cervicale tractie
+229318008;lumbale tractie
+229475000;polsstretching
+229479006;kniestretching
+229482001;stretching van de hamstrings
+229838003;wegname van onychophosis
+230878007;verwijderen van ventriculo-peritonteale shunt
+230976007;aanleggen van een anastomose n.facialis (VII) - n. facialis (VII)
+231162001;lumbaal plexus block
+231293005;intradermale infiltratie
+231390006;cervicale epidurale neurolyse
+231391005;thoracale epidurale neurolyse
+231601005;herstel mediaal ectropion
+231710008;keratomileusis
+231730007;iridoplastiek
+231734003;trabeculoplastiek
+231735002;chirurgische trabeculoplastiek
+231739008;verwijderen iris, ciliair lichaam en choroidea
+231740005;verwijderen ciliair lichaam en choroidea
+231754002;vitreum biopsie
+231766008;pneumatische retinopexie
+231774009;retinotomie
+231775005;retinectomie
+231792001;implantatie van ventriculo-lumbale shunt
+232191001;resectie voetplaat stapes
+232481001;septodermoplastie
+232499009;anthrostomie meatus inferior
+232507002;excisie van plantaire fascia
+232554003;epiglottopexie
+232645008;pleuropneumonectomie
+232647000;pneumonectomie met tracheobronchiale sleeve
+232668004;vrije luchtweg door tractie van tong
+232674004;orotracheale intubatie
+232679009;nasotracheale intubatie
+232687005;intubatie van bronchus
+232704006;tracheobronchiale lavage
+232740008;ingreep mitraalklep
+232850000;aortoventriculoplastie
+232851001;Konno aortoventriculoplastie
+232872003;pulmonalisklep excisie
+232873008;open pulmonalisklep excisie
+232874002;gesloten pulmonalisklep excisie
+233041009;atriale fenestratie, open
+233042002;atriale fenestratie, gesloten
+233061003;resectie septomarginale trabeculatie
+233309009;endarteriëctomie van de arteria femoralis profunda
+233378000;extra-anatomische bypassgreffe
+233379008;axillo-bifemorale bypass greffe
+233380006;crossover bypass greffe van de arteria femoralis communis naar de arteria femoralis communis
+233448005;femorofemorale veneuze crossover shunt
+233479009;embolisatie van arterioveneuze greffe
+233493002;excisie van arterioveneuze greffe
+233591003;haemoperfusie
+234299008;lymfonodoveneuze anastomosis
+234300000;lymfoveneuze anastomosis
+234319005;splenectomie
+234321000;cystostomie tussen maag en miltcyste
+234328006;beenmerg boring
+234681007;gingivectomie
+235147008;enteroscopie
+235148003;pushe entero-duodenectomie
+235159007;percutane endoscopische gastrostomie
+235226003;Finney pyloroplastie
+235249001;maagspoeling met water
+235292006;santullie entero-duodenectomie
+235378002;mesh rectopexie
+235477008;pancreatico-jejunostomie
+235566000;galwegdrainage
+235568004;drainage van de galweg
+236148009;open pyelostomie
+236199002;transurethrale subureterale injectie
+236209003;salvage cystoprostatourethrectomie
+236245000;retropubische urethrolyse
+236267004;vaginale urethrolyse
+236359005;penis revascularisatie voor impotentie
+236886002;hysterectomie
+236887006;laparoscopische hysterectomie
+236897002;resectie van het endometrium
+236941004;ampullosalpingoscopie
+236942006;microhysteroscopie
+236975003;geboorte met behulp van niet-rotationele forceps
+236976002;geboorte met behulp van uitgangsforceps
+237400005;microdochectomie
+237490000;mediastinoscopische thymectomie
+238328000;beperkte thoracotomie
+239306009;osteotomie van het glenoid
+239455004;cheilectomie
+239547008;fusie van de wervelkolom omwille van spondylolyse
+239591008;amputatie ter hoogte van de middenvoet
+239989009;rectorectostomie
+240926008;percutane embolectomie
+240929001;percutane trombolyse
+241234000;mesenteriale angiografie
+241252000;bijnierangiografie
+241705007;intraveneuze sedatie
+247042001;iridencleisis
+248352005;definitieve continente ileostomie
+251548005;extrapetrosale drainage
+252471006;elektromagnetische flowmetrie
+254952003;verlengen levatorspier
+255098007;plastie van gehoorgang
+257866001;intracardiale injectie van kaliumcholride
+260651001;superieure cordotomie
+260663006;thyroidotomie
+261479009;mediastinoscopie
+261517000;silver bunionectomie
+261529009;excisie van haarfollikels wimper
+261532007;fenestrectomie
+262457001;cervicale mediastinoscopie
+264980004;fasciotomie van het bovenbeen
+265293008;goniopunctie
+265294002;chirurgische iridotomie
+265347008;myomectomie cardia
+265380001;jejuno-jejunale bypass
+265420002;Sponge rectopexie
+265554003;percutane pyelolysis
+268419007;gastroscopie via stoma
+271410001;anorectle dilatatie
+271416007;reconstructie van een craniaal defect
+274024009;clipping van aneurysma
+274031008;rectale poliepectomie
+274050008;osteotomie omwille van hallux valgus
+274324002;biopsie langs endoscopische weg van het rectum
+274324002;biopsie langs endoscopische weg van het rectum
+274324002;biopsie langs endoscopische weg van het rectum
+274324002;biopsie langs endoscopische weg van het rectum
+274353001;chirurgische anale biopsie
+274469009;stretching van fascia
+274473007;manuipulatie van foetus intra-uterien
+274485004;halotractie
+274803000;micro-otoscopie
+274974008;endoscopische endometriale poliepectomie
+275010000;drainage van pericolisch weefsel
+275033004;vervanging van mitraalklep door kunstklep met twee klepbladen
+275090004;verwijderen teennagel
+275249009;correctie van scoliosis
+276017006;rx slikfunctie met gastrografine
+276018001;rx maagonderzoek met gastrografine
+276747001;uncinectomie en polypectomie
+276976008;percutane arteriële embolectomie
+277263004;verwijderen van korsten uit neus
+277437006;revascularisatie van bronchus
+277578005;galweg dilatatie
+277762005;lumbaalpunctie
+278717009;perirectale incisie
+278872003;intraveneuze regionale anesthesie
+281754001;drainage van intamusculair absces
+283165009;decompressieve laminectomie
+287235008;traanzak drainage
+287239002;transplantatie van thymus
+287292009;infarct myocardectomie
+287332008;cardioplastie
+287549000;percutane lymfatische naald biopsie
+287599001;retrograde cardiale angiografie
+287600003;veneus cardiale angiografie
+287644000;supramalleolaire enkel amputatie
+287666007;compressie sclerosis
+287673002;peri-anale cauterisatie
+287696002;overdrive pacing ter hoogte van atrium
+287719000;bekkenuitruiming bij de man
+287735007;nefrotomie met exploratie
+287736008;nefrotomie met drainage
+287779005;prostatotomie met drainage
+287786002;decompressie van het rectum
+287829003;enterotomie voor drainage
+287962007;uteriene exploratie in postpartum
+290649006;manipulatie van de thoraxwand
+291702009;transectie n tympanicus
+299693003;jejunumbiopsie
+300012004;intercostale neurectomie
+300022005;diathermie van perineale wratten
+300026008;cryotherapie van basalioom
+301088001;biopsie van de pyloor
+301891000;resurfacing arthroplastiek
+302354002;dunne darm stricturoplastie
+302369001;clitoridectomie
+302381002;biopsie placenta
+302410007;huidsutuur
+302416001;verwijderen van stuk metaal uit de huid
+302481001;excisie van thoracale intervertebrale discus
+304389001;axillo-unifemorale bypass greffe
+304587000;verwijderen van colon pouch
+304837002;verwijderen van ventriculo-pleurale shunt
+304848009;callosotomie
+305063002;stretching van lichaamsdeel
+307584002;caecumplastie
+308001003;epididymogram
+308025006;laser excisie van thoracale intervertebrale discus
+308963000;intravasculaire injectie
+309871009;ureterorenoscopie en biopsie
+312973004;viscocanalstomie
+312973004;viscocanalstomie
+312973004;viscocanalstomie
+312973004;viscocanalstomie
+314118002;laparoscopische totale splenectomie
+314121000;bilaterale guillotine tonsillectomie
+314590000;incisie en drainage van intersfincterieel abces
+314593003;posterieure gastro-jejunostomie
+315300001;excisie van de labiae genitales
+334835009;pneumostomie met open drainage
+341943002;atrioventriculostomie
+349896009;excisie van een peri-anaal letsel
+359594005;duodenoraphie
+359595006;miller operatie
+359599000;jejunopexie
+359659005;echografie
+359860002;colotomie voor biopsie
+359899005;mastorafie
+359948004;destructie ciliair lichaam met elektrische stroom
+361260007;cystoscopie met cauterisatie van de blaas
+363742001;pyloroplastie
+367476005;colpo-episiorafie
+371003002;ureterografie
+371345007;laser iridotomie
+386194005;cystolitholapaxie
+386253006;huidstimulatie
+386310009;verminderen van de flatulentie
+386607008;iridotomie
+386652006;colocystoplastie
+386722005;ERCP
+386727004;percutane transluminele valvulotomie
+386770004;dissectie van vasculaire bundel
+386787002;ureterorenoscopie (URS)
+387644004;supracervicale hysterectomie
+387657007;bilaterale labiectomie
+387684008;transmetacarpale amputatie van de hand
+387731002;laminectomie
+387747000;cauterizatie van long
+387865007;gastrocentesis
+391993002;tubo-tubale anastomose
+391996005;salpingo-sapingostomie
+396225009;sigmoiedoscopie met biopsie
+396450009;vaginoperineotomie
+397167004;mazet amputatie
+397202000;electro-coagulatie van haemorroiden
+397219003;guyon amputatie
+397805007;conjunctivorhinostomie
+397989004;conjunctivodacryocystostomie
+398219000;vervangen van percutane galdrain
+398740003;colostomie
+399032008;salpingohysterostomie
+405289006;excisie van vasculair neoplasma
+405441000;transtarsale amputatie
+408736005;chirurgisch aangelegde pneumothorax
+418432003;mammo scintigrafie??
+423570000;verwijderen van vasculaire sheath
+424287005;verwijderen van een perifere intraveneuze katheter
+425917001;intramusculaire hormoon therapie
+426738005;duodenal switch
+426868006;verwijderen transobturator sling
+427074001;laparoscopische sleeve gastrectomie
+427980007;sleeve gastrectomie met duodenal switch
+428419009;trombolyse van catheter
+428547005;spinale fusie omwille van scoliose
+428647001;manipulatie volgens ponseti
+429199008;chordectomie type III (subligamentaire chordectomie)
+429727009;percutane endoscopische excisie van thoracale intervertebrale discus
+429769008;spinale fusie omwille van kyfose
+429882005;biopsie van de bursa
+429889001;fascia biopsie
+430122006;biopsie van het hypofyse
+431748001;intracardiale echografie
+439351007;speculumonderzoek
+442737009;appendicovesicostomie
+446414002;sigmoiedoscopie met tatoeëring
+447001002;falloposcopie
+447338009;aspiratie van het endometrium
+447346005;cardiopulmonale inspanningstest
+447427005;laparoscopische nefropyelolithotomie

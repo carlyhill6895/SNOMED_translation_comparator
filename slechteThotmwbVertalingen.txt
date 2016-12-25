@@ -1,0 +1,1734 @@
+﻿SNOMED conceptID;SNOMED term;Google translate vertaalde term;Matecat vertaling;thot vertaalde term medisch woordenboek + SNOMED be
+342002;Amobarbital interview;Amobarbital interview;amobarbital interview;amobarbital interview
+389000;Tobramycin measurement;Tobramycin meting;Tobramycin meting;tobramycin -
+1337002;Colosigmoidostomy;Colosigmoidostomy;Colosigmoidostomy;colosigmo ï dostomie
+1533002;Ureteroplication;Ureteroplication;Ureteroplication;ureteroplication
+1917008;Patient discharge, deceased, medicolegal case;Pati ë nt kwijting , overleden , medicolegal geval;ontlading pati ë nt , overleden , medicolegal case;pati ë nten deceased , medicolegal volledig
+2153008;Cardiac catheterization education;Hartkatheterisatie onderwijs;Hartkatheterisatie onderwijs;kkatheterisatie ntenvoorlichting
+2178007;Ureterocentesis;Ureterocentesis;Ureterocentesis;ureterocentesis
+2267008;Changing tracheostomy tube;Veranderende tracheostomiebuis;Veranderende tracheotomiecanule;changing tracheostomieslang
+2494005;Nursing conference;Nursing conferentie;Nursing - conferentie;nursing conference
+2933008;Pneumogynecography;Pneumogynecography;Pneumogynecography;pneumogynecography
+3133002;Patient discharge, deceased, autopsy;Pati ë nt kwijting , overleden , autopsie;ontlading pati ë nt , overleden , autopsie;pati ë nten deceased , autopsie
+3352000;Parathyroid hormone measurement;Bijschildklierhormoon meting;Bijschildklierhormoon meting;parathyro ï dhormoon
+3794000;Pregnanetriol measurement;Pregnanetriol meting;Pregnanetriol meting;pregnanetriol -
+5586008;Aminolevulinic acid dehydratase measurement;Aminolevulinezuur dehydratase meting;Aminolevulinezuur dehydratase meting;aminolevulinezuur dehydratase -
+6063004;Kanamycin measurement;kanamycine meting;kanamycine meting;kanamycin -
+6069000;Panniculotomy;Panniculotomy;Panniculotomy;panniculotomy
+6143009;Diabetic patient education;Diabetespati ë nt onderwijs;Diabetespati ë nt onderwijs;diabetische pati ë nten
+6166005;Nephropyeloureterostomy;Nephropyeloureterostomy;Nephropyeloureterostomy;nephropyeloureterostomy
+6589005;Antibody titration, high protein;Titratie van antilichamen , eiwitrijke;Titratie van antilichamen , eiwitrijke;antilichaamdefici titration - eiwit
+7440005;Labial veneer, laminate, chairside;Labiale fineer , laminaat , chairside;Labiale fineer , laminaat , chairside;labial fineer , laminate , chairside
+7613004;Dacryoadenotomy;Dacryoadenotomy;Dacryoadenotomy;dacryoadenotomy
+7932007;Clonazepam measurement;clonazepam meting;clonazepam meting;clonazepam -
+7962001;Ethosuximide measurement;ethosuximide meting;ethosuximide meting;ethosuximide -
+8031000;Vaginogram;Vaginogram;Vaginogram;vaginogram
+8243008;Measurement of interstitial fluid pressure;Meting van interstiti ë le flu ï dumdruk;Meting van interstiti ë le flu ï dumdruk;#NAAM?
+8294001;Rhogam crossmatch;Rhogam crossmatch;Rhogam crossmatch;rhogam crossmatch
+8574009;Platelet estimate;bloedplaatjes schatting;bloedplaatjes schatting;plaatjes estimate
+9093009;Thyrochondrotomy;Thyrochondrotomy;Thyrochondrotomy;thyrochondrotomy
+9580008;Chemothalamectomy;Chemothalamectomy;chemothalamectomie;chemothalamectomy
+10046006;Cystoureterolithotomy;Cystoureterolithotomy;Cystoureterolithotomy;cystoureterolithotomy
+10268009;Immunochemiluminescent assay;Immunochemiluminescent assay;Immunochemiluminescent assay;immunochemiluminescent -
+10274009;Partial overdenture;gedeeltelijke overkappingsprothese;gedeeltelijke overkappingsprothese;parti overkappingsprothese
+10611004;Teleradiotherapy protons;Teleradiotherapy protonen;Teleradiotherapy protonen;teleradiotherapy proton
+10670006;Oxazepam measurement;Oxazepam meting;Oxazepam meting;oxazepam -
+10688003;Anodic stripping voltammetry measurement;Anodische stripping voltammetrie meting;Anodische stripping voltammetrie meting;anodic stripping voltammetry -
+10939000;Iron uptake test;Ijzeropname - test;Ijzeropname - test;ijzerdefici opname
+11075005;Subconvulsive electroshock therapy;Subconvulsive elektroshock therapie;Subconvulsive elektroshock therapie;subconvulsive elektroshocktherapie
+11127003;Esophagogastrostomy, antesternal or antethoracic;Esophagogastrostomy , antesternal of intrathoracale;Esophagogastrostomy , antesternal of antethoracic;oesophagogastrostomie , antesternal en antethoracic
+11610007;Arylsulfatase A measurement, fibroblasts;Arylsulfatase Een meting , fibroblasten;Arylsulfatase Een meting , fibroblasten;leuko - - fibroblasts
+11913007;Mephenytoin measurement;mefenyto ï ne meting;mefenyto ï ne meting;mefenyto ï ne ne
+12182009;Leadbetter-Politano operation, ureteroneocystostomy;Leadbetter - Politano operatie , ureteroneocystostomy;Leadbetter - Politano operatie , ureteroneocystostomy;politano - leadbetter ureterre ï mplantatie neoblaas
+12387006;Microbial subculture;microbi ë le subcultuur;microbi ë le subcultuur;microbial nacultuur
+12616003;Patient discharge, escaped from custody;ontlading pati ë nt , ontsnapt uit de gevangenis;ontlading pati ë nt , ontsnapt uit de gevangenis;pati ë nten escaped van custody
+13046005;Cholylglycine measurement;Cholylglycine meting;Cholylglycine meting;cholylglycine -
+13573001;Patellapexy;Patellapexy;Patellapexy;patellapexy
+13619001;Thyroidectomy;thyroidectomy;thyroidectomy;thyro ï dectomie
+13661007;Lidocaine measurement;lidoca ï ne meting;lidoca ï ne meting;lidocaine -
+13749006;Bathing patient in tub;Baden pati ë nt in bad;Baden pati ë nt in bad;baden van pati ë nt tub
+14025009;Psychologic test, Bender visual-motor gestalt test;Psychische test , Bender visueel - motorische gestalt - test;Psychische test , Bender visueel - motorische gestalt - test;bender - gestalttest
+14227006;Sickle cell identification;Sickle cel identificatie;Sickle cel identificatie;sikkelcelanemie identification
+14275001;Boronate affinity chromatography measurement;Boronaat affiniteitschromatografie meting;Boronaat affiniteitschromatografie meting;boronate affiniteitschromatografie
+14369007;Deworming;ontworming;ontworming;deworming
+14476003;Epididymorrhaphy;Epididymorrhaphy;Epididymorrhaphy;epididymorrhaphy
+15403001;N-acetylglucosaminidase A & B measurement;N - acetylglucosaminidase A & B meting;N - acetylglucosaminidase A & B meting;#NAAM?
+16151007;Microbial identification and susceptibility test;Microbi ë le identificatie en gevoeligheid testen;Microbi ë le identificatie en gevoeligheid testen;microbial identification en gevoeligheidstest
+16400008;Heterophile antibody measurement;Heterofiele antilichaam meting;Heterofiele antilichaam meting;heterophile antistof
+16572002;Butalbital measurement;Butalbital meting;Butalbital meting;butalbital -
+16589005;Femoral endarterectomy;femorale endarterectomy;femorale endarterectomy;femorale endarteri ë ctomie
+16908007;Linoleate measurement;linoleaat meting;linoleaat meting;linoleate -
+17508008;Paraaminohippurate measurement;Para aminohippuraat meting;Paraaminohippurate meting;paraaminohippurate -
+17515000;Radioimmunoprecipitation assay;radioimmunoprecipitatie assay;radioimmunoprecipitatie assay;radioimmunoprecipitatie -
+17539005;Remobilization;remobilisatie;remobilisatie;remobilization
+17662004;Filleting;fileren;Varkenshaas;filleting
+18102001;Mammary ductogram;borstklieren ductogram;borstklieren ductogram;lactische ductogram
+18223002;Mastoidotomy;Mastoidotomy;Mastoidotomy;masto ï dotomie
+19269007;Transfixion;Transfixion;Transfixion;transfixion
+19294008;Endomysial antibody measurement;Endomysiale antilichaam meting;Endomysiale antilichaam meting;endomysial antistof
+19401006;Oxytocinase measurement;oxytocinase meting;oxytocinase meting;oxytocinase -
+20074002;Galeaplasty;Galeaplasty;Galeaplasty;galeaplasty
+20738002;Endarterectomy of coronary artery;Endarterectomie van de kransslagader;Endarterectomie van de kransslagader;coronaire endarteri ë ctomie
+20805001;Rhinoseptoplasty;Rhinoseptoplasty;Rhinoseptoplasty;rhinoseptoplasty
+21062006;Phenylpropanolamine measurement;fenylpropanolamine meting;fenylpropanolamine meting;phenylpropanolamine -
+21424002;Phosphatidylinositol measurement;fosfatidylinositol meting;fosfatidylinositol meting;phosphatidylinositol -
+21593001;Ophthalmodynamography;Ophthalmodynamography;oftalmodynamografie;ophthalmodynamography
+21603002;Plasma radioiron turnover rate;Plasma radioiron omloopsnelheid;Plasma radioiron omloopsnelheid;plasmaprote radioiron turnover
+22432007;Internal hemorrhoidectomy;interne hemorrhoidectomy;interne hemorrhoidectomy;interne hemorro ï dectomie
+22644003;Low density lipoprotein measurement;Low density lipoprotein meting;Low density lipoprotein meting;low density lipoprote ï ne
+22761009;Perineogram;Perineogram;Perineogram;perineogram
+23463002;Gentamicin measurement;gentamicine meting;gentamicine meting;gentamicin -
+23567003;Biotinidase measurement;biotinidase meting;biotinidase meting;biotinidase -
+23745001;Charting patient information;In kaart brengen van de pati ë nt informatie;In kaart brengen van de pati ë nt informatie;charting pati information
+24420007;Sigmoidoscopy;sigmo ï doscopie;Sigmo ï doscopie;sigmo ï doscopie
+24496007;Hemorrhoidectomy;hemorrhoidectomy;hemorrhoidectomy;hemorro ï dectomie
+24846002;Imbrication;overlapping;overlapping;imbrication
+25104002;Haloperidol measurement;haloperidol meting;haloperidol meting;haloperidol -
+25325009;Dental alveoplasty;Dental alveoplasty;Dental alveoplasty;caries alveoplasty
+25411007;Hysterogram;Hysterogram;Hysterogram;hysterogram
+25704007;Antigen capture EIA test;Antigen capture EIA - test;Antigen capture EIA - test;antigeen capture exercise -
+25871006;Cricothyroidectomy;Cricothyroidectomy;Cricothyroidectomy;cricothyroidectomy
+25877005;Mealtime assistance;Etenstijd bijstand;Etenstijd bijstand;mealtime behulp
+25884002;Immunoelectrophoresis;immuno;immuno;immuno -
+26097007;Remobilization of stapes;Remobilisatie van stijgbeugel;Remobilisatie van stijgbeugel;remobilization stapedis
+26464002;Orthotic bracing;Orthotic schoren;Orthotic schoren;orthotic bracing
+27300001;Molegraphy;Molegraphy;Molegraphy;molegraphy
+27662000;Calibration of urethra;Kalibratie van de urethra;Kalibratie van de urethra;calibration urethra
+27965000;Methamphetamine measurement;methamphetamine meting;methamphetamine meting;methamphetamine -
+28436000;Prospective audit;prospectieve audit;prospectieve audit;prospective audit
+28686001;Nephrotomogram;Nephrotomogram;Nephrotomogram;nephrotomogram
+29141006;Trazodone measurement;Trazodone meting;Trazodone meting;trazodone -
+29142004;Cocaine measurement;coca ï ne meting;coca ï ne meting;coca ï ne
+29433003;Radiography of female genital organs;Radiografie van de vrouwelijke geslachtsorganen;Radiografie van de vrouwelijke geslachtsorganen;vrouwelijke genitaliar ö ntgenfoto
+29858004;Excision of artery;Excisie van slagader;Excisie van slagader;arteri ë ctomie
+30460007;Microbial identification, identicult-Neissera method;Microbi ë le identificatie , identicult - Neissera methode;Microbi ë le identificatie , identicult - Neissera methode;microbial identification , identicult - neissera methode
+30870002;General calisthenic exercise regimen;Algemeen calisthenic oefening regime;Algemeen calisthenic oefening regime;gegeneraliseerde calisthenic exercise regimen
+30876008;Pain control techniques education;controle pijn technieken onderwijs;controle pijn technieken onderwijs;pijnbestrijding techniques ntenvoorlichting
+30956003;Subtotal thyroidectomy;Subtotaal thyroidectomy;Subtotaal thyroidectomy;thyro ï dectomie gedeeltelijk
+31140003;Nortryptyline measurement;Nortryptyline meting;Nortryptyline meting;nortryptyline -
+31501000;Ethmoid sinusectomy;ethmoid sinusectomy;ethmoid sinusectomy;etmo ï dectomie
+31630000;Intracardiac phonocardiogram;intracardiale fonocardiogram;intracardiale fonocardiogram;intracardiale phonocardiogram
+31932005;Tympanomastoidectomy;Tympanomastoidectomy;Tympanomastoidectomy;tympanomastoidectomy
+32051004;Institutional environmental intervention;Institutionele milieu - interventie;Institutionele milieu - interventie;institutional omgevingstherapie
+32585009;Medical galvanism;medische galvanisme;medische galvanisme;biomedische galvanism
+32813003;Cytokine assay;cytokine assay;cytokine assay;cytokine -
+33356009;Betatron teleradiotherapy;betatron teleradiotherapy;betatron teleradiotherapy;betatron teleradiotherapy
+33470005;Flucytosine measurement;flucytosine meting;flucytosine meting;flucytosine -
+33748008;Phenytoin measurement;fenyto ï ne meting;fenyto ï ne meting;phenytoin -
+33966007;Cotinine measurement;cotinine meting;cotinine meting;cotinine -
+34535001;Microbial identification, HNID panel;Microbi ë le identificatie , HNID panel;Microbi ë le identificatie , HNID panel;microbial identification , hnid panel
+34596002;Patient discharge, elopement;ontlading pati ë nt , elopement;ontlading pati ë nt , elopement;pati ë nten elopement
+34608000;Alanine aminotransferase measurement;Alanineaminotransferase meting;Alanineaminotransferase meting;alanine - aminotransferase
+34616009;Epididymography;Epididymography;Epididymography;epididymography
+34640001;Sialolithotomy;Sialolithotomy;sialolithotomie;sialolithotomy
+35084009;Sulfisoxazole measurement;sulfisoxazol meting;sulfisoxazol meting;sulfisoxazole -
+35226000;Phonocardiogram;fonocardiogram;fonocardiogram;phonocardiogram
+35497000;Restraint maintenance;Restraint onderhoud;Restraint onderhoud;restraint onderhouden
+35880001;Antibody elution, ether;Antilichaam elutie ether;Antilichaam elutie ether;antilichaamdefici elution , ether
+36092006;Nephrocolopexy;Nephrocolopexy;nefrocolopexie;nephrocolopexy
+36395004;Grattage of conjunctiva;Grattage van bindvlies;Grattage van bindvlies;grattage conjunctiva
+36788006;Cecoplication;Cecoplication;Cecoplication;cecoplication
+36910002;Craniectomy;craniectomy;craniectomie;crani ë ctomie
+37199006;Thoracic endarterectomy;Thoracic endarterectomy;Thoracic endarterectomy;thoracale endarteri ë ctomie
+37999005;Caffeine measurement;meting cafe ï ne;meting cafe ï ne;cafe ï ne
+38678006;Client-centered psychotherapy;Cli ë ntgerichte psychotherapie;Cli ë ntgerichte psychotherapie;cli ë ntgerichte therapie
+38748006;McCall culdoplasty;McCall culdoplasty;McCall culdoplasty;mccall culdoplastiek
+38863001;Gas endarterectomy;gas endarterectomy;gas endarterectomy;gasendarteri ë ctomie
+38923003;Sphingomyelinase measurement;sphingomyelinase meting;sphingomyelinase meting;sphingomyelinase -
+39301001;Partial dermabrasion;gedeeltelijke dermabrasie;gedeeltelijke dermabrasie;parti huidabrasie
+39562007;Vermilionectomy;Vermilionectomy;Vermilionectomy;vermilionectomy
+39597009;Dibucaine number;dibuca ï ne nummer;dibuca ï ne nummer;dibuca ï ne aantal
+40008005;Plethysmometry;Plethysmometry;Plethysmometry;plethysmometry
+40025007;Odontotomy;Odontotomy;Odontotomy;odontotomy
+40128007;Optochin susceptibility test;Optochin gevoeligheid testen;Optochin gevoeligheid testen;optochin gevoeligheidstest
+40402000;Glucohemoglobin measurement;Glucohemoglobin meting;Glucohemoglobin meting;glucohemoglobin -
+40454005;Resistive exercise;resistieve oefening;resistieve oefening;resistive lichaamsbeweging
+40623004;Methsuximide measurement;methsuximide meting;methsuximide meting;methsuximide -
+41489001;Oligoclonal protein measurement;Oligoclonale eiwit meting;Oligoclonale eiwit meting;oligoclonal eiwit
+41902000;Major crossmatch;Major crossmatch;Major crossmatch;majeure crossmatch
+42075002;Diagnostic radiography of skull;Diagnostische radiografie van de schedel;Diagnostische radiografie van de schedel;schedelr ö ntgenfoto
+42211009;Radioimmunofocus assay;Radioimmunofocus assay;Radioimmunofocus assay;radioimmunofocus -
+42268006;Ileosigmoidostomy;Ileosigmoidostomy;iliosigmoideostomie;ileosigmo ï dostomie
+42313005;Plasma recalcification time;Plasma recalcificatietijd;Plasma recalcificatietijd;plasmaprote recalcificatietijd
+42691000;Soak;weken;aanhouden van oventemperatuur;soak
+43115001;Monoethylglycinexylidide measurement;mono - ethylglycinexylidide meting;mono - ethylglycinexylidide meting;monoethylglycinexylidide -
+43802008;Thermocautery;Thermocautery;Thermocautery;thermocautery
+43806006;Chlorpromazine measurement;Chlorpromazine meting;Chlorpromazine meting;chlorpromazine -
+43837006;Radioiodinated triolein study;Radioactief jodium gemerkt triole ï ne studie;Radioactief jodium gemerkt triole ï ne studie;radioiodinated triole ï ne - isotopenscan
+43979001;Erythropoietin measurement;erytropo ë tine meting;erytropo ë tine meting;erythropoietin -
+44829005;Meprobamate measurement;meprobamaat meting;meprobamaat meting;meprobamate -
+45046001;Exploration of mastoid;Verkenning van mastoid;Verkenning van mastoid;masto ï dexploratie
+45315006;Osteoarticular thermography;osteoarticulaire thermografie;osteoarticulaire thermografie;osteoarticular thermografie
+45565001;Logotherapy;Logotherapie;Logotherapie;logotherapy
+46211007;Debridement of bone;Debridement van het bot;Debridement van het bot;botd é bridement
+46797008;Bathing patient in isolette;Baden pati ë nt in isolette;Baden pati ë nt in isolette;baden van pati ë nt isolette
+47074005;Ventriculocholecystostomy;Ventriculocholecystostomy;Ventriculocholecystostomy;ventriculocholecystostomy
+47101004;Cardiotachometry;Cardiotachometry;Cardiotachometry;cardiotachometry
+47112004;Acetozolamide measurement;acetazolamide meting;acetazolamide meting;acetozolamide -
+48138001;Splenogram;Splenogram;Splenogram;splenogram
+48577007;Leukovorin rescue;Leukovorin redding;Leukovorin redding;leukovorin rescue
+48706002;Exophthalmometry;Exophthalmometry;Exophthalmometry;exophthalmometry
+48783008;Choledochopancreatostomy;Choledochopancreatostomy;Choledochopancreatostomy;choledoco - pancreaticostomie
+49315002;Pentobarbital measurement;pentobarbital meting;pentobarbital meting;pentobarbital -
+49538000;Conglutinin assay;Conglutinin assay;Conglutinin assay;conglutinin -
+49847002;Antibody titration, saline;Titratie van antilichamen , zoutoplossing;Titratie van antilichamen , zoutoplossing;antilichaamdefici titration - zoutoplossing
+50445001;Mastoidectomy;masto ï dectomie;mastoidectomie;masto ï dectomie
+50861005;Patient discharge, to legal custody;Pati ë nt kwijting , wettelijke voogdij;Pati ë nt kwijting , wettelijke voogdij;pati ë nten - legale custody
+51972009;Prostacyclin measurement;prostacycline meting;prostacycline meting;prostacyclin -
+51973004;Reattachment of tendon to skeletal attachment;Herbevestiging van de pees aan het skelet attachment;Herbevestiging van de pees aan het skelet attachment;peesre ï nsertie
+52566004;Clivogram;cladogram;Clivogram;clivogram
+52627000;Penicillinase measurement;penicillinase meting;penicillinase meting;penicillinase -
+52667004;Sigmoidosigmoidostomy;Sigmoidosigmoidostomy;Sigmoidosigmoidostomy;sigmo ï dosigmo ï dostomie
+53133001;Cecocoloplicopexy;Cecocoloplicopexy;Cecocoloplicopexy;cecocoloplicopexy
+53236004;Reorienting patient;herori ë nteren pati ë nt;herori ë nteren pati ë nt;reorienting pati ë nt
+53948008;Doleris operation on uterine ligaments;Doleris operatie op uteriene ligamenten;Doleris operatie op uteriene ligamenten;doleris alexander
+54070000;Postpartum education;postpartum onderwijs;postpartum onderwijs;postpartumperiode ntenvoorlichting
+54540001;Meperidine measurement;meperidine meting;meperidine meting;meperidine -
+54657008;Hygiene education;hygi ë ne onderwijs;hygi ë ne onderwijs;uiterlijk ntenvoorlichting
+54921001;Rheumatoid factor measurement;Reumato ï de factor meting;Reumato ï de factor meting;reumato ï dfactor
+54964008;Chemiluminescence assay;chemiluminescentie - test;chemiluminescentie - test;chemiluminescence -
+54983001;Measurement of girth;Meting van de omvang;Meting van de omvang;, omtrek
+55046007;Reamputation;Reamputation;Reamputation;reamputation
+55322005;Vital pulpotomy;Vital pulpotomy;Vital pulpotomy;vital pulpotomy
+55454000;Spermatocystotomy;Spermatocystotomy;vesiculotomie;spermatocystotomy
+55761000;Echogynography;Echosonography;Echogynography;echogynography
+56274004;Cryoprecipitate thawing and pooling;Cryoprecipitaat ontdooien en pooling;Cryoprecipitaat ontdooien en pooling;cryoprecipitate thawing en pooling
+56433002;Thyroidorrhaphy;Thyroidorrhaphy;Thyroidorrhaphy;thyro ï dorrhafie
+56469005;Moving a patient;Verplaatsen van een pati ë nt;Verplaatsen van een pati ë nt;bewegend pati
+56583005;Mephobarbital measurement;mefobarbital meting;mefobarbital meting;mephobarbital -
+56636003;Isodose computation for teletherapy;Isodose berekening voor teletherapie;Isodose berekening voor teletherapie;isodose computation voor teletherapy
+56638002;Flow cytometric crossmatch;Flowcytometrische crossmatch;Flowcytometrische crossmatch;vloeien cytometric crossmatch
+56919009;Butabarbital measurement;Butabarbital meting;Butabarbital meting;butabarbital -
+57109006;Cytotoxicity assay for autoantibody;Cytotoxiciteit assay voor autoantilichamen;Cytotoxiciteit assay voor autoantilichamen;cytotoxicity - for autoantibody
+57151004;Cheilostomatoplasty;Cheilostomatoplasty;Cheilostomatoplasty;cheilostomatoplasty
+57214001;Effleurage;effleurage;effleurage;effleurage
+57569002;Opticociliary neurectomy;Opticociliary neurectomie;Opticociliary neurectomie;opticociliary neurectomie
+58000006;Patient discharge;ontlading pati ë nt;ontlading pati ë nt;pati ë nten
+58448000;Lyophilized coagulation concentrate, reconstitution;Gevriesdroogde coagulatie concentraat reconstitutie;Gevriesdroogde coagulatie concentraat reconstitutie;lyophilized bloedcoagulatietest concentraat , reconstitution
+58707002;Oral hygiene instruction;Mondhygi ë ne instructie;Mondhygi ë ne instructie;mondhygi ë ne onderwijzen
+58809006;Osteoarthrotomy;Osteoarthrotomy;Osteoarthrotomy;osteoarthrotomy
+58873006;Modified Goeckerman regimen;Gemodificeerde Goeckerman regime;Gemodificeerde Goeckerman regime;aangepaste goeckerman regimen
+59014001;Procainamide measurement;proca ï namide meting;proca ï namide meting;proca ï namide -
+59427005;Synchronized intermittent mandatory ventilation;Gesynchroniseerde intermitterende verplichte ventilatie;Gesynchroniseerde intermitterende verplichte ventilatie;, langzamegolf - drukbeademing mandatory beademing
+59690005;Compensating filter design and fabrication;Compenseren filter ontwerp en de fabricage;Compenseren filter ontwerp en de fabricage;compensating inferiorfilter design en fabrication
+60116007;Complement fixation titration;Complementbindingsreactie titratie;Complementbindingsreactie titratie;complementdefici darmophanging titration
+60654006;Diagnostic radiography of abdomen;Diagnostische radiografie van de buik;Diagnostische radiografie van de buik;buikr ö ntgenfoto
+60685002;Prostatocystotomy;Prostatocystotomy;Prostatocystotomy;prostatocystotomy
+60955009;Assisting exercise;assisteren oefening;assisteren oefening;assisting lichaamsbeweging
+61151005;Cholecystopancreatostomy;Cholecystopancreatostomy;Cholecystopancreatostomy;cholecysto - pancreaticostomie
+61241003;Phytanate measurement;Phytanate meting;Phytanate meting;phytanate -
+61436009;Psychoanalysis;Psychoanalyse;Psychoanalyse;psychoanalysis
+61586001;Delivery by vacuum extraction;Levering door vacu ü mextractie;Levering door vacu ü mextractie;vacu ü mextractie
+61718005;Image analysis, karyometry;Beeldanalyse karyometry;Beeldanalyse karyometry;ogen , karyometry
+61735009;Hepatoduodenostomy;Hepatoduodenostomy;Hepatoduodenostomy;hepato - duodenostomoie
+62013009;Ambulating patient;ambulating pati ë nt;ambulating pati ë nt;ambulating pati ë nt
+62092000;Isotachyphoresis measurement;Isotachyphoresis meting;Isotachyphoresis meting;isotachyphoresis -
+62236008;Delimiting keratotomy;afbakenen keratotomie;afbakenen keratotomie;delimiting keratotomie
+62407006;Search for dangerous objects;Zoeken naar gevaarlijke voorwerpen;Zoeken naar gevaarlijke voorwerpen;search voor dangerous voorwerpen
+62868009;Mobilizing exercises;mobiliseren oefeningen;mobiliseren oefeningen;mobilizing inspanningstherapie
+63407004;Episioproctotomy;Episioproctotomy;Episioproctotomy;episioproctotomy
+63411005;Ouabain measurement;ouaba ï ne meting;ouaba ï ne meting;ouaba ï ne ne
+63678000;Antibody titration, enzyme;Titratie van antilichamen , enzym;Titratie van antilichamen , enzym;antilichaamdefici titration , enzyme
+64373007;Placing bedrails;Het plaatsen van bedrails;Het plaatsen van bedrails;leggen bedrails
+64738007;Cardiometry;Cardiometry;Cardiometry;cardiometry
+64812004;Sphingomyelinase measurement, fibroblasts;Sfingomyelinase meting , fibroblasten;Sfingomyelinase meting , fibroblasten;sphingomyelinase - fibroblasts
+65117000;Fluorescent identification of anti-nuclear antibody titration;Fluorescerende identificatie van anti - nucleaire titratie van antilichamen;Fluorescerende identificatie van anti - nucleaire titratie van antilichamen;immunofluorescentietechniek titration
+65745000;Partial hypophysectomy;gedeeltelijke hypofysectomie;gedeeltelijke hypofysectomie;parti hypofysectomie
+65760002;Galactosylceramide beta-galactosidase measurement;Galactosylceramide beta - galactosidase meting;Galactosylceramide beta - galactosidase meting;globo ï dcelleuko - -
+65781002;Porteus mazes;Porteus doolhoven;Porteus doolhoven;porteus mazes
+65854006;Reexcision;Reexcision;Reexcision;reexcision
+65954005;Hepaticocystoduodenostomy;Hepaticocystoduodenostomy;Hepaticocystoduodenostomy;hepaticocystoduodenostomy
+66951008;Carotid endarterectomy;Carotisendarterectomie;Carotisendarterectomie;caroticus endarteri ë ctomie
+67066002;Deoxycorticosteroids measurement;Deoxycorticosteroids meting;Deoxycorticosteroids meting;deoxycorticosteroids -
+67311005;Sedimentation rate, Wintrobe;Bezinking , Wintrobe;Bezinking , Wintrobe;erytrocytensedimentatiesnelheid wintrobe
+67704009;Etiocholanolone measurement;etiocholanolon meting;etiocholanolon meting;etiocholanolone -
+67804001;Arylsulfatase test;arylsulfatase - test;arylsulfatase - test;leuko -
+67839001;Merrill Palmer preschool performance;Merrill Palmer voorschoolse prestaties;Merrill Palmer voorschoolse prestaties;merrill palmer preschool prestaties
+68111003;Cardioschisis;Cardioschisis;Cardioschisis;cardioschisis
+68121006;Measurement of interstitial fluid pressure in muscle compartment;Meting van interstiti ë le flu ï dumdruk in de spieren compartiment;Meting van interstiti ë le flu ï dumdruk in de spieren compartiment;#NAAM?
+68187007;Tracheobronchial suctioning;tracheobronchiale uitzuigen;tracheobronchiale uitzuigen;tracheobronchiaal suctioning
+68515000;Methyprylon measurement;methyprylon meting;methyprylon meting;methyprylon -
+68795003;Micro cytotoxicity crossmatch;Micro cytotoxiciteit crossmatch;Micro cytotoxiciteit crossmatch;micro cytotoxicity crossmatch
+68894007;Placing restraint;Het plaatsen van terughoudendheid;Het plaatsen van terughoudendheid;leggen restraint
+68923005;Autocontrol procedure for crossmatch;Autocontrole procedure voor crossmatch;Autocontrole procedure voor crossmatch;autocontrol montage crossmatch
+69363007;Nucleic acid amplification;Nucle ï nezuuramplificatie;Nucle ï nezuuramplificatie;nucle ï nezuurhybridisatie amplification
+69556006;Otonecrectomy of inner ear;Otonecrectomy van binnenoor;Otonecrectomy van binnenoor;otonecrectomy binnenoor
+71466003;Valproic acid measurement;Valpro ï nezuur meting;Valpro ï nezuur meting;valpro ï nezuur -
+71840009;Vesicourethropexy;Vesicourethropexy;Vesicourethropexy;cysto - urethropexie
+72063000;Precision attachment;precisiehulpstuk;precisiehulpstuk;precision aanhechting
+72234007;Doxepin measurement;Doxepin meting;Doxepin meting;doxepin -
+72594006;Orthotic check-out readjustment;Orthotic check - out aanpassing;Orthotic check - out aanpassing;orthotic - out readjustment
+72845001;Histocompatibility crossmatch;histocompatibiliteit crossmatch;histocompatibiliteit crossmatch;histocompatibiliteit crossmatch
+73189009;Amoxapine measurement;amoxapine meting;amoxapine meting;amoxapine -
+73293008;Myotenoplasty;Myotenoplasty;Myotenoplasty;myotenoplasty
+73409002;Prausnitz-Kustner test;Prausnitz - Kustner - test;Prausnitz - Kustner - test;prausnitz - kustnerreactie
+73529003;Cryoprecipitate preparation;cryoprecipitaat voorbereiding;cryoprecipitaat voorbereiding;cryoprecipitate voorbereiding
+73577003;Digitoxin measurement;digitoxine meting;digitoxine meting;digitoxin -
+73920007;Spurling maneuver;Spurling manoeuvre;Spurling manoeuvre;spurling manoeuvre
+73927005;Goebel-Frangenheim-Stoeckel operation for urethrovesical suspension;Goebel - Frangenheim - Stoeckel verrichting voor urethrovesical schorsing;Goebel - Frangenheim - Stoeckel verrichting voor urethrovesical schorsing;goebel - frangenheim - stoeckel ingreep urethro schorsing
+73966002;Hemicystectomy;Hemicystectomy;hemicystectomie;hemicystectomy
+74290000;Fracturing-refracturing;Breken - refracturing;Breken - refracturing;fracturing - refracturing
+74556005;Thromboendarterectomy;Thromboendarterectomy;Thromboendarterectomy;endarteri ë ctomie
+74579006;Goniospasis;Goniospasis;Goniospasis;goniospasis
+75313008;Orthotic splinting;orthopedische spalken;orthopedische spalken;orthotic spalkaanbrenging
+75404005;Epiploectomy;Epiploectomy;Epiploectomy;epiplo ë ctomie
+75406007;Morphometry, quantitative;Morfometrie , kwantitatieve;Morfometrie , kwantitatieve;morphometry kwantitatief
+75513009;Recement bridge;recement brug;recement brug;recement brug
+76530001;Phosphatidylglycerol measurement;fosfatidylglycerol meting;fosfatidylglycerol meting;phosphatidylglycerol -
+77000007;Post-amputation rehabilitation;Post - amputatie revalidatie;Post - amputatie revalidatie;#NAAM?
+77697000;Cryothalamectomy;Cryothalamectomy;Cryothalamectomy;cryothalamectomy
+78002002;Contrast dacryocystogram;contrast dacryocystogram;contrast dacryocystogram;contrast dacryocystogram
+78644009;Neopterin measurement;neopterine meting;neopterine meting;neopterin -
+78670005;Diagnostic radiography of all fingers;Diagnostische radiografie van alle vingers;Diagnostische radiografie van alle vingers;schedelr ö ntgenfoto vingers
+79076007;Prosthetic readjustment;prothetische aanpassing;prothetische aanpassing;prosthetisch readjustment
+79572004;Choledocholithotripsy;Choledocholithotripsy;Choledocholithotripsy;choledocholithotripsy
+79779006;Patient discharge, deceased, no autopsy;ontlading pati ë nt , overleden , geen autopsie;ontlading pati ë nt , overleden , geen autopsie;pati ë nten deceased , autopsie
+80332008;Phleborheography;Phleborheography;Phleborheography;phleborheography
+81451007;Donaldson stereophotography;Donaldson stereofotografie;Donaldson stereofotografie;donaldson stereophotography
+82343008;HLA-DQ serotyping;HLA - DQ serotypering;HLA - DQ serotypering;hla - dq serotypering
+82463000;Vidianectomy;Vidianectomy;Vidianectomy;vidianectomy
+82480001;Astragalectomy;Astragalectomy;astragalectomie;astragalectomy
+82681007;Androstenedione measurement;androstenedione meting;androstenedione meting;androstenedione -
+82688001;Removal of ectopic fetus;Verwijdering van buitenbaarmoederlijke foetus;Verwijdering van buitenbaarmoederlijke foetus;ectopische zwangerschapsbe ë indiging
+82766007;Medical testimony;medische getuigenis;medische getuigenis;biomedische testimony
+83429007;Serialography, multi-plane;Serialography , multi - plane;Serialography , multi - plane;serialography , multi - vlak
+83574003;Sorondo-FerrÃ© hindquarter operation;Sorondo - Ferra © achtervoet operatie;Sorondo - Ferra © achtervoet operatie;sorondo , ferr ã© hemipelvectomie
+83706000;Robert Jones bandaging;Robert Jones zwachtelen;Robert Jones zwachtelen;roberts jonesprote verband
+83877004;Phlebogoniostomy;Phlebogoniostomy;Phlebogoniostomy;phlebogoniostomy
+84282008;Hemorrhoidectomy by simple ligature;Hemorrhoidectomy door eenvoudige ligatuur;Hemorrhoidectomy door eenvoudige ligatuur;hemorro ï denligatuur
+84456001;Saucerization of rectum;Saucerization van rectum;Saucerization van rectum;saucerization rectum
+84604002;Sigmoid colectomy;sigmoid colectomy;sigmoid colectomy;sigmo ï dectomie
+84675000;Bone histomorphometry;bothistomorfometrie;Bothistomorfometrie;bot histomorphometry
+84688002;Placing cribguard;Het plaatsen van cribguard;Het plaatsen van cribguard;leggen cribguard
+84962002;Rhinocheiloplasty;Rhinocheiloplasty;Rhinocheiloplasty;rhinocheiloplasty
+85056003;Chlorazepate dipotassium measurement;Clorazepaat dikalium meting;Clorazepinezuur dikalium meting;chlorazepate dipotassium -
+85199006;Mediastinal pneumogram;mediastinale pneumogram;mediastinale pneumogram;mediastinaal pneumogram
+85215005;Cytotoxicity assay;cytotoxiciteitstest;cytotoxiciteitstest;cytotoxicity -
+85340000;Polarographic measurement;polarografische meting;polarografische meting;polarographic -
+85732008;Radiculectomy;Radiculectomy;Radiculectomy;radiculectomy
+86171007;Determinative histochemistry for enzymes;Bepalend histochemie enzymen;Bepalend histochemie enzymen;determinative histochemistry voor bevindingen
+86515003;Premarital counseling;voorhuwelijkse begeleiding;voorhuwelijkse begeleiding;premarital consultatie
+87258008;Ureteropexy;Ureteropexy;Ureteropexy;ureteropexy
+87338009;Tracheography;Tracheography;Tracheography;tracheography
+87389009;Epiplorrhaphy;Epiplorrhaphy;Epiplorrhaphy;epiplorrhaphy
+87635003;Enteroentectropy;Enteroentectropy;Enteroentectropy;enteroentectropy
+87852001;Vocational retraining;omscholing;beroepsrevalidatie;carri è re retraining
+87879002;Cholangiocholangiostomy;Cholangiocholangiostomy;Cholangiocholangiostomy;cholangiocholangiostomy
+88054001;Cardiotopometry;Cardiotopometry;cardiotopometrie;cardiotopometry
+88655004;Repair of varicocele;Reparatie van varicocele;Reparatie van varicocele;varicok è leherstel
+88786001;Operculectomy;operculectomy;operculectomy;operculectomy
+89226006;Fibrinogen inhibitor assay;Fibrinogeen remmermeting;Fibrinogeen remmermeting;fibrogeendefici anticoagulans
+90042000;Encainide measurement;encainide meting;encainide meting;enca ï nide -
+90231002;Catecholamines, fractionation measurement, urine;Catecholamines , fractionering meting , urine;Catecholamines , fractionering meting , urine;catecholamines , fractionation ne urine
+90278001;Secluding patient;secluding pati ë nt;secluding pati ë nt;secluding pati ë nt
+90287005;Thalamectomy;Thalamectomy;Thalamectomy;thalamectomy
+90491003;Antibody capture EIA test;Antilichaam capture EIA - test;Antilichaam capture EIA - test;antilichaamdefici capture exercise -
+91047000;Retinoids measurement;retino ï den meting;retino ï den meting;retinoids -
+91160008;Transcricoid bronchography;Transcricoid bronchografie;Transcricoid bronchografie;transcricoid bronchogram
+91172002;Hypnodrama;Hypnodrama;Hypnodrama;hypnodrama
+91400004;Bisection;het in twee ë n delen;Bissectrice;bisection
+91402007;Salabrasion;Salabrasion;Salabrasion;salabrasion
+91644008;Neurectasis;Neurectasis;Neurectasis;neurectasis
+91658005;Phenylbutazone measurement;fenylbutazon meting;fenylbutazon meting;phenylbutazone -
+103730004;Cryocardioplegia;Cryocardioplegia;Cryocardioplegia;cryocardioplegia
+103802005;Kallikrein assay;kallikre ï ne assay;kallikre ï ne assay;kallikrein -
+103804006;Factor V inhibitor assay;Factor V remmermeting;Factor V remmermeting;defici anticoagulans
+103808009;Factor XII inhibitor assay;Factor XII remmermeting;Factor XII remmermeting;defici anticoagulans
+103854000;Thromboglobulin measurement;tromboglobuline meting;tromboglobuline meting;tromboglobuline -
+103855004;Thrombomodulin measurement;thrombomoduline meting;thrombomoduline meting;thrombomodulin -
+103916001;Jk3 blood group typing;JK3 bloedgroep typering;JK3 bloedgroep typering;jk3 bloedgroepbepaling
+103967003;Antibody titration;titratie van antilichamen;titratie van antilichamen;antilichaamdefici titration
+104071009;Rhogam screen;Rhogam scherm;Rhogam scherm;rhogam beeldscherm
+104081008;Blood product reservation;Bloedproduct reservering;Bloedproduct reservering;serum reservation
+104234003;Gradient strip susceptibility test;Gradient strip gevoeligheid - test;Gradient strip gevoeligheid - test;gradi ë nt strip gevoeligheidstest
+104248003;Eutrophication;eutrofi ë ring;Eutrofi ë ring;eutrophication
+104341007;Complement c1r2+c1s2 measurement;Aanvulling c1r2 + c1s2 meting;Aanvulling c1r2 c1s2 meting;complementdefici c1r2 en c1s2 -
+104342000;Complement clr2-cls2 measurement;Aanvullen Clr2 - cls2 meting;Aanvullen Clr2 - cls2 meting;complementdefici clr2 - cls2 -
+104343005;Complement IC3 measurement;Aanvulling IC3 meting;Aanvulling IC3 meting;complementdefici ic3 -
+104349009;Complement C3a measurement;Aanvullen C3a meting;Aanvullen C3a meting;complementdefici c3a -
+104350009;Complement C3b measurement;Aanvullen C3b meting;Aanvullen C3b meting;complementdefici c3b - -
+104351008;Complement C3c measurement;Aanvullen C3c meting;Aanvullen C3c meting;complementdefici c3c -
+104352001;Complement C3d measurement;Aanvullen C3d meting;Aanvullen C3d meting;complementdefici c3d -
+104354000;Complement C3pa measurement;Aanvullen C3pa meting;Aanvullen C3pa meting;complementdefici c3pa -
+104356003;Complement C4a measurement;Aanvullen C4a meting;Aanvullen C4a meting;complementdefici c4a -
+104357007;Complement C4b binding protein measurement;Aanvullen C4b bindend eiwit meting;Aanvullen C4b bindend eiwit meting;complementdefici c4b bindend eiwit
+104358002;Complement C4d measurement;Aanvullen C4d meting;Aanvullen C4d meting;complementdefici c4d -
+104359005;Complement C5a measurement;Aanvulling C5a meting;Aanvulling C5a meting;complementdefici c5a -
+104368007;Complement decay accelerating factor measurement;Complement verval versnellende factor meting;Complement verval versnellende factor meting;complementdefici cari ë s accelerating dfactor
+104369004;Complement iC3B receptors measurement;Aanvullen iC3b receptoren meting;Aanvullen iC3b receptoren meting;complementdefici ic3b receptors -
+104371004;Complement C3d-C3d+GG-IC3b receptors measurement;Aanvullen C3d - C3d + GG - IC3b receptoren meting;Aanvullen C3d - C3d GG - IC3b receptoren meting;complementdefici c3d - c3d en gg - ic3b receptors -
+104398000;Acetylcholine receptor modulating antibody measurement;Acetylcholine receptor modulerende antilichaam meting;Acetylcholine receptor modulerende antilichaam meting;acetylcholine receptorblokkerende modulating antistof
+104415000;HLA-Dw serotyping;HLA - Dw serotypering;HLA - Dw serotypering;hla - dw serotypering
+104416004;HLA-DP serotyping;HLA - DP serotypering;HLA - DP serotypering;hla - dp serotypering
+104466005;Acyl-CoA dehydrogenase measurement;Acyl - CoA dehydrogenase meting;Acyl - CoA dehydrogenase meting;defici ë ne
+104471003;Adenosine deaminase measurement;Adenosinedeaminase meting;Adenosinedeaminase meting;ada -
+104473000;Adenosine monophosphate deaminase measurement;Adenosinemonofosfaat deaminase meting;Adenosinemonofosfaat deaminase meting;adenosine monophosphate defici -
+104476008;Adenylosuccinate lyase measurement;Adenylosuccinate lyase meting;Adenylosuccinate lyase meting;adenylosuccinate lyasedefici -
+104479001;Alanine measurement;alanine meting;alanine meting;alanine -
+104480003;Alanine aminopeptidase measurement;Alanine aminopeptidase meting;Alanine aminopeptidase meting;alanine aminopeptidase
+104491005;Aliphatic carboxylate C10-C26 measurement;Alifatische carboxylaat C10 - C26 meting;Alifatische carboxylaat C10 - C26 meting;alifatische carboxylate c10 - c26 -
+104496000;Apolipoprotein measurement;apolipoprote ï ne meting;apolipoprote ï ne meting;apolipoprote ï ne
+104515002;Androstanediol glucuronide measurement;Androstanediol glucuronide meting;Androstanediol glucuronide meting;androstanediol glucuronide -
+104518000;Androstenediol measurement;androstenediol meting;androstenediol meting;androstenediol -
+104522005;Angiotensinogen measurement;angiotensine meting;angiotensine meting;angiotensinogen -
+104524006;Arginase measurement;arginase meting;arginase meting;arginase -
+104528009;Apolipoprotein LPA measurement;Apolipoprote ï ne LPA meting;Apolipoprote ï ne LPA meting;apolipoprote ï lpa -
+104529001;Apolipoprotein LPQ measurement;Apolipoprote ï ne LPQ meting;Apolipoprote ï ne LPQ meting;apolipoprote ï lpq -
+104532003;Apolipoproteins C measurement;Apolipoprote ï nen C meting;Apolipoprote ï nen C meting;apolipoprote ï ne c
+104533008;Apolipoproteins E measurement;Apolipoprote ï nen E meting;Apolipoprote ï nen E meting;apolipoprote ï ne e
+104534002;Argininosuccinate lyase measurement;Argininosuccinaatsynthetase lyase meting;Argininosuccinaatsynthetase lyase meting;argininosuccinaat - lyasedefici -
+104535001;Argininosuccinate measurement;argininosuccinaatsynthetase meting;argininosuccinaatsynthetase meting;argininosuccinaat -
+104536000;Argininosuccinate synthase measurement;Argininosuccinaatsynthetase synthase meting;Argininosuccinaatsynthetase synthase meting;argininosuccinaatdefici ë ne
+104557008;Biopterin measurement;biopterine meting;biopterine meting;biopterin -
+104571000;Cardiolipins measurement;cardiolipinen meting;cardiolipinen meting;cardiolipins -
+104574008;Carnosine measurement;carnosine meting;carnosine meting;carnosine -
+104591007;Cholecystokinin measurement;cholecystokinine meting;cholecystokinine meting;cholecystokinin -
+104592000;Choleglobin measurement;Choleglobin meting;Choleglobin meting;choleglobin -
+104593005;Cholestanol measurement;cholestanol meting;cholestanol meting;cholestanol -
+104598001;Chymopapain measurement;chymopapa ï ne meting;chymopapa ï ne meting;chymopapa ï ne ne
+104617000;Cyanmethemoglobin measurement;Cyanmethemoglobin meting;Cyanmethemoglobin meting;cyanmethemoglobin -
+104622000;Cystinyl aminopeptidase measurement;Cystinyl aminopeptidase meting;Cystinyl aminopeptidase meting;cystinyl aminopeptidase
+104624004;Dehydroepiandrosterone measurement;dehydroepiandrosteron meting;dehydroepiandrosteron meting;dehydroepiandrosterone -
+104630004;Deoxyhemoglobin measurement;deoxyhemoglobin meting;deoxyhemoglobin meting;deoxyhemoglobin -
+104631000;Deoxypyridinoline measurement;deoxypyridinoline meting;deoxypyridinoline meting;deoxypyridinoline -
+104638006;Dihydrofolate measurement;dihydrofolaat meting;dihydrofolaat meting;dihydrofolate -
+104640001;Dihydrolipoamide dehydrogenase measurement;Dihydrolipoamide dehydrogenase meting;Dihydrolipoamide dehydrogenase meting;nadh - cytochroom - b5 - reductasedefici ë ne
+104642009;Dihydropteridine reductase measurement;Dihydropteridine meting reductase;Dihydropteridine meting reductase;dihydropteridinereductasedefici -
+104644005;Dipalmitoylphosphatidylcholine measurement;dipalmitoylfosfatidylcholine meting;dipalmitoylfosfatidylcholine meting;dipalmitoylphosphatidylcholine -
+104648008;Elastase 2 measurement;Elastase 2 meting;Elastase 2 meting;elastase cellymfotroop -
+104651001;Enteropeptidase measurement;Enterokinase meting;Enterokinase meting;enteropeptidase -
+104653003;Epiandrosterone measurement;epiandrosteron meting;epiandrosteron meting;epiandrosterone -
+104655005;Epitestosterone measurement;epitestosterone meting;epitestosterone meting;epitestosterone -
+104656006;Ergocalciferol measurement;ergocalciferol meting;ergocalciferol meting;ergocalciferol -
+104658007;Ethanolamine measurement;ethanolamine meting;ethanolamine meting;ethanolamine -
+104659004;Ethylmalonate measurement;ethylmalonaat meting;ethylmalonaat meting;ethylmalonate -
+104662001;Fibronectin measurement;fibronectine meting;fibronectine meting;fibronectin -
+104669005;Glycated protein measurement;Geglyceerd eiwit meting;Geglyceerd eiwit meting;glycated eiwit
+104672003;Fumarase measurement;fumarase meting;fumarase meting;fumarase -
+104674002;Fumarylacetoacetate measurement;fumarylacetoacetaat meting;fumarylacetoacetaat meting;fumarylacetoacetate -
+104678004;Galactosylgalactosylglucosylceramidase measurement;Galactosylgalactosylglucosylceramidase meting;Galactosylgalactosylglucosylceramidase meting;galactosylgalactosylglucosylceramidase -
+104703003;Glutathione reductase measurement;reductase meting glutathion;reductase meting glutathion;glutathiondefici b5 -
+104705005;Glutathione synthase measurement;Glutathion synthase meting;Glutathion synthase meting;glutathiondefici ë ne
+104707002;Glycated albumin measurement;Geglyceerd albumine meting;Geglyceerd albumine meting;glycated albumine
+104711008;Glycogen synthase measurement;Glycogeen synthase meting;Glycogeen synthase meting;defici ë ne
+104712001;Glycolate measurement;glycolaat meting;glycolaat meting;glycolate -
+104713006;Glycoproteins measurement;glycoprote ï nen meting;glycoprote ï nen meting;glycoproteins -
+104721000;Hemopexin measurement;Hemopexin meting;Hemopexin meting;hemopexin -
+104723002;Heptacarboxylporphyrin measurement;Heptacarboxyporphyrin meting;Heptacarboxylporphyrin meting;heptacarboxylporphyrin -
+104724008;Hexachlorophene measurement;hexachlorofeen meting;hexachlorofeen meting;hexachlorophene -
+104732000;Homocitrulline measurement;Homocitrulline meting;Homocitrulline meting;homocitrulline -
+104733005;Homocysteine measurement;homocyste ï ne meting;homocyste ï ne meting;homocyste ï ne ne
+104737006;Hydroxycalcidiol measurement;Hydroxycalcidiol meting;Hydroxycalcidiol meting;hydroxycalcidiol -
+104738001;Hydroxycobalamin measurement;hydroxycobalamine meting;hydroxycobalamine meting;hydroxycobalamin -
+104742003;Hydroxylysine measurement;hydroxylysine meting;hydroxylysine meting;hydroxylysine -
+104743008;Hydroxymethylglutaryl-CoA lyase measurement;Hydroxymethylglutaryl - CoA lyase meting;Hydroxymethylglutaryl - CoA lyase meting;hydroxymethylglutaryl - lyasedefici -
+104744002;Hypoxanthine measurement;hypoxanthine meting;hypoxanthine meting;hypoxanthine -
+104747009;Indicans measurement;Indicans meting;Indicans meting;indicans -
+104748004;Indolamine measurement;Indolamine meting;Indolamine meting;indolamine -
+104749007;Indole measurement;indool meting;indool meting;indole -
+104750007;Inhibin measurement;Inhibin meting;Inhibin meting;inhibin -
+104767000;Kynurenate measurement;Kynurenate meting;Kynurenate meting;kynurenate -
+104785007;beta-Lipoprotein measurement;beta - Lipoprote ï ne meting;beta - Lipoprote ï ne meting;b è ta - lipoprote ï ne ne
+104787004;Lipoprotein lipase measurement;Lipoprote ï ne lipase meting;Lipoprote ï ne lipase meting;lipoproteine lipase
+104788009;pre-beta-Lipoprotein measurement;pre - beta - lipoprote ï ne meting;pre - beta - lipoprote ï ne meting;pre - b è ta - lipoprote ï ne ne
+104789001;Lipoproteins measurement;lipoprote ï nen meting;lipoprote ï nen meting;lipoproteins -
+104795000;Lutropin release factor measurement;Lutropine vrijlating factor meting;Lutropine vrijlating factor meting;lutropin vrijgeven dfactor
+104797008;Lysolecithin acyltransferase measurement;Lysolecithine acyltransferase meting;Lysolecithine acyltransferase meting;lysolecithine ë ne
+104799006;Macroamylase measurement;Macroamylase meting;Macroamylase meting;macroamylase -
+104800005;Macroglobulins measurement;macroglobulinen meting;macroglobulinen meting;macroglobulins -
+104802002;Malonate measurement;malonaat meting;malonaat meting;malonate -
+104806004;Menadione measurement;menadion meting;menadion meting;menadione -
+104808003;Methcoproporphyrin measurement;Methcoproporphyrin meting;Methcoproporphyrin meting;methcoproporphyrin -
+104809006;Methemalbumin measurement;Methemalbumin meting;Methemalbumin meting;methemalbumin -
+104813004;Methylenetetrahydrofolate dehydrogenase NAD measurement;Methyleentetrahydrofolaat dehydrogenase NAD meting;Methyleentetrahydrofolaat dehydrogenase NAD meting;methylenetetrahydrofolate ë nad -
+104814005;Methylenetetrahydrofolate dehydrogenase NADP measurement;Methyleentetrahydrofolaat dehydrogenase NADP meting;Methyleentetrahydrofolaat dehydrogenase NADP meting;methylenetetrahydrofolate ë ntie -
+104815006;Methylmalonate measurement;methylmalonaat meting;methylmalonaat meting;methylmalonate -
+104816007;Methylmalonyl-CoA mutase measurement;Methylmalonyl - CoA mutase meting;Methylmalonyl - CoA mutase meting;methylmalonyl - mutase -
+104817003;Methyltestosterone measurement;Methyltestosterone meting;Methyltestosterone meting;methyltestosterone -
+104818008;Mianserin measurement;mianserine meting;mianserine meting;mianserin -
+104821005;Mucoprotein measurement;mucoprotein meting;mucoprotein meting;mucoprote ï ne ne
+104828004;Neurophysin measurement;Neurophysin meting;Neurophysin meting;neurophysin -
+104829007;Neurotensin measurement;neurotensine meting;neurotensine meting;neurotensin -
+104830002;Niacin measurement;niacine meting;niacine meting;niacinedefici -
+104835007;Normetanephrine measurement;normetanefrine meting;normetanefrine meting;normetanephrine -
+104840004;Ornithine carbamoyltransferase measurement;Ornithinecarbamoyltransferase meting;Ornithinecarbamoyltransferase meting;ornithinecarbamoyltransferase -
+104843002;Orotidine-5'-phosphate decarboxylase measurement;Orotidine - 5 '- fosfaat decarboxylase meting;Orotidine - 5 '- fosfaat decarboxylase meting;orotidine - '- defici decarboxylase -
+104845009;Osteonectin measurement;osteonectine meting;osteonectine meting;osteonectin -
+104858005;Pepsinogen measurement;pepsinogeen meting;pepsinogeen meting;pepsinogen -
+104859002;Pepsins measurement;pepsine meting;pepsine meting;pepsins -
+104861006;Phenolsulfonphthalein measurement;Phenolsulfonphthalein meting;Phenolsulfonphthalein meting;fenolsulfonftale ï netest
+104863009;Phenylketones measurement;Fenylketonen meting;Fenylketonen meting;phenylketones -
+104871008;Phosphoenolpyruvate carboxykinase measurement;Fosfoenolpyruvaatcarboxykinase meting;Fosfoenolpyruvaatcarboxykinase meting;fosfo -
+104873006;Phosphofructokinase measurement;fosfofructokinase meting;fosfofructokinase meting;phosphofructokinase -
+104877007;Phosphoglyceromutase measurement;Phosphoglyceromutase meting;Phosphoglyceromutase meting;phosphoglyceromutase -
+104878002;Phosphohexoisomerase measurement;Phosphohexoisomerase meting;Phosphohexoisomerase meting;phosphohexoisomerase -
+104879005;Phosphoserine measurement;fosfoserine meting;fosfoserine meting;phosphoserine -
+104881007;Porphobilin measurement;Porphobilin meting;Porphobilin meting;porphobilin -
+104882000;Porphobilinogen measurement;porfobilinogeen meting;porfobilinogeen meting;porphobilinogen -
+104884004;Porphyrin measurement;porfyrine meting;porfyrine meting;porphyrin -
+104911001;Purine-nucleoside phosphorylase measurement;Purine nucleoside fosforylase meting;Purine nucleoside fosforylase meting;purinenucleoside - fosforylase -
+104921009;Retinaldehyde measurement;retinaldehyde meting;retinaldehyde meting;retinaldehyde -
+104922002;Retinoate measurement;retinoaat meting;retinoaat meting;retinoate -
+104924001;Ribonuclease measurement;ribonuclease meting;ribonuclease meting;ribonuclease -
+104926004;Ribulose measurement;ribulose meting;ribulose meting;ribulose -
+104927008;Saccharase measurement;saccharase meting;saccharase meting;saccharase -
+104928003;Saccharides measurement;sacchariden meting;sacchariden meting;saccharides -
+104929006;Sarcosine measurement;sarcosine meting;sarcosine meting;sarcosine -
+104932009;Sialate measurement;Sialate meting;Sialate meting;sialate -
+104933004;Sialidase measurement;sialidase meting;sialidase meting;sialidase -
+104936007;Somatomedin measurement;Somatomedin meting;Somatomedin meting;somatomedin -
+104938008;Somatostatin measurement;somatostatine meting;somatostatine meting;somatostatin -
+104946009;Succinylacetone measurement;succinylaceton meting;succinylaceton meting;succinylacetone -
+104951003;Sulfite oxidase measurement;Sulfiet oxidase meting;Sulfiet oxidase meting;defici -
+104960006;Tetrahydrodeoxycortisol measurement;Tetrahydrodeoxycortisol meting;Tetrahydrodeoxycortisol meting;tetrahydrodeoxycortisol -
+104984003;Transcortin measurement;transcortine meting;transcortine meting;transcortin -
+104985002;Transketolase measurement;transketolase meting;transketolase meting;transketolase -
+104987005;Trehalase measurement;trehalase meting;trehalase meting;trehalase -
+104988000;Triacylglycerol lipase measurement;Triacylglycerol lipase meting;Triacylglycerol lipase meting;triacylglycerol lipase
+104998006;Triokinase measurement;Triokinase meting;Triokinase meting;triokinase -
+104999003;Triosephosphate measurement;triosefosfaat meting;triosefosfaat meting;triosephosphate -
+105005008;Trypsinogen measurement;trypsinogeen meting;trypsinogeen meting;trypsinogen -
+105008005;Tyramine measurement;tyramine meting;tyramine meting;tyramine -
+105018000;Urobilin measurement;urobilin meting;urobilin meting;urobilin -
+105022005;Uronates measurement;Uronates meting;Uronates meting;uronates -
+105025007;Valine measurement;valine meting;valine meting;valine -
+105026008;Verdohemoglobin measurement;Verdohemoglobin meting;Verdohemoglobin meting;verdohemoglobin -
+105031005;Vitronectin measurement;vitronectine meting;vitronectine meting;vitronectin -
+105033008;Xanthurenate measurement;Xanthurenate meting;Xanthurenate meting;xanthurenate -
+105035001;Xylulose measurement;xylulose meting;xylulose meting;xylulose -
+105049005;Acetohexamide measurement;acetohexamide meting;acetohexamide meting;acetohexamide -
+105053007;Alfentanil measurement;alfentanil meting;alfentanil meting;alfentanil -
+105055000;Alprazolam measurement;Alprazolam meting;Alprazolam meting;alprazolam -
+105058003;Amdinocillin measurement;Amdinocillin meting;Amdinocillin meting;amdinocillin -
+105059006;Amiloride measurement;amiloride meting;amiloride meting;amiloride -
+105066007;Amobarbital measurement;amobarbital meting;amobarbital meting;amobarbital -
+105068008;Amphepramone measurement;Amphepramone meting;Amphepramone meting;amphepramone -
+105074008;Atenolol measurement;atenolol meting;atenolol meting;atenolol -
+105077001;Aztreonam measurement;aztreonam meting;aztreonam meting;aztreonam -
+105080000;Bendroflumethiazide measurement;bendroflumethiazide meting;bendroflumethiazide meting;bendroflumethiazide -
+105082008;Benzfetamine measurement;Benzfetamine meting;Benzfetamine meting;benzfetamine -
+105088007;Bromazepam measurement;Bromazepam meting;Bromazepam meting;bromazepam -
+105092000;Bumetanide measurement;bumetanide meting;bumetanide meting;bumetanide -
+105094004;Buprenorphine measurement;buprenorfine meting;buprenorfine meting;buprenorphine -
+105100001;Carisoprodol measurement;Carisoprodol meting;Carisoprodol meting;carisoprodol -
+105110005;Cefsulodin measurement;cefsulodin meting;cefsulodin meting;cefsulodin -
+105111009;Ceftazidime measurement;ceftazidim meting;ceftazidim meting;ceftazidime -
+105114001;Cefuroxime measurement;Cefuroxime meting;Cefuroxime meting;cefuroxime -
+105115000;Cephalexin measurement;Cephalexin meting;Cephalexin meting;cephalexin -
+105116004;Cephalothin measurement;cefalotine meting;cefalotine meting;cephalothin -
+105122008;Chlorpheniramine measurement;chlorpheniramine meting;chlorpheniramine meting;chlorpheniramine -
+105124009;Chlorpropamide measurement;chloorpropamide meting;chloorpropamide meting;chlorpropamide -
+105126006;Chlorthalidone measurement;chloortalidon meting;chloortalidon meting;chlorthalidone -
+105129004;Cisplatin measurement;cisplatine meting;cisplatine meting;cisplatin -
+105131008;Clobazam measurement;clobazam meting;clobazam meting;clobazam -
+105133006;Clofibrate measurement;clofibraat meting;clofibraat meting;clofibrate -
+105134000;Clomipramine measurement;clomipramine meting;clomipramine meting;clomipramine -
+105135004;Clonidine measurement;clonidine meting;clonidine meting;clonidine -
+105136003;Clopenthixol measurement;Clopenthixol meting;Clopenthixol meting;clopenthixol -
+105140007;Clozapine measurement;clozapine meting;clozapine meting;clozapine -
+105142004;Codeine measurement;Codeine meting;Codeine meting;code ï ne ne
+105143009;Compazine measurement;Compazine meting;Compazine meting;compazine -
+105145002;Crotethamide measurement;Crotethamide meting;Crotethamide meting;crotethamide -
+105146001;Cyclacillin measurement;cyclacilline meting;cyclacilline meting;cyclacillin -
+105149008;Cycloserine measurement;cycloserine meting;cycloserine meting;cycloserine -
+105150008;Dantron measurement;Dantron meting;Dantron meting;dantron -
+105155003;Dextromethorphan measurement;dextromethorfan meting;dextromethorfan meting;dextromethorphan -
+105157006;Dextropropoxyphene measurement;dextropropoxyfeen meting;dextropropoxyfeen meting;dextropropoxyphene -
+105158001;Diamorphine measurement;diamorphine meting;diamorphine meting;diamorphine -
+105161000;Dichlorphenamide measurement;dichloorfenamide meting;dichloorfenamide meting;dichlorphenamide -
+105162007;Dicumarol measurement;dicumarol meting;dicumarol meting;dicumarol -
+105164008;Dimetamphetamine measurement;Dimetamphetamine meting;Dimetamphetamine meting;dimetamphetamine -
+105166005;Diphenhydramine measurement;difenhydramine meting;difenhydramine meting;diphenhydramine -
+105168006;Disulfiram measurement;disulfiram meting;disulfiram meting;disulfiram -
+105170002;Dyphylline measurement;Dyphylline meting;Dyphylline meting;dyphylline -
+105172005;Enoxacin measurement;enoxacine meting;enoxacine meting;enoxacin -
+105177004;Ethamivan measurement;Ethamivan meting;Ethamivan meting;ethamivan -
+105184007;Ethylnicotinamide measurement;Ethylnicotinamide meting;Ethylnicotinamide meting;ethylnicotinamide -
+105188005;Fenethylline measurement;Fenethylline meting;Fenethylline meting;fenethylline -
+105189002;Fenfluramine measurement;fenfluramine meting;fenfluramine meting;fenfluramine -
+105192003;Fentanyl measurement;fentanyl meting;fentanyl meting;fentanyl -
+105193008;Flunitrazepam measurement;flunitrazepam meting;flunitrazepam meting;flunitrazepam -
+105196000;Flupenthixol measurement;flupenthixol meting;flupenthixol meting;flupenthixol -
+105199007;Furosemide measurement;furosemide meting;furosemide meting;furosemide -
+105200005;Glipizide measurement;glipizide meting;glipizide meting;glipizide -
+105201009;Glyburide measurement;glyburide meting;glyburide meting;glyburide -
+105205000;Hydrochlorothiazide measurement;hydrochloorthiazide meting;hydrochloorthiazide meting;hydrochlorothiazide -
+105215006;Indomethacin measurement;indomethacine meting;indomethacine meting;indomethacin -
+105218008;Isotretinoin measurement;isotretino ï ne meting;isotretino ï ne meting;isotretinoin -
+105222003;Lamotrigine measurement;lamotrigine meting;lamotrigine meting;lamotrigine -
+105224002;Levomeprazine measurement;Levomeprazine meting;Levomeprazine meting;levomeprazine -
+105226000;Lorazepam measurement;lorazepam meting;lorazepam meting;lorazepam -
+105227009;Lormetazepam measurement;lormetazepam meting;lormetazepam meting;lormetazepam -
+105230002;Medazepam measurement;medazepam meting;medazepam meting;medazepam -
+105232005;Mersalyl measurement;mersalyl meting;mersalyl meting;mersalyl -
+105233000;Mesoridazine measurement;mesoridazine meting;mesoridazine meting;mesoridazine -
+105235007;Metandienone measurement;methandienone meting;metandienone meting;metandienone -
+105238009;Methenolone measurement;methenolone meting;methenolone meting;methenolone -
+105240004;Methocarbamol measurement;Methocarbamol meting;Methocarbamol meting;methocarbamol -
+105242007;Methyldopa measurement;methyldopa meting;methyldopa meting;methyldopa -
+105244008;Methylphenidate measurement;methylfenidaat meting;methylfenidaat meting;methylphenidate -
+105250003;Moxalactam measurement;moxalactam meting;moxalactam meting;moxalactam -
+105253001;Nadolol measurement;nadolol meting;nadolol meting;nadolol -
+105260007;Nikethamide measurement;Nikethamide meting;Nikethamide meting;nikethamide -
+105261006;Nitrazepam measurement;Nitrazepam meting;Nitrazepam meting;nitrazepam -
+105262004;Nitrofurantoin measurement;Nitrofurantoin meting;Nitrofurantoin meting;nitrofurantoin -
+105267005;Norfloxacin measurement;Norfloxacin meting;Norfloxacin meting;norfloxacin -
+105272001;Ofloxacin measurement;Ofloxacin meting;Ofloxacin meting;ofloxacin -
+105273006;Orphenadrine measurement;orfenadrine meting;orfenadrine meting;orphenadrine -
+105275004;Oxandrolone measurement;Oxandrolone meting;Oxandrolone meting;oxandrolone -
+105277007;Oxprenolol measurement;oxprenolol meting;oxprenolol meting;oxprenolol -
+105280008;Oxymetholone measurement;oxymetholone meting;oxymetholone meting;oxymetholone -
+105281007;Oxyphenbutazone measurement;oxyfenbutazon meting;oxyfenbutazon meting;oxyphenbutazone -
+105285003;Pemoline measurement;pemoline meting;pemoline meting;pemoline -
+105287006;Pentetrazol measurement;Pentetrazol meting;Pentetrazol meting;pentetrazol -
+105288001;Perphenazine measurement;perfenazine meting;perfenazine meting;perphenazine -
+105293003;Phenmetrazine measurement;fenmetrazine meting;fenmetrazine meting;phenmetrazine -
+105298007;Phenytoin, free measurement;Fenyto ï ne , gratis meting;Fenyto ï ne , gratis meting;phenytoin vrij
+105300007;Pindolol measurement;pindolol meting;pindolol meting;pindolol -
+105304003;Practolol measurement;practolol meting;practolol meting;practolol -
+105305002;Prazepam measurement;Prazepam meting;Prazepam meting;prazepam -
+105306001;Probenecid measurement;probenecide meting;probenecide meting;probenecid -
+105307005;Procainamide and N-acetylprocainamide measurement;Proca ï namide en N - acetylprocainamide meting;Proca ï namide en N - acetylprocainamide meting;proca ï namide en acecainide -
+105308000;Prolintane measurement;prolintaan meting;prolintaan meting;prolintane -
+105318005;Rifampin measurement;rifampin meting;rifampin meting;rifampin -
+105325003;Spironolactone measurement;spironolacton meting;spironolacton meting;spironolactone -
+105326002;Stanozolol measurement;stanozolol meting;stanozolol meting;stanozolol -
+105331000;Tacrolimus measurement;tacrolimus meting;tacrolimus meting;tacrolimus -
+105332007;Teicoplanin measurement;Teicoplanin meting;Teicoplanin meting;teicoplanin -
+105335009;Tetrahydrocortisone measurement;Tetrahydrocortisone meting;Tetrahydrocortisone meting;tetrahydrocortisone -
+105338006;Thiopental measurement;thiopental meting;thiopental meting;thiopental -
+105339003;Thiothixene measurement;thiothixeen meting;thiothixeen meting;thiothixene -
+105341002;Timolol measurement;timolol meting;timolol meting;timolol -
+105342009;Tolazamide measurement;tolazamide meting;tolazamide meting;tolazamide -
+105346007;Triamterene measurement;Triamterene meting;Triamterene meting;triamterene -
+105347003;Triazolam measurement;triazolam meting;triazolam meting;triazolam -
+105350000;Trimethoprim measurement;trimethoprim meting;trimethoprim meting;trimethoprim -
+105359004;Zolpidem measurement;zolpidem meting;zolpidem meting;zolpidem -
+105380005;Cryoanalgesia;Cryoanalgesia;Cryoanalgesia;cryoanalgesia
+105382002;Cooling the patient;Afkoelen van de pati ë nt;Afkoelen van de pati ë nt;cryo pati ë nt
+107724000;Patient transfer;pati ë nt overdracht;pati ë nt overdracht;pati ë ntentransport
+107726003;Patient disposition;pati ë nt dispositie;pati ë nt dispositie;pati disposition
+112694000;Saucerization;Saucerization;Saucerization;saucerization
+112840007;Dermodesis;Dermodesis;Dermodesis;dermodesis
+112947006;Splanchnicectomy;Splanchnicectomy;splanchnicectomie;splanchnicectomy
+113017002;Hemoglobin-oxygen affinity measurement;Hemoglobine - zuurstof - affiniteit meting;Hemoglobine - zuurstof - affiniteit meting;hemoglobine zuurstofinhalatie affinity -
+113025000;Somnocinematography;Somnocinematography;Somnocinematography;somnocinematography
+113062003;Anticytokine antibody assay;Anticytokine antilichaam assay;Anticytokine antilichaam assay;anticytokine antistof
+113086001;Flecainide measurement;flecainide meting;flecainide meting;flecainide -
+113089008;Tocainide measurement;toca ï nide meting;toca ï nide meting;toca ï nide -
+113103008;Radiography of urinary system;Radiografie van de urinewegen;Radiografie van de urinewegen;urinewegenr ö ntgenfoto
+113148007;Fluid intake encouragement;Vochtinname aanmoediging;Vochtinname aanmoediging;vochtinname encouragement
+116784002;Pathologist report;patholoog rapport;patholoog rapport;pathologist report
+116836000;Prekallikrein screen;prekallikre ï ne scherm;prekallikre ï ne scherm;prekallikre ï ne
+117232001;Fontana-Masson silver stain method;Fontana - Masson zilveren vlek methode;Fontana - Masson zilveren vlek methode;fontana - masson zilverkleuring
+117333009;Grimelius silver stain method;Grimelius zilveren vlek methode;Grimelius zilveren vlek methode;grimelius zilverkleuring
+117613003;Cryoprotein identification;Cryoprotein identificatie;Cryoprotein identificatie;cryoprote ï ne identification
+117639000;Antidiuretic identification;antidiuretisch identificatie;antidiuretisch identificatie;antidiureticum identification
+117640003;Endophyte identification;endophyte identificatie;endophyte identificatie;endophyte identification
+117644007;Narcotic identification;verdovende identificatie;verdovende identificatie;opiaatactiviteit identification
+117647000;Methylenedianiline measurement;methyleendianiline meting;methyleendianiline meting;methylenedianiline -
+117648005;Methylergonovine measurement;methylergonovine meting;methylergonovine meting;methylergonovine -
+117649002;Methylfentanyl measurement;methylfentanyl meting;methylfentanyl meting;methylfentanyl -
+117651003;Monoacetyldapsone measurement;Monoacetyldapsone meting;Monoacetyldapsone meting;monoacetyldapsone -
+117655007;Nomifensine measurement;nomifensine meting;nomifensine meting;nomifensine -
+117657004;Norfenfluramine measurement;Norfenfluramine meting;Norfenfluramine meting;norfenfluramine -
+117658009;Norfentanyl measurement;norfentanyl meting;norfentanyl meting;norfentanyl -
+117659001;Norflunitrazepam measurement;Norflunitrazepam meting;Norflunitrazepam meting;norflunitrazepam -
+117660006;Norketamine measurement;norketamine meting;norketamine meting;norketamine -
+117661005;Normephenytoin measurement;Normephenytoin meting;Normephenytoin meting;normephenytoin -
+117664002;OKT3 measurement;OKT3 meting;OKT3 meting;okt3 -
+117665001;Oxipurinol measurement;oxipurinol meting;oxipurinol meting;oxipurinol -
+117666000;Oxyphenisatin measurement;Oxyphenisatin meting;Oxyphenisatin meting;oxyphenisatin -
+117667009;Oxytriphylline measurement;Oxytriphylline meting;Oxytriphylline meting;oxytriphylline -
+117669007;Benzylhydrazine measurement;benzyl - meting;benzyl - meting;benzylhydrazine -
+117670008;Dechlorane measurement;Dechlorane meting;Dechlorane meting;dechlorane -
+117671007;Desalkylhalazepam measurement;Desalkylhalazepam meting;Desalkylhalazepam meting;desalkylhalazepam -
+117672000;Desmethylmethsuximide measurement;Desmethylmethsuximide meting;Desmethylmethsuximide meting;desmethylmethsuximide -
+117673005;Dichlorophenoxyacetate measurement;Dichlorophenoxyacetate meting;Dichlorophenoxyacetate meting;dichlorophenoxyacetate -
+117674004;Diethylcarbamazepine measurement;Diethylcarbamazepine meting;Diethylcarbamazepine meting;diethylcarbamazepine -
+117675003;Ethion measurement;ethion meting;ethion meting;ethion -
+117676002;Ethylamphetamine measurement;Ethylamphetamine meting;Ethylamphetamine meting;ethylamphetamine -
+117677006;Gallotannin measurement;gallotannine meting;gallotannine meting;gallotannin -
+117678001;Hydroxyitraconazole measurement;Hydroxyitraconazol meting;Hydroxyitraconazol meting;hydroxyitraconazole -
+117679009;Lorcainide measurement;Lorcainide meting;Lorcainide meting;lorcainide -
+117680007;Metasystox measurement;Metasystox meting;Metasystox meting;metasystox -
+117681006;Phosphide measurement;fosfide meting;fosfide meting;phosphide -
+117682004;Picloram measurement;picloram meting;picloram meting;picloram -
+117683009;Sasapyrine measurement;Sasapyrine meting;Sasapyrine meting;sasapyrine -
+117684003;Sulindac sulfide metabolite measurement;Sulindacsulfide metaboliet meting;Sulindacsulfide metaboliet meting;sulindac sulfide metabolite -
+117685002;Tetrachlorodiphenylethane measurement;Tetrachlorodiphenylethane meting;Tetrachlorodiphenylethane meting;tetrachlorodiphenylethane -
+117686001;Trichlorophenoxyacetate measurement;Trichlorophenoxyacetate meting;Trichlorophenoxyacetate meting;trichlorophenoxyacetate -
+117687005;Trichlorothiazide measurement;Trichlorothiazide meting;Trichlorothiazide meting;trichlorothiazide -
+117694008;Leptin measurement;leptine meting;leptine meting;leptin -
+117696005;Metadichlorobenzene measurement;Metadichlorobenzene meting;Metadichlorobenzene meting;metadichlorobenzene -
+117697001;Octadecanoate measurement;octadecanoaat meting;octadecanoaat meting;octadecanoate -
+117698006;Octenedate measurement;Octenedate meting;Octenedate meting;octenedate -
+117703000;Succinylpurine measurement;Succinylpurine meting;Succinylpurine meting;succinylpurine -
+117724005;Ribosomal antibody assay;Ribosomal antilichaambepaling;Ribosomal antilichaambepaling;ribosomal antistof
+117765005;Bacteria identification;bacteri ë n identificatie;bacteri ë n identificatie;bacteri identification
+117776009;Clue cell identification;Clue cel identificatie;Clue cel identificatie;clue - identification
+117777000;Coccidia identification;coccidia identificatie;coccidia identificatie;coccidia identification
+117862001;Protheca identification;protheca identificatie;protheca identificatie;protheca identification
+117878004;Staphylolysin antibody assay;Staphylolysin antilichaam assay;Staphylolysin antilichaam assay;staphylolysin antistof
+117884001;Teichoate antibody assay;Teichoate antilichaam assay;Teichoate antilichaam assay;teichoate antistof
+117885000;Verotoxin identification;verotoxine identificatie;verotoxine identificatie;verocytotoxine identification
+117900006;Cytokeratin antibody assay;Cytokeratine antilichaam assay;Cytokeratine antilichaam assay;cytokeratin antistof
+117911003;Myelin associated glycoprotein antibody assay;Myeline geassocieerd glycoprote ï ne antilichaambepaling;Myeline geassocieerd glycoprote ï ne antilichaambepaling;myeline geassocieerd glycoprote ï ne antistof
+117924003;Parathyrin antibody assay;Parathyrin antilichaam assay;Parathyrin antibody assay;insuffici antistof
+117925002;Phosphatidate antibody assay;Fosfatidaat antilichaambepaling;Fosfatidaat antilichaambepaling;phosphatidate antistof
+117927005;Phosphatidylethanolamine antibody assay;Fosfatidylethanolamine antilichaambepaling;Fosfatidylethanolamine antilichaambepaling;phosphatidylethanolamine antistof
+117928000;Phosphatidylglycerol antibody assay;Fosfatidylglycerol antilichaam assay;Fosfatidylglycerol antilichaam assay;phosphatidylglycerol antistof
+117929008;Phosphatidylinositol antibody assay;Fosfatidylinositol antilichaambepaling;Fosfatidylinositol antilichaambepaling;phosphatidylinositol antistof
+117930003;Phosphatidylserine antibody assay;Phosphatidylserine antilichaam assay;Phosphatidylserine antilichaam assay;phosphatidylserine antistof
+117972002;Avian reticuloendotheliosis virus antibody assay;Avian reticuloendotheliosis virus antilichaam assay;Avian reticuloendotheliosis virus antilichaam assay;reticulo - endotheliosisvirus antistof
+117998008;Somatotropin antibody assay;Somatotropin antilichaam assay;Somatotropin antilichaam assay;groeihormoondefici antistof
+118009007;Ova OR parasites identification;Eicellen en parasieten identificatie;Eicellen en parasieten identificatie;egg en parasites identification
+118119003;Microbial antibody assay;Microbi ë le antilichaambepaling;Microbi ë le antilichaambepaling;microbial antistof
+118157003;Gastrointestinal tract destructive procedure;Maag - darmkanaal destructieve procedure;Maag - darmkanaal destructieve procedure;gastro rfa
+118448000;Sounding;klinkend;loding;sounding
+119265000;Assisting;assisteren;assisteren;assisting
+120640001;Laxative identification;laxeermiddel identificatie;laxeermiddel identificatie;laxative identification
+120641002;Allergen identification;allergeen identificatie;allergeen identificatie;allergeen identification
+121102005;Bacterial subtyping;bacteri ë le subtypering;bacteri ë le subtypering;bacteri subtyping
+121258006;Antibody identification;antilichaam identificatie;antilichaam identificatie;antilichaamdefici identification
+121262000;Tetracarboxylporphyrin measurement;Tetracarboxylporphyrin meting;Tetracarboxylporphyrin meting;tetracarboxylporphyrin -
+121263005;Monocarboxylporphyrin measurement;Monocarboxylporphyrin meting;Monocarboxylporphyrin meting;monocarboxylporphyrin -
+121264004;Dicarboxylporphyrin measurement;Dicarboxylporphyrin meting;Dicarboxylporphyrin meting;dicarboxylporphyrin -
+121265003;Tricarboxylporphyrin measurement;Tricarboxylporphyrin meting;Tricarboxylporphyrin meting;tricarboxylporphyrin -
+121266002;Pentacarboxylporphyrin measurement;Pentacarboxylporphyrin meting;Pentacarboxylporphyrin meting;pentacarboxylporphyrin -
+121267006;Hexacarboxylporphyrin measurement;Hexacarboxylporphyrin meting;Hexacarboxylporphyrin meting;hexacarboxylporphyrin -
+121268001;Octacarboxylporphyrin measurement;Octacarboxylporphyrin meting;Octacarboxylporphyrin meting;octacarboxylporphyrin -
+121269009;Deuteroporphyrin measurement;deuteroporfyrine meting;deuteroporfyrine meting;deuteroporphyrin -
+121270005;Mesoporphyrin measurement;mesoporfyrine meting;mesoporfyrine meting;mesoporphyrin -
+121275000;Carbohydrate deficient transferrin measurement;Koolhydraatdefici ë nt transferrine meting;Koolhydraatdefici ë nt transferrine meting;carbohydraat transferrine
+121277008;Steroid measurement;stero ï de meting;stero ï de meting;stero ï ne
+121285004;Sulfasalazine measurement;sulfasalazine metingen;sulfasalazine metingen;sulfasalazine -
+121329005;Anticonvulsant identification;anticonvulsieve identificatie;anticonvulsieve identificatie;epileptica identification
+121330000;Antidepressant identification;antidepressivum identificatie;antidepressivum identificatie;antidepressiva identification
+121331001;Antipsychotic identification;antipsychotische identificatie;antipsychotische identificatie;antipsychotic identification
+121333003;Asbestos identification;asbest identificatie;asbest identificatie;asbest identification
+121335005;Carbohydrate identification;koolhydraten identificatie;koolhydraten identificatie;carbohydraatdefici identification
+121337002;Cresol identification;cresol identificatie;cresol identificatie;cresol identification
+121338007;Diuretic identification;diureticum identificatie;diureticum identificatie;diuretica identification
+121340002;Fluorocarbon identification;Fluorocarbon identificatie;Fluorocarbon identificatie;fluorocarbon identification
+121341003;Hallucinogen identification;hallucinogen identificatie;hallucinogen identificatie;hallucinogeen identification
+121369006;Methylacrylate measurement;methylacrylaat meting;methylacrylaat meting;methylacrylate -
+121371006;Methylenediamine measurement;methyleendiamine meting;methyleendiamine meting;methylenediamine -
+121373009;Methylenedioxymethamphetamine measurement;methyleendioxymethamfetamine meting;methyleendioxymethamfetamine meting;methylenedioxymethamphetamine -
+121374003;Methylhippurate measurement;Methylhippurate meting;Methylhippurate meting;methylhippurate -
+121375002;Methylprednisolone measurement;methylprednisolon meting;methylprednisolon meting;methylprednisolone -
+121377005;Metolazone measurement;metolazone meting;metolazone meting;metolazone -
+121380006;Miconazole measurement;miconazol meting;miconazol meting;miconazole -
+121382003;Mirtazapine measurement;mirtazapine meting;mirtazapine meting;mirtazapine -
+121393001;Nabumetone measurement;nabumeton meting;nabumeton meting;nabumetone -
+121395008;Nalidixate measurement;Nalidixate meting;Nalidixate meting;nalidixate -
+121396009;Naltrexone measurement;naltrexon meting;naltrexon meting;naltrexone -
+121399002;Nefazodone measurement;nefazodone meting;nefazodone meting;nefazodone -
+121402001;Nifedipine measurement;nifedipine meting;nifedipine meting;nifedipine -
+121406003;Nitroprusside measurement;nitroprusside meting;nitroprusside meting;nitroprusside -
+121407007;Nizatidine measurement;nizatidine meting;nizatidine meting;nizatidine -
+121408002;Norchlordiazepoxide measurement;Norchlordiazepoxide meting;Norchlordiazepoxide meting;norchlordiazepoxide -
+121409005;Norclozapine measurement;Norclozapine meting;Norclozapine meting;norclozapine -
+121410000;Normaprotiline measurement;Normaprotiline meting;Normaprotiline meting;normaprotiline -
+121411001;Normethsuximide measurement;Normethsuximide meting;Normethsuximide meting;normethsuximide -
+121414009;Olanzapine measurement;olanzapine meting;olanzapine meting;olanzapine -
+121416006;Omeprazole measurement;omeprazol meting;omeprazol meting;omeprazole -
+121419004;Oxychlordane measurement;oxychloordaan meting;oxychloordaan meting;oxychlordane -
+121427008;Pentoxifylline measurement;pentoxifylline meting;pentoxifylline meting;pentoxifylline -
+121432009;Phenethylamine measurement;fenethylamine meting;fenethylamine meting;phenethylamine -
+121433004;Phenylethylmalonamide measurement;Phenylethylmalonamide meting;Phenylethylmalonamide meting;phenylethylmalonamide -
+121434005;Albuterol measurement;albuterol meting;albuterol meting;albuterol -
+121435006;Aldrin measurement;Aldrin meting;Aldrin meting;aldrin -
+121437003;Allopurinol measurement;allopurinol meting;allopurinol meting;allopurinol -
+121440003;Amoxapine metabolite measurement;Amoxapine metaboliet meting;Amoxapine metaboliet meting;amoxapine metabolite -
+121443001;Antihistamine measurement;antihistaminicum meting;antihistaminicum meting;antihistamine -
+121445008;Arsenate measurement;Arsenate meting;Arsenate meting;arsenate -
+121447000;Astemizole measurement;astemizol meting;astemizol meting;astemizole -
+121451003;Azithromycin measurement;Azithromycin meting;Azithromycin meting;azithromycin -
+121453000;Baclofen measurement;Baclofen meting;Baclofen meting;baclofen -
+121454006;Bendiocarb measurement;bendiocarb meting;bendiocarb meting;bendiocarb -
+121458009;Benztropine measurement;benztropine meting;benztropine meting;benztropine -
+121460006;Bethanechol measurement;Bethanechol meting;Bethanechol meting;bethanechol -
+121463008;Bretylium measurement;bretylium meting;bretylium meting;bretylium -
+121464002;Brodifacoum measurement;Brodifacoum meting;Brodifacoum meting;brodifacoum -
+121466000;Bromodiphenhydramine measurement;Bromodiphenhydramine meting;Bromodiphenhydramine meting;bromodiphenhydramine -
+121468004;Buspirone measurement;Buspirone meting;Buspirone meting;buspirone -
+121469007;Busulfan measurement;busulfan meting;busulfan meting;busulfan -
+121471007;Butorphanol measurement;butorfanol meting;butorfanol meting;butorphanol -
+121472000;Butriptyline measurement;Butriptyline meting;Butriptyline meting;butriptyline -
+121476002;Captopril measurement;captopril meting;captopril meting;captopril -
+121484003;Carbophenothion measurement;carbofenotion meting;carbofenotion meting;carbophenothion -
+121485002;Cefaclor measurement;cefaclor meting;cefaclor meting;cefaclor -
+121487005;Cefixime measurement;Cefixime meting;Cefixime meting;cefixime -
+121488000;Cephradine measurement;cefradine meting;cefradine meting;cephradine -
+121489008;Cephaline measurement;Cephaline meting;Cephaline meting;cefa ë line -
+121490004;Cephaloridine measurement;cefaloridine meting;cefaloridine meting;cephaloridine -
+121491000;Cephapirin measurement;cefapirin meting;cefapirin meting;cephapirin -
+121496005;Chlormezanone measurement;Chloormezanon meting;Chloormezanon meting;chlormezanone -
+121503009;Clarithromycin measurement;claritromycine meting;claritromycine meting;clarithromycin -
+121507005;Colistin measurement;colistine meting;colistine meting;colistin -
+121508000;Coumaphos measurement;coumafos meting;coumafos meting;coumaphos -
+121517000;Dantrolene measurement;dantroleen meting;dantroleen meting;dantrolene -
+121520008;Demoxepam measurement;Demoxepam meting;Demoxepam meting;demoxepam -
+121522000;Desmethylastemizole measurement;Desmethylastemizole meting;Desmethylastemizole meting;desmethylastemizole -
+121523005;Desmethylclobazam measurement;Desmethylclobazam meting;Desmethylclobazam meting;desmethylclobazam -
+121525003;Desmethylparamethadione measurement;Desmethylparamethadione meting;Desmethylparamethadione meting;desmethylparamethadione -
+121526002;Desmethyltrimipramine measurement;Desmethyltrimipramine meting;Desmethyltrimipramine meting;desmethyltrimipramine -
+121527006;Despropionylfentanyl measurement;Despropionylfentanyl meting;Despropionylfentanyl meting;despropionylfentanyl -
+121529009;Dezocine measurement;dezocine meting;dezocine meting;dezocine -
+121530004;Diazoxide measurement;diazoxide meting;diazoxide meting;diazoxide -
+121533002;Dichlorobenzidine measurement;dichloorbenzidine meting;dichloorbenzidine meting;dichlorobenzidine -
+121534008;Dichlorodifluoroethane measurement;Dichlorodifluoroethane meting;Dichlorodifluoroethane meting;dichlorodifluoroethane -
+121536005;Dichlorodiphenyldichloroethylene measurement;Dichlorodiphenyldichloroethylene meting;Dichlorodiphenyldichloroethylene meting;dichlorodiphenyldichloroethylene -
+121537001;Dichlorodiphenyltrichloroethane measurement;dichloordifenyltrichloorethaan meting;dichloordifenyltrichloorethaan meting;dichlorodiphenyltrichloroethane -
+121542009;Dicyclomine measurement;Dicyclomine meting;Dicyclomine meting;dicyclomine -
+121545006;Diethylstilbestrol measurement;diethylstilbestrol meting;diethylstilbestrol meting;diethylstilbestrol -
+121546007;Diflunisal measurement;diflunisal meting;diflunisal meting;diflunisal -
+121547003;Dihydrocodeine measurement;dihydrocode ï ne meting;dihydrocode ï ne meting;dihydrocode ï ne ne
+121548008;Diisobutylketone measurement;diisobutylketon meting;diisobutylketon meting;diisobutylketone -
+121549000;Dimenhydrinate measurement;Dimenhydrinate meting;Dimenhydrinate meting;dimenhydrinate -
+121552008;Dimethylsulfoxide measurement;dimethylsulfoxide meting;dimethylsulfoxide meting;dimethylsulfoxide -
+121555005;Dipyridamole measurement;Dipyridamole meting;Dipyridamole meting;dipyridamole -
+121556006;Diquat measurement;diquat meting;diquat meting;diquat -
+121561008;Droperidol measurement;droperidol meting;droperidol meting;droperidol -
+121562001;Enflurane measurement;Enflurane meting;Enflurane meting;enflurane -
+121563006;Epichlorohydrin measurement;epichloorhydrine meting;epichloorhydrine meting;epichlorohydrin -
+121564000;Ergot alkaloid measurement;Ergotalkalo ï de meting;Ergotalkalo ï de meting;ergotalkalo ï de ne
+121572003;Etodolac measurement;etodolac meting;etodolac meting;etodolac -
+121573008;Fenchlorphos measurement;fenchloorfos meting;fenchloorfos meting;fenchlorphos -
+121575001;Fluconazole measurement;fluconazol meting;fluconazol meting;fluconazole -
+121577009;Fluvoxamine measurement;fluvoxamine meting;fluvoxamine meting;fluvoxamine -
+121580005;Gabapentin measurement;gabapentine meting;gabapentine meting;gabapentin -
+121583007;Gemfibrozil measurement;gemfibrozil meting;gemfibrozil meting;gemfibrozil -
+121594006;Hexanoylglycine measurement;Hexanoylglycine meting;Hexanoylglycine meting;hexanoylglycine -
+121596008;Hyaluronate measurement;hyaluronate meting;hyaluronate meting;hyaluronate -
+121599001;Hydroflumethiazide measurement;hydroflumethiazide meting;hydroflumethiazide meting;hydroflumethiazide -
+121600003;Hydroquinone measurement;hydrochinon meting;hydrochinon meting;hydroquinone -
+121601004;Hydroxybupropion measurement;hydroxybupropion meting;hydroxybupropion meting;hydroxybupropion -
+121602006;Hydroxyethylflurazepam measurement;Hydroxyethylflurazepam meting;Hydroxyethylflurazepam meting;hydroxyethylflurazepam -
+121603001;Hydroxytriazolam measurement;Hydroxytriazolam meting;Hydroxytriazolam meting;hydroxytriazolam -
+121608005;Isobutane measurement;isobutaan meting;isobutaan meting;isobutane -
+121611006;Isocarboxazid measurement;isocarboxazide meting;isocarboxazide meting;isocarboxazid -
+121612004;Isoflurane measurement;isofluraan meting;isofluraan meting;isoflurane -
+121614003;Itraconazole measurement;itraconazol meting;itraconazol meting;itraconazole -
+121615002;Ketoconazole measurement;ketoconazole meting;ketoconazole meting;ketoconazole -
+121616001;Ketoprofen measurement;ketoprofen meting;ketoprofen meting;ketoprofen -
+121619008;Loperamide measurement;loperamide meting;loperamide meting;loperamide -
+121620002;Malaoxon measurement;malaoxon meting;malaoxon meting;malaoxon -
+121621003;Mazindol measurement;mazindol meting;mazindol meting;mazindol -
+121622005;Meclizine measurement;Meclizine meting;Meclizine meting;meclizine -
+121623000;Meclofenamate measurement;meclofenamaat meting;meclofenamaat meting;meclofenamate -
+121624006;Mefenamate measurement;Mefenamate meting;Mefenamate meting;mefenamate -
+121627004;Mepivacaine measurement;mepivaca ï ne meting;mepivaca ï ne meting;mepivaca ? ne ne
+121628009;Mercaptopurine measurement;mercaptopurine meting;mercaptopurine meting;mercaptopurine -
+121635001;Methimazole measurement;methimazool meting;methimazool meting;methimazole -
+121636000;Methohexital measurement;Methohexital meting;Methohexital meting;methohexital -
+121641008;Methyclothiazide measurement;methyclothiazide meting;methyclothiazide meting;methyclothiazide -
+121650005;Phenylethylmalonate measurement;Phenylethylmalonate meting;Phenylethylmalonate meting;phenylethylmalonate -
+121651009;Phenylglyoxylate measurement;Phenylglyoxylate meting;Phenylglyoxylate meting;phenylglyoxylate -
+121654001;Pimozide measurement;pimozide meting;pimozide meting;pimozide -
+121655000;Pirmenol measurement;Pirmenol meting;Pirmenol meting;pirmenol -
+121656004;Piroxicam measurement;piroxicam meting;piroxicam meting;piroxicam -
+121659006;Aroclor 1254 measurement;Aroclor 1254 meting;Aroclor 1254 meting;aroclor 1254 -
+121660001;Aroclor 1260 measurement;Aroclor 1260 meting;Aroclor 1260 meting;aroclor 1260 -
+121662009;Polythiazide measurement;polythiazide meting;polythiazide meting;polythiazide -
+121663004;Prazosin measurement;Prazosin meting;Prazosin meting;prazosin -
+121665006;Prednisone measurement;prednison meting;prednison meting;prednisone -
+121666007;Procaine measurement;procaine meting;procaine meting;proca ï ne
+121667003;Procyclidine measurement;Procyclidine meting;Procyclidine meting;procyclidine -
+121670004;Propoxur measurement;propoxur meting;propoxur meting;propoxur -
+121672007;Propylthiouracil measurement;propylthiouracil meting;propylthiouracil meting;propylthiouracil -
+121676005;Pyridostigmine measurement;pyridostigmine meting;pyridostigmine meting;pyridostigmine -
+121677001;Quazepam measurement;Quazepam meting;Quazepam meting;quazepam -
+121680000;Resperine measurement;resperine - meting;resperine - meting;resperine -
+121681001;Risperidone measurement;risperidon meting;risperidon meting;risperidone -
+121686006;Sulfamethoxazole measurement;sulfamethoxazol meting;sulfamethoxazol meting;sulfamethoxazole -
+121688007;Sulindac measurement;sulindac meting;sulindac meting;sulindac -
+121691007;Temazepam measurement;temazepam meting;temazepam meting;temazepam -
+121693005;Terbutaline measurement;terbutaline meting;terbutaline meting;terbutaline -
+121694004;Terfenadine measurement;terfenadine meting;terfenadine meting;terfenadine -
+121697006;Tetrachloroethane measurement;tetrachloorethaan meting;tetrachloorethaan meting;tetrachloroethane -
+121699009;Thebaine measurement;theba ï ne meting;theba ï ne meting;theba ï ne ne
+121702002;Thiazide measurement;thiazide meting;thiazide meting;thiazide -
+121706004;Ticlopidine measurement;ticlopidine meting;ticlopidine meting;ticlopidine -
+121709006;Topiramate measurement;topiramaat meting;topiramaat meting;topiramate -
+121711002;Tramadol measurement;tramadol meting;tramadol meting;tramadol -
+121713004;Trenbolone measurement;Trenbolone meting;Trenbolone meting;trenbolone -
+121720006;Trichlorotrifluoromethane measurement;Trichlorotrifluoromethane meting;Trichlorotrifluoromethane meting;trichlorotrifluoromethane -
+121722003;Trihexyphenidyl measurement;Trihexyphenidyl meting;Trihexyphenidyl meting;trihexyphenidyl -
+121723008;Trimeprazine measurement;trimeprazine meting;trimeprazine meting;trimeprazine -
+121730002;Venlafaxine measurement;venlafaxine meting;venlafaxine meting;venlafaxine -
+121735007;Aconitate measurement;aconitate meting;aconitate meting;aconitate -
+121737004;Adipoylcarnitine measurement;Adipoylcarnitine meting;Adipoylcarnitine meting;adipoylcarnitine -
+121739001;Azelate measurement;azelaat meting;azelaat meting;azelate -
+121741000;Benzoylcarnitine measurement;Benzoylcarnitine meting;Benzoylcarnitine meting;benzoylcarnitine -
+121744008;Bombesin measurement;bombesine meting;bombesine meting;bombesin -
+121747001;Butyrylcarnitine measurement;Butyrylcarnitine meting;Butyrylcarnitine meting;butyrylcarnitine -
+121752006;Choriogonadotropin measurement;choriogonadotropine meting;choriogonadotropine meting;choriogonadotropin -
+121760007;Crotonylcarnitine measurement;Crotonylcarnitine meting;Crotonylcarnitine meting;crotonylcarnitine -
+121763009;Cystine measurement;cystine meting;cystine meting;cystine -
+121764003;Decadienedioate measurement;Decadienedioate meting;Decadienedioate meting;decadienedioate -
+121765002;Decanoylcarnitine measurement;Decanoylcarnitine meting;Decanoylcarnitine meting;decanoylcarnitine -
+121766001;Decenediate measurement;Decenediate meting;Decenediate meting;decenediate -
+121768000;Dicarboxyoleoylcarnitine measurement;Dicarboxyoleoylcarnitine meting;Dicarboxyoleoylcarnitine meting;dicarboxyoleoylcarnitine -
+121770009;Diphosphoglycerate mutase measurement;Diphosphoglycerate mutase meting;Diphosphoglycerate mutase meting;diphosphoglycerate mutase -
+121772001;Dodecanoylcarnitine measurement;Dodecanoylcarnitine meting;Dodecanoylcarnitine meting;dodecanoylcarnitine -
+121773006;Dodecenoylcarnitine measurement;Dodecenoylcarnitine meting;Dodecenoylcarnitine meting;dodecenoylcarnitine -
+121774000;Dolichol measurement;dolichol meting;dolichol meting;dolichol -
+121775004;Eicosanoate measurement;eicosanoaat meting;eicosanoaat meting;eicosanoate -
+121776003;Elastase measurement;elastase meting;elastase meting;elastase -
+121778002;Ergosterol measurement;ergosterol meting;ergosterol meting;ergosterol -
+121783005;Glutaconate measurement;Glutaconate meting;Glutaconate meting;glutaconate -
+121784004;Glutarate measurement;glutaraat meting;glutaraat meting;glutarate -
+121785003;Glutarylcarnitine measurement;Glutarylcarnitine meting;Glutarylcarnitine meting;glutarylcarnitine -
+121786002;Glyoxylate measurement;glyoxylaat meting;glyoxylaat meting;glyoxylate -
+121787006;Heptacarboxylate measurement;Heptacarboxylate meting;Heptacarboxylate meting;heptacarboxylate -
+121788001;Hexacarboxylate measurement;hexavalent meting;hexavalent meting;hexacarboxylate -
+121789009;Hexanoylcarnitine measurement;Hexanoylcarnitine meting;Hexanoylcarnitine meting;hexanoylcarnitine -
+121794009;Hydroxydecanedioate measurement;Hydroxydecanedioate meting;Hydroxydecanedioate meting;hydroxydecanedioate -
+121799004;Isovalerylcarnitine measurement;Isovalerylcarnitine meting;Isovalerylcarnitine meting;isovalerylcarnitine -
+121800000;Isovalerylglycine measurement;Isovalerylglycine meting;Isovalerylglycine meting;isovalerylglycine -
+121805005;Linoleoylcarnitine measurement;Linoleoylcarnitine meting;Linoleoylcarnitine meting;linoleoylcarnitine -
+121809004;Methylcitrate measurement;Methylcitrate meting;Methylcitrate meting;methylcitrate -
+121810009;Methylmalonylcarnitine measurement;Methylmalonylcarnitine meting;Methylmalonylcarnitine meting;methylmalonylcarnitine -
+121811008;Methylsuccinate measurement;Methylsuccinate meting;Methylsuccinate meting;methylsuccinate -
+121815004;Motilin measurement;motiline meting;motiline meting;motilin -
+121818002;N-Methylhistamine measurement;N - methylhistamine meting;N - methylhistamine meting;#NAAM?
+121820004;Nitrosonaphthol measurement;Nitrosonaphthol meting;Nitrosonaphthol meting;nitrosonaphthol -
+121821000;Octanoate measurement;octanoaat meting;octanoaat meting;octanoate -
+121822007;Octanoylcarnitine measurement;Octanoylcarnitine meting;Octanoylcarnitine meting;octanoylcarnitine -
+121823002;Octenoylcarnitine measurement;Octenoylcarnitine meting;Octenoylcarnitine meting;octenoylcarnitine -
+121824008;Oleoylcarnitine measurement;Oleoylcarnitine meting;Oleoylcarnitine meting;oleoylcarnitine -
+121828006;Orotidine measurement;orotidine meting;orotidine meting;orotidine -
+121829003;Orthocresol measurement;orthocresol meting;orthocresol meting;orthocresol -
+121830008;Palatinase measurement;Palatinase meting;Palatinase meting;palatinase -
+121831007;Palmitoylcarnitine measurement;palmitoylcarnitine meting;palmitoylcarnitine meting;palmitoylcarnitine -
+121832000;Pentacarboxylate measurement;Pentacarboxylate meting;Pentacarboxylate meting;pentacarboxylate -
+121837006;Phenylacetate measurement;fenylacetaat meting;fenylacetaat meting;phenylacetate -
+121838001;Phenyllactate measurement;fenyllactaat meting;fenyllactaat meting;phenyllactate -
+121839009;Phenylpropionylglycine measurement;Phenylpropionylglycine meting;Phenylpropionylglycine meting;phenylpropionylglycine -
+121841005;Pristanate measurement;Pristanate meting;Pristanate meting;pristanate -
+121843008;Propenoylcarnitine measurement;Propenoylcarnitine meting;Propenoylcarnitine meting;propenoylcarnitine -
+121844002;Propionylcarnitine measurement;Propionylcarnitine meting;Propionylcarnitine meting;propionylcarnitine -
+121845001;Propionylglycine measurement;Propionylglycine meting;Propionylglycine meting;propionylglycine -
+121846000;Prorenin measurement;Prorenin meting;Prorenin meting;prorenin -
+121851006;Pyridinoline measurement;pyridinoline meting;pyridinoline meting;pyridinoline -
+121852004;Pyrrole measurement;pyrrool meting;pyrrool meting;pyrrole -
+121853009;Sebacate measurement;sebacaat meting;sebacaat meting;sebacate -
+121855002;Suberate measurement;suberaat meting;suberaat meting;suberate -
+121856001;Suberylcarnitine measurement;Suberylcarnitine meting;Suberylcarnitine meting;suberylcarnitine -
+121857005;Suberylglycine measurement;Suberylglycine meting;Suberylglycine meting;suberylglycine -
+121858000;Sucrase measurement;sucrase meting;sucrase meting;sucrase -
+121859008;Sulfhydryl measurement;sulfhydryl meting;sulfhydryl meting;sulfhydryl -
+121861004;Tetradecadienoylcarnitine measurement;Tetradecadien acylcarnitine meting;Tetradecadienoylcarnitine meting;tetradecadienoylcarnitine -
+121862006;Tetradecenoylcarnitine measurement;Tetradecenoyl Carnitine meting;Tetradecenoylcarnitine meting;tetradecenoylcarnitine -
+121863001;Tetrahydroaldosterone measurement;Tetrahydroaldosterone meting;Tetrahydroaldosterone meting;tetrahydroaldosterone -
+121864007;Tetrahydrocorticosterone measurement;Tetrahydrocorticosterone meting;Tetrahydrocorticosterone meting;tetrahydrocorticosterone -
+121867000;Tiglylglycine measurement;Tiglylglycine meting;Tiglylglycine meting;tiglylglycine -
+121911009;Helminth identification;helminth identificatie;helminth identificatie;helminth identification
+121916004;Histoplasma capsulatum exoantigen identification;Histoplasma capsulatum exoantigen identificatie;Histoplasma capsulatum exoantigen identificatie;histoplasma capsulatum exoantigen identification
+121930009;Babesia species identification;Babesia species identificatie;Babesia species identificatie;babesia identification
+121933006;Bartonella species identification;Bartonella species identificatie;Bartonella species identificatie;bartonella identification
+121935004;Blastomyces dermatitidis exoantigen identification;Blastomyces dermatitidis exoantigen identificatie;Blastomyces dermatitidis exoantigen identificatie;blastomyces dermatitidis exoantigen identification
+121969003;Coccidioides immitis exoantigen identification;Coccidioides immitis exoantigen identificatie;Coccidioides immitis exoantigen identificatie;coccidioides immitis exoantigen identification
+121983001;Cyanobacterium identification;cyanobacterie identificatie;cyanobacterie identificatie;cyanophyceae identification
+122040007;Microsporidia identification;microsporidia identificatie;microsporidia identificatie;microsporidia identification
+122050008;Mycotoxin identification;mycotoxine identificatie;mycotoxine identificatie;mycotoxine identification
+122076008;Pneumocystis species identification;Pneumocystis soortidentificatie;Pneumocystis soortidentificatie;pneumocystis identification
+122139008;Trypanosoma species identification;Trypanosoma species identificatie;Trypanosoma species identificatie;trypanosoma identification
+122276001;Amoeba identification;amoebe identificatie;amoebe identificatie;amoeba identification
+122277005;Astrovirus identification;astrovirus identificatie;astrovirus identificatie;astrovirus identification
+122280006;Cyclospora identification;Cyclospora identificatie;Cyclospora identificatie;cyclospora identification
+122284002;Leishmania species identification;Leishmania species identificatie;Leishmania species identificatie;leishmania identification
+122286000;Naegleria species identification;Naegleria soortidentificatie;Naegleria soortidentificatie;naegleria identification
+122287009;Norwalk virus identification;Norwalk virusidentificatie;Norwalk virusidentificatie;gastro - identification
+122288004;Orthopoxvirus identification;Orthopoxvirus identificatie;Orthopoxvirus identificatie;orthopox identification
+122289007;Rotavirus identification;rotavirus identificatie;rotavirus identificatie;rota identification
+122290003;Schistosoma species identification;Schistosoma soortidentificatie;Schistosoma soortidentificatie;schistosoma identification
+122869004;Measurement procedure;meetprocedure;Meetprocedure;#NAAM?
+123678003;Lithotomy;Lithotomie;Lithotomie;lithotomy
+129098000;Ellestad protocol;Ellestad protocol;Ellestad protocol;ellestad protocol
+133896000;Care of immunosuppressed patient;Verzorging van immuungesuppresseerde pati ë nt;Verzorging van immuungesuppresseerde pati ë nt;zorg immunosuppressed pati ë nt
+133916000;Role clarification;rol verduidelijking;rol verduidelijking;role clarification
+133917009;Bonding encouragement;bonding aanmoediging;bonding aanmoediging;bonding encouragement
+134452004;Trypanosomal (South American) antibody level;Trypanosomiasis ( Zuid - Amerikaanse ) antilichaam niveau;Trypanosomiasis ( Zuid - Amerikaanse ) antilichaam niveau;trypanosomal , paracoccidio ï domycose - antistof
+135848002;Voluntary admission;vrijwillige bekentenis;vrijwillige bekentenis;vrijwillige admission
+164841007;Monochromator phototest;monochromator fototest;monochromator fototest;monochromator fototest
+165098006;Skeletomuscular function test;Skeletomuscular functietest;Skeletomuscular functietest;skeletomuscular functietest
+165099003;Skeletomuscular dynometry;Skeletomuscular rollenbank;Skeletomuscular dynometry;skeletomuscular dynometry
+165198008;Writing up - publishing;Schrijven up - uitgeverij;Schrijven up - uitgeverij;schrijven kuroki - publishing
+165599007;Kaolin cephalin clotting time procedure;Kaolien cefaline stollingstijd procedure;Kaolien cefaline stollingstijd procedure;kaoline - cefalinestollingstijd
+165752002;Kidd blood group;Kidd bloedgroep;Kidd bloedgroep;kidd bloedgroep
+165753007;Kell blood group;Kell bloedgroep;Kell bloedgroep;kell bloedgroep
+165883008;Cytotropic antibody measurement;Cytotropic antilichaam meting;Cytotropic antilichaam meting;cytotropic antistof
+166008006;RNP antibody measurement;RNP antilichaam meting;RNP antilichaam meting;ribonucleoprote ï ne antistof
+166793003;Serum paraprotein measurement;Serum paraprote ï ne meting;Serum paraprote ï ne meting;serum paraprote ï ne ne
+166809004;Electrophoresis: paraprotein;Elektroforese : paraprote ï ne;Elektroforese : paraprote ï ne;elektroforese , paraprote ï ne
+167062004;Serum lipoprotein measurement;Serum lipoprote ï ne meting;Serum lipoprote ï ne meting;serum - lipoprote ï ne ne
+167064003;Serum random lipoprotein measurement;Serum willekeurige lipoprote ï ne meting;Serum willekeurige lipoprote ï ne meting;serum random lipoprote ï ne ne
+167065002;Serum fasting lipoprotein measurement;Serum vasten lipoprote ï ne meting;Serum vasten lipoprote ï ne meting;serum nuchter lipoprote ï ne ne
+167069008;Plasma lipoprotein measurement;Plasma lipoprote ï ne meting;Plasma lipoprote ï ne meting;plasma - lipoprote ï ne ne
+167070009;Plasma random lipoprotein measurement;Plasma willekeurige lipoprote ï ne meting;Plasma willekeurige lipoprote ï ne meting;plasmaprote random lipoprote ï ne ne
+167071008;Plasma fasting lipoprotein measurement;Plasma vasten lipoprote ï ne meting;Plasma vasten lipoprote ï ne meting;plasmaprote nuchter lipoprote ï ne ne
+167197004;Digestive function tests;Spijsvertering testen;Spijsvertering testen;gastro functietest
+167205008;Butterfat absorption test;Botervet absorptie - test;Botervet absorptie - test;butterfat absorptietest
+167460003;Urine paraprotein measurement;Urine paraprote ï ne meting;Urine paraprote ï ne meting;urine paraprote ï ne ne
+168214001;Sample: mycology - general;Steekproef : mycologie - algemeen;Steekproef : mycologie - algemeen;steekproef : mycology -
+168220000;Sample: parasitology - general;Steekproef : parasitologie - algemeen;Steekproef : parasitologie - algemeen;steekproef : parasitology -
+168558000;Ethmoid sinuses X-ray;Zeefbeenholten X - ray;Zeefbeenholten X - ray;ethmo ï dale sinus ö ntgenfoto
+168573004;Atlantoaxial X-ray;Atlantoaxiale X - ray;Atlantoaxiale X - ray;atlantoaxiaal ö ntgenfoto
+168594001;Clavicle X-ray;Sleutelbeen X - ray;Sleutelbeen X - ray;clavicula ö ntgenfoto
+168731009;Standard chest X-ray;Standard X - thorax;Standard X - thorax;borstkasr ö ntgenfoto
+168763003;Upper abdomen soft tissue X-ray;Bovenbuik zacht weefsel X - ray;Bovenbuik zacht weefsel X - ray;bovenbuikt zachtweefsel ö ntgenfoto
+168764009;Cardioesophageal X-ray;Cardioesophageal X - ray;Cardioesophageal X - ray;cardio ö ntgenfoto
+168875001;Splenography;Splenography;splenografie;splenography
+168920007;Pneumoarthrography;Pneumoarthrography;Pneumoarthrography;pneumoarthrography
+168970005;Superior vena cavogram;Bovenste vena cavogram;Bovenste vena cavogram;superior cavogram
+169115000;Photofluorography of lungs;Photofluorography longen;Photofluorography longen;photofluorography longen
+169196000;Radiobioassay - corticosterone;Radiobioassay - corticosteron;Radiobioassay - corticosteron;radiobioassay - corticosterone
+169201009;Radiobioassay - folic acid;Radiobioassay - foliumzuur;Radiobioassay - foliumzuur;radiobioassay , folinezuur -
+169268000;Volumetry;volumetrie;volumetrie;volumetry
+169296006;Ultrahard X-rays 400-2000 kV;Ultrahard X - stralen 400 - 2000 kV;Ultrahard X - stralen 400 - 2000 kV;ultrahard r ö ntgenfoto 400 , 2000 kv
+169407006;Radiosensitizing measure;radiosensibiliserende maatregel;radiosensibiliserende maatregel;radiosensitizing maat
+169431001;Electropyrexia;Electropyrexia;korte golfdiathermie;electropyrexia
+169541001;Postcoital contraceptive procedure;Postco ï tale contraceptieve procedure;Postco ï tale contraceptieve procedure;postco ï tale contraceptie
+170509004;Control of vectors;Bestrijding van vectoren;Bestrijding van vectoren;stelpen vectors
+170510009;Control of flies;Bestrijding van vliegen;Bestrijding van vliegen;stelpen flies
+170512001;Control of bedbugs;Controle van bedwantsen;Controle van bedwantsen;stelpen bedbugs
+171001002;Benefits counselling;voordelen begeleiding;voordelen begeleiding;benefits consultatie
+171074006;Requires protection against malaria;Vraagt ​​ bescherming tegen malaria;Vraagt ​​ bescherming tegen malaria;requires protection against koorts
+171430003;Patient reviewed;pati ë nt beoordeeld;pati ë nt beoordeeld;pati reviewed
+171728001;Chordectomy of spinal cord;Chordectomy van het ruggenmerg;Chordectomy van het ruggenmerg;chordectomy ruggenmerg
+171944000;Transethmoidal hypophysectomy;Transethmoidal hypofysectomie;Transethmoidal hypofysectomie;transethmoidal hypofysectomie
+171948002;Transsphenoidal hypophysectomy;transsphenoidale hypofysectomie;transsphenoidale hypofysectomie;feno ï dale hypofysectomie
+172109000;Microdochotomy;Microdochotomy;Microdochotomy;microdochotomy
+172797001;Septovomerine osteotomy;Septovomerine osteotomie;Septovomerine osteotomie;septovomerine osteotomie
+172883004;Intranasal ethmoidectomy;intranasale ethmoidectomy;intranasale ethmoidectomy;transnasale ethmo ï dectomie
+173067007;Cricothyroidotomy;Cricothyroidotomy;Cricothyroidotomy;cricothyroidotomy
+173428008;Remnant tonsillectomy;Remnant tonsillectomie;Remnant tonsillectomie;lipoprote tonsillectomie
+175933003;Anderson-Hynes pyeloplasty;Anderson - Hynes pyeloplasty;Anderson - Hynes pyeloplasty;anderson - hynes pyeloplastie
+176012001;Bilateral reimplantation of ureters;Bilaterale re ï mplantatie van urineleiders;Bilaterale re ï mplantatie van urineleiders;bilaterale ureterre ï mplantatie
+176045001;Tapering of ureter;Geleidelijke vermindering van urineleider;Geleidelijke vermindering van urineleider;tapering ureter
+176046000;Keeling of ureter;Keeling van urineleider;Keeling van urineleider;keeling ureter
+177079006;Admission review;toelatingsonderzoek;toelatingsonderzoek;admission herziening
+177251005;Abdominolipectomy;Abdominolipectomy;Abdominolipectomy;abdominolipectomy
+178151000;Sacrifice of tendon;Offer van pezen;Offer van pezen;sacrifice pees
+178299008;Inguinal lymph nodes sampling;Lies lymfeklieren bemonstering;Lies lymfeklieren bemonstering;ingu ï nale lymfekliersampling
+178390005;Strip craniectomy;strip craniectomy;strip craniectomy;strip crani ë ctomie
+178391009;Cranial morcellization;Cranial morcellization;Cranial morcellization;superieur morcellization
+178835005;Myeloscopy;Myeloscopy;Myeloscopy;myeloscopy
+178986004;Chondrodiastasis;Chondrodiastasis;Chondrodiastasis;chondrodiastasis
+178992005;Hemichondrodiatasis;Hemichondrodiatasis;Hemichondrodiatasis;hemichondrodiatasis
+179003002;Saucerization of bone;Saucerization van het bot;Saucerization van het bot;saucerization bot
+179990006;Replantation of thumb;Replantation van de duim;Replantation van de duim;duimre ï mplantatie
+182618007;Rhythmic percussion;ritmische percussie;ritmische percussie;rhythmic percutoir
+182627008;Aerotherapy;aero therapie;aero therapie;aerotherapy
+182905001;Irwin myotomy;Irwin myotomie;Irwin myotomie;irwin spierincisie
+183040005;Patient reassurance;pati ë nt geruststelling;pati ë nt geruststelling;pati reassurance
+183041009;Parental reassurance;ouderlijke geruststelling;ouderlijke geruststelling;parentaal reassurance
+183281008;Lip-reading training;Lip - reading training;Lip - reading training;#NAAM?
+183340002;Patient higher education;Pati ë nt hoger onderwijs;Pati ë nt hoger onderwijs;pati higher ntenvoorlichting
+183353004;Vocational resettlement;Vocational hervestiging;Vocational hervestiging;carri è re resettlement
+183376001;Mobilizing;mobiliseren;mobiliseren;mobilizing
+183403006;Samaritans advisory service;Samaritanen adviesdienst;Samaritanen adviesdienst;samaritans advisory service
+183427008;Substitute mothering;Plaatsvervanger moederen;Plaatsvervanger moederen;substituut mothering
+183430001;Holiday relief admission;Holiday opluchting toelating;Holiday opluchting toelating;holiday verlichting admission
+183470008;Admit hematology emergency;Toegeven hematologie nood;Toegeven hematologie nood;admit hematology noodgeval
+183474004;Admit psychogeriatric emergency;Toegeven psychogeriatrische nood;Toegeven psychogeriatrische nood;admit psychogeriatric noodgeval
+183476002;Admit neurosurgical emergency;Toegeven neurochirurgische noodsituatie;Toegeven neurochirurgische noodsituatie;admit neurosurgical noodgeval
+183477006;Admit cardiothoracic emergency;Toegeven cardiothoracale nood;Toegeven cardiothoracale nood;admit cardiothoracic noodgeval
+183679003;Arrange care by neighbor;Schik zorg door buurman;Schik zorg door buurman;arrange indicatie voor neighbor
+183822007;Refer for radioimmune assay;Raadpleeg voor radio - immuniteitsaktiviteit assay;Raadpleeg voor radio - immuniteitsaktiviteit assay;refer voor radioimmune -
+184047000;Patient registration;pati ë ntenregistratie;pati ë ntenregistratie;pati registration
+184171009;Patient deregistration;pati ë nt uitschrijving;pati ë nt uitschrijving;pati deregistration
+184178003;Patient self-deregistration;De pati ë nt zelf - uitschrijving;De pati ë nt zelf - uitschrijving;pati zichzelf deregistration
+184901006;Guttering of bone;Guttering van het bot;Guttering van het bot;guttering bot
+184988003;Attend court for solicitor;Woon de rechtbank voor advocaat;Woon de rechtbank voor advocaat;attend court voor solicitor
+185087000;Notifications;meldingen;Meldingen;notifications
+185100004;Adverse drug reaction notif;Bijwerking kennisgeving;Bijwerking kennisgeving;geneesmiddelbijwerking notif
+185499000;Expedite appointment;bespoedigen afspraak;bespoedigen afspraak;expedite appointment
+196470000;Epley maneuver;Epley manoeuvre;Epley manoeuvre;epley manoeuvre
+201456002;Cephalogram;cefalogram;cefalogram;cephalogram
+223452003;Reminding;Het eraan herinneren;Het eraan herinneren;reminding
+223457009;Providing material;Het verstrekken van materiaal;Het verstrekken van materiaal;providing materiaal
+223458004;Informing;Informeren;Informeren;informing
+223476006;Reassuring;geruststellend;geruststellend;reassuring
+223482009;Discussion;Discussie;Discussie;discussion
+223486007;Discussion about preferences;Discussie over voorkeuren;Discussie over voorkeuren;discussion voor preferences
+223487003;Discussion about options;Discussie over opties;Discussie over opties;discussion voor options
+223489000;Discussion about prospects;Discussie over de vooruitzichten;Discussie over de vooruitzichten;discussion voor prospects
+223493006;Documenting observations;documenteren van observaties;documenteren van observaties;documenting waarnemingen
+225064000;Heparinizing cannula;Heparinizing canule;Heparinizing canule;heparinizing canule
+225070006;Giving antiseptic mouthwash;Het geven van antiseptische mondspoeling;Het geven van antiseptische mondspoeling;giving antiseptisch mouthwash
+225071005;Giving analgesic mouthwash;Het geven van pijnstillende mondwater;Het geven van pijnstillende mondwater;giving analgetische mouthwash
+225072003;Giving warm saline mouthwash;Het geven van warme zoutoplossing mondwater;Het geven van warme zoutoplossing mondwater;giving warme zoutoplossing mouthwash
+225077009;Spigoting nasogastric tube;Spigoting neussonde;Spigoting neussonde;spigoting maagsonde
+225080005;Spigoting urinary catheter;Spigoting blaaskatheter;Spigoting blaaskatheter;spigoting urinekatheter
+225081009;Draining urinary catheter;Aftappen blaaskatheter;Aftappen blaaskatheter;draining urinekatheter
+225100009;Replacing dentures;Vervangen van kunstgebitten;Vervangen van kunstgebitten;replacing kunstgebit
+225182004;Changing stoma bag;Veranderende stomazakje;Veranderende stomazakje;changing stomazakje
+225188000;Attaching stoma bag;Vastmaken stomazakje;Vastmaken stomazakje;attaching stomazakje
+225221000;Praising;prijzend;prijzend;praising
+225222007;Giving encouragement;Het geven van aanmoediging;Het geven van aanmoediging;giving encouragement
+225223002;Motivating patient;motiveren pati ë nt;motiveren pati ë nt;motivating pati ë nt
+225294001;Identifying goals;Het identificeren van doelen;Het identificeren van doelen;identifying goals
+225303001;Evaluating interventions;Het evalueren van interventies;Het evalueren van interventies;evaluating interventies
+225327004;Pre-termination counselling;Pre - be ë indiging begeleiding;Pre - be ë indiging begeleiding;pre ë indiging consultatie
+225331005;Participative approach;participatieve aanpak;participatieve benadering;participative toegang
+225347007;Empowerment;Empowerment;Zelfbeschikking;empowerment
+225376005;Assessment how client sees himself or herself;Assessment hoe cli ë nt zichzelf ziet;Assessment hoe cli ë nt zichzelf ziet;evaluatie how non sees himself en herself
+225617001;Soaking eye prosthesis;Soaking eye prothese;Soaking eye prothese;soaking kunstoog
+225863005;Shadowing;schaduwing;Schaduw;shadowing
+225947001;Providing sputum carton;Het verstrekken van sputum doos;Het verstrekken van sputum doos;providing expectoratie carton
+225948006;Giving aperient;geven aperient;geven aperient;giving aperient
+226003000;Maintaining patient's safety;Het handhaven van de veiligheid van de pati ë nt;Het handhaven van de veiligheid van de pati ë nt;behoud van pati ë nt safety
+226027003;Conductive education;geleidende onderwijs;geleidende onderwijs;geleidings ntenvoorlichting
+228547007;Reality orientation;Reality ori ë ntatie;Reality ori ë ntatie;reality ori ë ntatie
+228563004;Simonton technique;Simonton techniek;Simonton techniek;simonton -
+228565006;Imagery technique;Imagery techniek;Imagery techniek;imagery -
+228567003;Benson technique;Benson techniek;Benson techniek;benson -
+228568008;Whitchurch technique;Whitchurch techniek;Whitchurch techniek;whitchurch -
+228571000;Disassociation technique;dissociatie techniek;dissociatie techniek;disassociation -
+228575009;Reward technique;beloning techniek;beloning techniek;reward -
+228577001;Role modelling technique;Rolmodellen techniek;Rolmodellen techniek;role modelling -
+228578006;Chaining technique;chaining techniek;chaining techniek;chaining -
+228579003;Backward chaining technique;Backward chaining techniek;Backward chaining techniek;backward chaining -
+228586006;Improvization technique;improvisatie techniek;improvisatie techniek;improvization -
+228594004;Adaptive and compensatory techniques;Adaptieve en compenserende technieken;Adaptieve en compenserende technieken;aanpassings en compensatoire techniques
+228599009;Provision of brace;Verstrekking van brace;Verstrekking van brace;provision , brace
+228662001;Betatron X-ray therapy;Betatron X - ray - therapie;Betatron X - ray - therapie;betatron r ö ntgentherapie
+228663006;Microtron X-ray therapy;Microtron X - ray - therapie;Microtron X - ray - therapie;microtron r ö ntgentherapie
+228672003;Microtron electron teletherapy;Microtron elektron teletherapie;Microtron elektron teletherapie;microtron elektron teletherapy
+228724008;Calculation of teletherapy parameters;Berekening van parameters teletherapie;Berekening van parameters teletherapie;calculation , teletherapy parameters
+229066005;Proprioceptive exercises;proprioceptieve oefeningen;proprioceptieve oefeningen;proprioceptive inspanningstherapie
+229074006;Exercise circuits;oefening circuits;oefening circuits;inspanningsge circuits
+229079001;McKenzie exercises;McKenzie oefeningen;McKenzie oefeningen;mckenzie inspanningstherapie
+229080003;Exercise regime;oefening regime;oefening regime;inspanningsge ntgerichte
+229081004;Belfast regime;Belfast regime;Belfast regime;belfast ntgerichte
+229082006;Buergers exercises;Buergers oefeningen;Buergers oefeningen;buergers inspanningstherapie
+229083001;Cooksey Cawthorne exercises;Cooksey Cawthorne oefeningen;Cooksey Cawthorne oefeningen;cooksey cawthorne inspanningstherapie
+229084007;Crozier conditional exercises;Crozier conditionele oefeningen;Crozier conditionele oefeningen;crozier conditional inspanningstherapie
+229085008;Duran regime;Duran regime;Duran regime;duran ntgerichte
+229086009;Frenkels exercises;Frenkels oefeningen;Frenkels oefeningen;frenkels inspanningstherapie
+229087000;Klapps crawls exercises;Klapps kruipt oefeningen;Klapps kruipt oefeningen;klapps crawls inspanningstherapie
+229088005;Kleinert regime;Kleinert regime;Kleinert regime;kleinert ntgerichte
+229089002;Knights regime;Knights regime;Knights regime;knights ntgerichte
+229090006;McConnells exercises;McConnells oefeningen;McConnells oefeningen;mcconnells inspanningstherapie
+229091005;McQueen exercises;McQueen oefeningen;McQueen oefeningen;mcqueen inspanningstherapie
+229093008;Zinovieff exercises;Zinovieff oefeningen;Zinovieff oefeningen;zinovieff inspanningstherapie
+229115003;Bench press;bankdrukken;Bankdrukken;bench press
+229121004;Gripping exercises;Grijpen oefeningen;Grijpen oefeningen;gripping inspanningstherapie
+229128005;Blowing exercises;blazen oefeningen;blazen oefeningen;blowing inspanningstherapie
+229130007;Frowning exercises;fronsen oefeningen;fronsen oefeningen;frowning inspanningstherapie
+229162005;Lumbrical exercises;lumbricale oefeningen;lumbricale oefeningen;lumbrical inspanningstherapie
+229172008;Direction changing;richtingsveranderingsgeleiding;richtingsveranderingsgeleiding;direction changing
+229197007;Aquaerobic exercises;aquaerobic oefeningen;aquaerobic oefeningen;aquaerobic inspanningstherapie
+229240002;Rhythmical bouncing;ritmisch stuiterende;ritmisch stuiterende;jerk bouncing
+229242005;Reflex inhibiting patterning;Reflex remmende patroonvorming;Reflex remmende patroonvorming;reflectoir inhibiting patterning
+229270007;Orthofunction technique;Orthofunction techniek;Orthofunction techniek;orthofunction -
+229272004;Proprioceptive neuromuscular facilitation technique;Proprioceptieve neuromusculaire facilitatie techniek;Proprioceptieve neuromusculaire facilitatie techniek;proprioceptive neuromusculair facilitation -
+229302002;Ultrasonic humidification;ultrasone bevochtiging;ultrasone bevochtiging;ultrasound humidification
+229303007;Humidifying inhalation therapy;Bevochtigen inhalatietherapie;Bevochtigen inhalatietherapie;humidifying inhalatietherapie
+229305000;Menthol inhalations;menthol inhalaties;menthol inhalaties;menthol inhalations
+229313004;Manual hyperinflation;Manual hyperinflatie;Manual hyperinflatie;manueel hyperinflation
+229486003;Stroking massage;strelen massage;strelen massage;stroking massage
+229490001;Petrissage;petrissage;petrissage;petrissage
+229494005;Physiotherapeutic frictions;fysiotherapeutische fricties;fysiotherapeutische fricties;physiotherapeutic frictions
+229495006;Transverse frictions;dwarse fricties;dwarse fricties;transversaal frictions
+229549002;Lively splinting;Lively spalken;Lively spalken;lively spalkaanbrenging
+229569007;Thermal techniques;thermische technieken;thermische technieken;thermale techniques
+231092008;Acabani;Acabani;Acabani;acabani
+231096006;Ryodoraku;Ryodoraku;Ryodoraku;ryodoraku
+231097002;Cupping;cupping;cupping;cupping
+231287002;Infiltrations;infiltraties;infiltraties;infiltrations
+231362007;Neurolytic techniques;neurolytische technieken;neurolytische technieken;neurolytisch techniques
+231562008;Bicoronal browlift;bicoronal wenkbrauwlift;bicoronal wenkbrauwlift;bicoronal wenkbrauwlift
+231662000;Lateral rectus disinsertion;Laterale rectus disinsertion;Laterale rectus disinsertion;vie disinsertion
+231663005;Lateral rectus superoplacement;Laterale rectus superoplacement;Laterale rectus superoplacement;vie superoplacement
+231664004;Lateral rectus inferoplacement;Laterale rectus inferoplacement;Laterale rectus inferoplacement;vie inferoplacement
+231666002;Lateral rectus Faden;Laterale rectus Faden;Laterale rectus Faden;vie faden
+231689005;Superior oblique Faden;Superior schuine Faden;Superior schuine Faden;4e faden
+231694005;Inferior oblique disinsertion;Inferior schuine disinsertion;Inferior schuine disinsertion;inferior disinsertion
+231698008;Inferior oblique Faden;Inferior schuine Faden;Inferior schuine Faden;inferior faden
+232162004;Mustarde pinnaplasty;Mustarde pinnaplasty;Mustarde pinnaplasty;mustard ? otoplastie
+232173006;Mastoid operations;mastoid operaties;mastoid operaties;masto ï doperatie
+232505005;Transorbital ethmoidectomy;Transorbital ethmoidectomy;Transorbital ethmoidectomy;transorbital ethmoidectomie
+232509004;Intranasal frontoethmoidectomy;intranasale frontoethmoidectomy;intranasale frontoethmoidectomy;transnasale fronto - ethmo ï dectomie
+232517007;Diagnostic nasendoscopy;Diagnostic nasendoscopy;Diagnostic nasendoscopy;diagnostisch nasendoscopy
+232532000;Hyoid bone expansion;Tongbeen expansie;Tongbeen expansie;hyo expansion
+232533005;Hyoid bone suspension;Tongbeen schorsing;Tongbeen schorsing;hyo ï dophanging
+232534004;Geniotubercle advancement;Geniotubercle vooruitgang;Geniotubercle vooruitgang;geniotubercle distalisatie
+232547009;Laryngotracheoplasty;Laryngotracheoplasty;Laryngotracheoplasty;laryngotracheoplasty
+232553009;Arytenoidectomy;Arytenoidectomy;arytaenodectomie;aryteno ï dectomie
+232690004;Percutaneous dilatational cricothyroidotomy;Percutane dilatational cricothyroidotomy;Percutane dilatational cricothyroidotomy;nefroscopische dilatational cricothyroidotomy
+233563006;Hypertransfusion;Hypertransfusion;Hypertransfusion;hypertransfusion
+233594006;Lipopheresis;Lipopheresis;Lipopheresis;lipopheresis
+234251008;Ilioinguinofemoral lymphadenectomy;Ilioinguinofemoral lymphadenectomy;Ilioinguinofemoral lymphadenectomy;ilioingu ï nofemorale lymfadenectomie
+234252001;Inguinofemoral lymphadenectomy;Inguinofemoral lymphadenectomy;Inguinofemoral lymphadenectomy;ingu ï nofemorale lymfadenectomie
+234660007;Transeptal alveolotomy;transeptale alveolotomy;transeptale alveolotomy;transeptal alveolotomie
+234704007;Pulpotomy - devitalizing;Pulpotomy - devitalizing;Pulpotomy - devitalizing;pulpotomy - devitalizing
+235287009;Transmesenteric plication;Transmesenteric sing;Transmesenteric sing;transmesenteric plicatuur
+235320006;Transverse taeniamyotomy;dwarse taeniamyotomy;dwarse taeniamyotomy;transversaal taeniamyotomy
+235373006;Sacroperineal pull-through;Sacroperineal doortrekmodel;Sacroperineal doortrekmodel;sacroperineal pullthrough
+235389009;Open hemorrhoidectomy;Open hemorrhoidectomy;Open hemorrhoidectomy;open hemorro ï dectomie
+235390000;Closed hemorrhoidectomy;gesloten hemorrhoidectomy;gesloten hemorrhoidectomy;gesloten hemorro ï dectomie
+235391001;Submucosal hemorrhoidectomy;submucosale hemorrhoidectomy;submucosale hemorrhoidectomy;submucosale hemorro ï dectomie
+235466002;Supraradical pancreatectomy;Supraradical pancreatectomy;Supraradical pancreatectomy;supraradical pancreatectomie
+236294000;Diagnostic meatourethroscopy;Diagnostic meatourethroscopy;Diagnostic meatourethroscopy;diagnostisch meatourethroscopy
+236347006;Hydrocele operation;hydrocele operatie;hydrocele operatie;hydrok è leoperatie
+236943001;Microcolpohysteroscopy;Microcolpohysteroscopy;Microcolpohysteroscopy;microcolpohysteroscopy
+236956008;Amnioinfusion;Amnioinfusion;Amnioinfusion;amnioinfusion
+236971007;Stabilizing induction;stabiliserende inductie;stabiliserende inductie;stabilizing inductie
+237478002;Sublabial hypophysectomy;Sublabial hypofysectomie;Sublabial hypofysectomie;sublabial hypofysectomie
+237485003;Chiasmopexy;Chiasmopexy;Chiasmopexy;chiasmopexy
+239335001;Sutural craniectomy;sutural craniectomy;sutural craniectomy;wormian crani ë ctomie
+239368008;Orthognathic surgery on photographs;Orthognathic chirurgie op foto;Orthognathic chirurgie op foto;orthognathic ingrepen op photographs
+241032008;Stereographic radiography;stereographic radiografie;stereographic radiografie;stereographic r ö ntgenfoto
+241034009;Skull vault X-ray;Schedel vault X - ray;Schedel vault X - ray;schedelmisvorming gewelf ö ntgenfoto
+241040002;Cephalometry X-ray;Cephalometry X - ray;Cephalometry X - ray;cefalometrie ö ntgenfoto
+241041003;Morphanalysis;Morphanalysis;Morphanalysis;morphanalysis
+241057003;Mammogram coned;mammogram coned;mammogram coned;mammogram coned
+241058008;Mammogram magnification;mammogram vergroting;mammogram vergroting;mammogram magnification
+241063007;Bicipital groove X-ray;Bicipital groove X - ray;Bicipital groove X - ray;bicipitale groeve ö ntgenfoto
+241071006;Scaphoid X-ray;Scafo ï d X - ray;Scafo ï d X - ray;scaphoid ö ntgenfoto
+241072004;Carpal tunnel X-ray;Carpaal tunnel X - ray;Carpaal tunnel X - ray;carpaaltunnel ö ntgenfoto
+241073009;Metacarpal X-ray;Middenhandsbeentje X - ray;Middenhandsbeentje X - ray;metacarpale ö ntgenfoto
+241074003;Thumb X-ray;Thumb X - ray;Thumb X - ray;duimgewricht ö ntgenfoto
+241075002;Femur X-ray;Dijbeen X - ray;Dijbeen X - ray;femur ö ntgenfoto
+241079008;Metatarsal X-ray;Middenvoetsbeentje X - ray;Middenvoetsbeentje X - ray;metatarsalis ö ntgenfoto
+241081005;Hindfoot X-ray;Achtervoet X - ray;Achtervoet X - ray;achtervoet ö ntgenfoto
+241088004;Ischium X-ray;Zitbeen X - ray;Zitbeen X - ray;zitbeen ö ntgenfoto
+241090003;Perineum X-ray;Perineum X - ray;Perineum X - ray;perineum ö ntgenfoto
+241093001;Thoracolumbar spine X-ray;Thoracolumbale wervelkolom X - ray;Thoracolumbale wervelkolom X - ray;thoracolumbale wervelkolomr ö ntgenfoto
+241094007;Scoliosis survey X-ray;Scoliose onderzoek X - ray;Scoliose onderzoek X - ray;scoliosis survey ö ntgenfoto
+241111002;Bronchus soft tissue X-ray;Bronchus zacht weefsel X - ray;Bronchus zacht weefsel X - ray;bronchus zachtweefsel ö ntgenfoto
+241115006;Lip soft tissue X-ray;Lip zacht weefsel X - ray;Lip zacht weefsel X - ray;lipletsel zachtweefsel ö ntgenfoto
+241116007;Parotid gland X-ray;Parotis X - ray;Parotis X - ray;parotisklier ö ntgenfoto
+241130002;Air meatogram;Air meatogram;Air meatogram;airconditioners meatogram
+241134006;Choanogram;Choanogram;Choanogram;choanogram
+241150003;Videoswallow;Videoswallow;Videoswallow;videoswallow
+241151004;Cineswallow;Cineswallow;Cineswallow;cineswallow
+241169008;Proctogram;Proctogram;Proctogram;proctogram
+241170009;Defecating proctogram;defecating proctogram;defecating proctogram;defecating proctogram
+241171008;Gastrointestinal tract loopogram;Maag - darmkanaal loopogram;Maag - darmkanaal loopogram;gastro loopogram
+241172001;Pouchogram;Pouchogram;Pouchogram;pouchogram
+241173006;Herniogram;Herniogram;Herniogram;herniogram
+241186002;Gynecogram;Gynecogram;Gynecogram;gynecogram
+241188001;Cavernosometry;cavernosometrie;cavernosometrie;cavernosometry
+241194009;Air myelogram;Air myelogram;Air myelogram;airconditioners myelografie
+241195005;Epidurogram;Epidurogram;Epidurogram;epidurogram
+241210005;Pneumocystogram;Pneumocystogram;Pneumocystogram;pneumocystogram
+241211009;Tenogram;Tenogram;Tenogram;tenogram
+241280003;Cystographic isotope studies;Cystographic isotoop studies;Cystographic isotoop studies;cystographic scan
+241371001;Probe renogram;probe renogram;probe renogram;sonde renogram
+241489004;HYCOSY - Hysterosalpingo contrast sonography;HYCOSY - Hysterosalpingo contrast echografie;HYCOSY - Hysterosalpingo contrast echografie;hycosy - salpingo contraststof sonography
+241716000;Patient controlled analgesia;Pati ë nt gecontroleerde analgesie;Pati ë nt gecontroleerde analgesie;pati ë ntgecontroleerde analgesie
+241725006;Preoxygenation;preoxygenatie;preoxygenatie;preoxygenation
+242557008;Bimanual palpation;bimanual palpatie;bimanual palpatie;bimanual palperen
+243068007;Bullying counselling;pesten begeleiding;pesten begeleiding;bullying consultatie
+243118002;Professional reassurance;professionele geruststelling;professionele geruststelling;professionele reassurance
+243121000;Medical therapies;medische therapie ë n;medische therapie ë n;biomedische therapies
+243127001;Glucocorticoid hormone therapy;Glucocortico ï d hormoontherapie;Glucocortico ï d hormoontherapie;glucocortico hormoontherapie
+243736006;Provision of image intensifier;Verstrekking van beeldversterker;Verstrekking van beeldversterker;provision , beeld intensifier
+250174000;Paraprotein measurement;paraprote ï ne meting;paraprote ï ne meting;paraprote ï ne ne
+250191001;Precipitating antibody measurement;Precipiterend antilichaam meting;Precipiterend antilichaam meting;, precipitatie - antistof
+250650002;Steroid hormone measurement;Stero ï de hormoon meting;Stero ï de hormoon meting;stero ï dhormoon
+250654006;9am cortisol measurement;09 : 00 cortisol meting;09 : 00 cortisol meting;9am cortisol
+250660006;Luteinizing hormone/follicle stimulating hormone measurement;Lute ï niserend hormoon / follikelstimulerend hormoon meting;Lute ï niserend hormoon / follikelstimulerend hormoon meting;lute ï niserend hormoon - follitropine
+251419001;Second glass contains specks or sediments;Tweede glas bevat vlekken of sedimenten;Tweede glas bevat vlekken of sedimenten;2e glazen contains specks en sediments
+251421006;Second glass contains threads or strands;Tweede glas bevat draden of strengen;Tweede glas bevat draden of strengen;2e glazen contains threads en strands
+252146001;Apolipoprotein E phenotyping;Apolipoprote ï ne E phenotyping;Apolipoprote ï ne E phenotyping;dysbetalipoprote ï nemie phenotyping
+252180003;Chlorpromazine stimulation test;Chlorpromazine stimulatie test;Chlorpromazine stimulatie test;chlorpromazine stimulatietests
+252183001;Clonidine stimulation test;Clonidine stimulatie test;Clonidine stimulatie test;clonidine stimulatietests
+252210001;Pentagastrin stimulation test;Pentagastrine stimulatie test;Pentagastrine stimulatie test;pentagastrin stimulatietests
+252212009;Pergonal stimulation test;Pergonal stimulatie test;Pergonal stimulatie test;pergonal stimulatietests
+252222003;Gastrointestinal tract function test;Maag - darmkanaal functietest;Maag - darmkanaal functietest;gastro functietest
+252230002;Secretin stimulation test;Secretin stimulatie test;Secretin stimulatie test;secretin stimulatietests
+252238009;Vitamin A absorption test;Vitamine A absorptie - test;Vitamine A absorptie - test;defici absorptietest
+252245009;Bombesin stimulation test;Bombesine stimulatie test;Bombesine stimulatie test;bombesin stimulatietests
+252256009;Lundh meal;Lundh maaltijd;Lundh maaltijd;lundh maaltijd
+252291001;Hemoglobin Barts identification;Hemoglobine Barts identificatie;Hemoglobine Barts identificatie;hemoglobine barts identification
+252293003;Hemoglobin Constant Spring identification;Hemoglobine Constant Spring identificatie;Hemoglobine Constant Spring identificatie;hemoglobine constante oostenencefalitis identification
+252317000;Antibody quantitation;antilichaam kwantificering;antilichaam kwantificering;antilichaamdefici kwantificatie
+252319002;Immunochemistry assay;immunochemische test;immunochemische test;immunochemistry -
+252332007;Autoantibody serology;autoantilichaam serologie;autoantilichaam serologie;autoantibody serologie
+252339003;Iodination;jodering;joderen;iodination
+252376000;Paraprotein profile;paraprote ï ne profiel;paraprote ï ne profiel;paraprote ï ne profiel
+252415009;Phosphatase test;fosfatasetest;fosfatasetest;glycogeenstapelings -
+252437002;Radiolabelled antimyosin antibody study;Radioactief gelabelde antimyosine antilichaam studie;Radioactief gelabelde antimyosine antilichaam studie;radiolabelled antimyosin - isotopenscan
+252453004;Pneumoplethysmography;Pneumoplethysmography;Pneumoplethysmography;pneumoplethysmography
+252534007;Glycerin skin test;Glycerine huidtest;Glycerine huidtest;glycerin huidtest
+252568001;Overnight pulse oximetry;Overnight pulsoximetrie;Overnight pulsoximetrie;overnight pulsoximetrie
+252610006;Sonotubometry;Sonotubometry;Sonotubometry;sonotubometry
+252692004;Spondylometry;Spondylometry;Spondylometry;spondylometry
+252755007;Multiplate EMG;multiplate EMG;multiplate EMG;multiplate emg
+252760006;Quantitative myometry;kwantitatieve myometry;kwantitatieve myometry;kwantitatieve myometry
+252782004;Photopic electroretinography;fotopische Electroretinografie;fotopische Electroretinografie;photopic elektroretinografie
+252784003;Flicker electroretinography;Flicker Electroretinografie;Flicker Electroretinografie;flicker elektroretinografie
+252810008;Freidmann screener plot;Freidmann screener plot;Freidmann screener plot;freidmann screener plot
+252811007;Henson screener plot;Henson screener plot;Henson screener plot;henson screener plot
+252853008;Stereotests;Stereotests;Stereotests;stereotests
+252855001;Stereotests - Wirt;Stereotests - Wirt;Stereotests - Wirt;stereotests - wirt
+252856000;Stereotests - Randot;Stereotests - Randot;Stereotests - Randot;stereotests - randot
+252858004;Stereotests - Steinfeld;Stereotests - Steinfeld;Stereotests - Steinfeld;stereotests - steinfeld
+252859007;Stereotests - Frisby;Stereotests - Frisby;Stereotests - Frisby;stereotests - frisby
+252860002;Stereotests - Reinecke;Stereotests - Reinecke;Stereotests - Reinecke;stereotests - reinecke
+252861003;Stereotests - Awaya;Stereotests - Awaya;Stereotests - Awaya;stereotests - awaya
+252870000;Maddox rod test;Maddox rod - test;Maddox rod - test;maddox staaflichaam -
+252902008;Whitaker test;Whitaker - test;Whitaker - test;poly -
+252934004;Percoll gradient centrifugation;Percoll gradi ë nt centrifugatie;Percoll gradi ë nt centrifugatie;percoll gradi ë nt centrifugatie
+252972009;Videophotorefraction;Videophotorefraction;Videophotorefraction;videophotorefraction
+252976007;Sonsken charts;Sonsken charts;Sonsken charts;sonsken charts
+257883005;Lubrication;het smeren;Smering;lubrication
+258843000;Cohen reimplantation of ureter;Cohen re ï mplantatie van urineleider;Cohen re ï mplantatie van urineleider;intravesicale ureterre ï mplantatie
+260645006;Minilaparotomy;Minilaparotomy;Minilaparotomy;minilaparotomy
+261725001;Bunnel suture of tendon;Bunnel hechting van de pees;Bunnel hechting van de pees;bunnel tenorafie
+262189000;Strickland suture of tendon;Strickland hechting van de pees;Strickland hechting van de pees;strickland tenorafie
+265192008;Orchidoplasty;Orchidoplasty;Orchidoplasty;orchidoplasty
+265560003;Intubated ureterotomy;ge ï ntubeerd ureterotomy;ge ï ntubeerd ureterotomy;intubated ureterotomie
+268383003;Thermometry;thermometrie;thermometrie;thermometry
+268425006;Pelvis X-ray;Bekken X - ray;Bekken X - ray;pelvisr ö ntgenfoto
+268428008;Erect abdominal X-ray;Rechtop buikoverzichtsfoto;Rechtop buikoverzichtsfoto;erect buikr ö ntgenfoto
+268430005;Gallbladder soft tissue X-ray;Galblaas zacht weefsel X - ray;Galblaas zacht weefsel X - ray;galblaas zachtweefsel ö ntgenfoto
+268431009;Lower abdomen soft tissue X-ray;Onderbuik zacht weefsel X - ray;Onderbuik zacht weefsel X - ray;onderbuik zachtweefsel ö ntgenfoto
+268433007;Contrast neurodiography;contrast neurodiography;contrast neurodiography;contrast neurodiography
+268523001;Target weight discussed;Streefgewicht besproken;Streefgewicht besproken;streefgewicht discussed
+269851009;Fetoplacental hormone measurement;Foetoplacentaire hormoon meting;Foetoplacentaire hormoon meting;fetoplacental hormoon
+269936001;Sample: bacteriology - general;Steekproef : bacteriologie - algemeen;Steekproef : bacteriologie - algemeen;steekproef : bacteriology -
+270113003;Cremation certification;crematie certificering;crematie certificering;cremation certification
+270350005;Passport application signing;Paspoortaanvraag ondertekening;Paspoortaanvraag ondertekening;passport afbinding signing
+270377001;DS4 attendance allowance examination;DS4 verzorgingstoelage onderzoek;DS4 verzorgingstoelage onderzoek;ds4 attendance allowance onderzoek
+270427003;Patient-initiated encounter;# NAAM ?;#NAAM?;pati ë initiated contact
+270841001;DS1500 attendance allowance exam;DS1500 verzorgingstoelage examen;DS1500 verzorgingstoelage examen;ds1500 attendance allowance exam
+270978002;Serum A1 acid glycoprotein measurement;Serum A1 zuur glycoprote ï ne meting;Serum A1 zuur glycoprote ï ne meting;serum a1 - glycoprote ï ne
+271031007;Iron utilization measurement;Iron gebruik meting;Iron gebruik meting;ijzerdefici utilization -
+271538007;Gastrointestinal hormone measurement;Gastro - intestinale hormoon meting;Gastro - intestinale hormoon meting;gastro hormoon
+271541003;Serum parathyroid hormone measurement;Serum parathyro ï dhormoon meting;Serum parathyro ï dhormoon meting;serum parathyro ï dhormoon
+272258009;Escharectomy;Escharectomy;Escharectomy;escharectomy
+274038002;Repair of hydrocele;Reparatie van hydrocele;Reparatie van hydrocele;hydrok è leherstel
+274334006;Joint - surgical biopsy;Joint - chirurgische biopsie;Joint - chirurgische biopsie;#NAAM?
+274959006;Morison omentopexy;Morison omentopexy;Morison omentopexy;morison omentopexie
+274960001;Talma omentopexy;Talma omentopexy;Talma omentopexy;talma omentopexie
+275151000;S+P - Syringe and probe nasolacrimal duct;S + P - Spuit en sonde ductus nasolacrimalis;S P - Spuit en sonde ductus nasolacrimalis;#NAAM?
+275219007;Duckett hypospadias repair;Duckett hypospadie reparatie;Duckett hypospadie reparatie;duckett hypospadieherstel
+275220001;Asopa hypospadias repair;Asopa hypospadie reparatie;Asopa hypospadie reparatie;asopa hypospadieherstel
+275716001;Mycology;Mycologie;Mycologie;mycology
+275721003;Bacteriology - general;Bacteriologie - algemeen;Bacteriologie - algemeen;bacteriology -
+275823006;Isolation nursing;isolatie verpleging;isolatie verpleging;isoleren nursing
+275828002;Preventing infection of immunocompromized patient;Het voorkomen van infectie van immuungecompromitteerde pati ë nt;Het voorkomen van infectie van immuungecompromitteerde pati ë nt;preventing van immunocompromized pati ë nt
+275830000;Reverse barrier nursing;Reverse barrier verpleging;Reverse barrier verpleging;reverse barri è re nursing
+275833003;Alpha-fetoprotein test - antenatal;Alfa - Foetoprote ï ne - test - prenatale;Alfa - Foetoprote ï ne - test - prenatale;alfafoetoprote ï ne , prenatale
+277353005;Connected discourse tracking;Connected discours volgen;Connected discours volgen;connected discourse tracking
+277448004;Acidification regime;verzuring regime;verzuring regime;acidification ntgerichte
+277449007;Alkalinization regime;alkalinisatie regime;alkalinisatie regime;alkalinization ntgerichte
+278314004;Extratympanic electrocochleography;Extratympanic electrocochleography;Extratympanic electrocochleography;extratympanic elektrocochleogram
+278320003;Acoustic reflectometry;akoestische reflectometrie;akoestische reflectometrie;viiie reflectometry
+281617003;Soft tissue X-ray of abdomen;Zacht weefsel X - ray van de buik;Zacht weefsel X - ray van de buik;sarcoom buikr ö ntgenfoto
+281656009;Hearing aid provision;Gehoorapparaat bepaling;Gehoorapparaat bepaling;gehoorapparaten provision
+281658005;Tick-borne encephalitis vaccination;Tick - encefalitis vaccinatie;Tick - encefalitis vaccinatie;#NAAM?
+281757008;Terminalization of thumb;Terminalization van de duim;Terminalization van de duim;terminalization duim
+285793004;Diploscope exercises;Diploscope oefeningen;Diploscope oefeningen;diploscope inspanningstherapie
+285804005;Keeler acuity cards;Keeler scherpte kaarten;Keeler scherpte kaarten;keeler scherpte cards
+286814009;Inspired gas humidification;Ge ï nspireerd gas bevochtiging;Ge ï nspireerd gas bevochtiging;ge ? nspireerd gas humidification
+287220007;Spinal cord stereotaxis;Ruggenmerg Stereotaxis;Ruggenmerg Stereotaxis;ruggenmerg stereotaxis
+287607000;Pneumohysterosalpingography;Pneumohysterosalpingography;Pneumohysterosalpingography;pneumohysterosalpingography
+287802008;Hemorrhoidectomy - crushing;Hemorrhoidectomy - verpletterende;Hemorrhoidectomy - verpletterende;#NAAM?
+287861004;Gallbladder to pancreas anastomosis;Galblaas te alvleesklier anastomose;Galblaas te alvleesklier anastomose;cholecysto - pancreaticostomie
+288025005;Plicate urethrovesical junction;Plicate urethrovesical junction;Plicate urethrovesical junction;plicate urethro junctie
+297279009;Steroid therapy;stero ï de therapie;stero ï de therapie;stero ï dentherapie
+302240007;Analytical psychology;analytische psychologie;analytische psychologie;analytical psychologie
+302683009;Narcoanalysis;Narcoanalysis;Narcoanalysis;narcoanalysis
+302798000;Gallbladder X-ray;Gallbladder X - ray;Gallbladder X - ray;galblaas ö ntgenfoto
+303935004;Specific spinal X-ray;Specifieke spinale X - ray;Specifieke spinale X - ray;specifieke wervelkolomr ö ntgenfoto
+303937007;Plain X-ray techniques;Plain X - ray technieken;Plain X - ray technieken;r ö ntgenfoto techniques
+304515000;Reminding about keeping appointment;Eraan te herinneren over het houden van afspraak;Eraan te herinneren over het houden van afspraak;reminding voor keeping appointment
+304563002;Informing relative;Het informeren van relatieve;Het informeren van relatieve;informing verwante
+304577004;Humidified oxygen therapy;Bevochtigde zuurstoftherapie;Bevochtigde zuurstoftherapie;humidified zuurstofinhalatietherapie
+304814008;Kleinian psychoanalysis;kleiniaanse psychoanalyse;kleiniaanse psychoanalyse;kleinian psychoanalysis
+304816005;Generic psychoanalysis;Generic psychoanalyse;Generic psychoanalyse;generic psychoanalysis
+304819003;Lacanian psychoanalysis;lacaniaanse psychoanalyse;lacaniaanse psychoanalyse;lacanian psychoanalysis
+304887009;Interpreting psychodynamic interventions;Tolken psychodynamische interventies;Tolken psychodynamische interventies;interpreting psychodynamic interventies
+305436009;Radiculography;Radiculography;radiculosaccografie;radiculography
+307559000;Savage intestinal decompression;Savage intestinale decompressie;Savage intestinale decompressie;savage darmdecompressie
+309621008;McKeever arthrodesis;McKeever artrodese;McKeever artrodese;mckeever artrodese
+310218003;Assess tooth mobility;Assess mobiliteit tand;Beoordelen van tand mobiliteit;assess tandmobiliteit
+310282006;Vigabatrin measurement;vigabatrine meting;Vigabatrin meting;vigabatrin -
+310588009;Visit by health visitor;Bezoek van de gezondheid bezoeker;Bezoek van de gezondheid bezoeker;pati ë nt bezoek voor gezond visitor
+310866003;Informing patient;Het informeren van de pati ë nt;Informeren van de pati ë nt;informing pati ë nt
+311401005;Patient education;pati ë ntenvoorlichting;Pati ë nteneducatie;pati ë nten
+311402003;Staff education;onderwijzend personeel;onderwijzend personeel;staff ntenvoorlichting
+311558009;Language development regime;Taalontwikkeling regime;Talenregeling ontwikkeling;taalontwikkelings ntgerichte
+311575003;Intelligibility regime;verstaanbaarheid regime;Verstaanbaarheid regime;intelligibility ntgerichte
+311576002;Facilitated intelligibility regime;Facilitated verstaanbaarheid regime;Gefaciliteerde verstaanbaarheid regime;facilitated intelligibility ntgerichte
+311577006;Compensated intelligibility regime;Gecompenseerd verstaanbaarheid regime;Gecompenseerd verstaanbaarheid regime;gecompenseerd intelligibility ntgerichte
+311587005;Mirroring for speech;Mirroring voor spraak;Mirroring voor spraak;mirroring spreken
+311614000;Pragmatic enhancement strategies;Pragmatisch enhancement strategie ë n;De verhoging van de pragmatische strategie ë n;pragmatic enhancement strategies
+311618002;Neurolinguistics language therapy;Neurolinguistics taaltherapie;Neurolingu ï stiek taal therapie;neurolinguistics spraaktherapie
+311660003;Cueing for speech;Cueing voor spraak;Cueing voor spraak;cueing spreken
+311672009;Phrasing exercises;Phrasing oefeningen;Frasering oefeningen;phrasing inspanningstherapie
+311766003;Barrier-free environment provision;Barrier - vrije omgeving voorziening;Barrierevrije milieu bepaling;barri è re - afdelingen provision
+311785000;Semantic facilitation;semantische facilitatie;Semantische versoepeling;semantische facilitation
+311791003;Information gathering;Informatie verzamelen;Informatie wordt verzameld;information gathering
+312465000;Urine dihydrocodeine measurement;Urine dihydrocode ï ne meting;Urine dihydrocode ï ne meting;urine dihydrocode ï ne ne
+312475002;Plasma magnesium measurement;Plasma magnesium meting;Plasma magnesium meting;plasmaprote magnesium
+312476001;Plasma aluminum measurement;Plasma aluminium meting;Plasma aluminium meting;plasmaprote aluminium
+312477005;Plasma copper measurement;Plasma koper meting;Plasma koper meting;plasmaprote koper
+312480006;Plasma urea measurement;Plasma ureum meting;Plasma ureum meting;plasmaprote ureum
+312482003;Plasma urate measurement;Plasma urate meting;Plasma • Uraat meting;plasmaprote urinezuur
+312497000;Salvage abdominoperineal resection of rectum;Salvage abdominoperineale resectie van rectum;Salvage abdominoperineale resectie van rectum;hygi ë nische abdomino - perineale rectumresectie
+312616000;Provision of mainstream further education;Verstrekking van reguliere voortgezet onderwijs;Bepaling van het reguliere voortgezet onderwijs;provision , mainstream further ntenvoorlichting
+312627003;Provision of specialist further education;Verstrekking van specialistische vervolgopleiding;Bepaling van specialist voortgezet onderwijs;provision , specialist further ntenvoorlichting
+312691006;Calibrating aortography;kalibreren aortography;Kalibreren van aortography;calibrating aortogram
+312891008;Pregnancy-related examination;Zwangerschapsgerelateerde onderzoek;Zwangerschap - gerelateerde onderzoek;#NAAM?
+313439006;Plasma growth hormone measurement;Plasma groeihormoon meting;Plasma groeihormoon meting;plasmaprote somatotropine
+313441007;Plasma TSH measurement;Plasma TSH meting;Plasma TSH meting;plasmaprote thyrotrofine
+313443005;Plasma prolactin measurement;Plasma prolactine meting;Plasma prolactin measurement;plasmaprote prolactine
+313444004;Plasma FSH measurement;Plasma FSH meting;Plasma FSH meting;plasmaprote fsh
+313445003;Plasma LH measurement;Plasma LH meting;Plasma LH meting;plasmaprote icsh
+313480004;Plasma salicylate measurement;Plasma salicylaat meting;Plasma salicylaat meting;plasmaprote salicylaat
+313484008;Plasma apolipoprotein B measurement;Plasma apolipoprote ï ne B meting;Plasma apolipoprotein B measurement;plasmaprote apolipoprote ï ne - b
+313499008;Plasma androstenedione measurement;Plasma androstenedione meting;Plasma androstenedione measurement;plasmaprote androstenedione -
+313620009;Plasma adrenaline measurement;Plasma adrenaline meting;Plasma adrenaline meting;plasmaprote epinefrine
+313621008;Plasma alanine measurement;Plasma alanine meting;Plasma alanine meting;plasmaprote alanine -
+313715000;Plasma gentamicin measurement;Plasma gentamicine meting;Plasma gentamicine meting;plasmaprote gentamicin -
+313731008;Plasma homocysteine measurement;Plasma homocyste ï ne meting;Plasma homocysteine meting;plasmaprote homocyste ï ne ne
+313736003;Plasma glycine measurement;Plasma glycine meting;Plasma glycine meting;plasmaprote glycinetest
+313739005;Plasma valine measurement;Plasma valine meting;Plasma valine meting;plasmaprote valine -
+313741006;Serum homocysteine measurement;Serum homocyste ï ne meting;Serum homocyste ï ne meten;serum homocyste ï ne ne
+313746001;Plasma caffeine measurement;Plasma cafe ï ne meting;Plasma cafe ï ne meting;plasmaprote cafe ï ne
+313747005;Serum caffeine measurement;Serum cafe ï ne meting;Serum caffeine measurement;serum cafe ï ne
+313760004;Plasma noradrenaline measurement;Plasma noradrenaline meting;Plasma noradrenaline meting;plasmaprote noradrenaline
+313772005;Plasma estradiol measurement;Plasma estradiol meting;Plasma estradiol meting;plasmaprote oestradiol
+313789002;Plasma porphyrin measurement;Plasma porfyrine meting;Plasma porfyrine meting;plasmaprote porphyrin -
+313792003;Plasma homocystine measurement;Plasma homocystine meting;Plasma homocystine meting;plasmaprote homocystine
+313799007;Fluid rheumatoid factor measurement;Fluid reumato ï de factor meting;Vloeibare reumato ï de factor meting;vocht , reumato ï dfactor
+313800006;Peroxisomal antibody measurement;Peroxisomale antilichaam meting;Peroxisomal antilichaam meting;peroxisomal antistof
+313819001;Plasma vigabatrin measurement;Plasma vigabatrine meting;Plasma vigabatrin meting;plasmaprote vigabatrin -
+313821006;Plasma lamotrigine measurement;Plasma lamotrigine meting;Plasma lamotrigine meting;plasmaprote lamotrigine -
+313831004;Plasma free fatty acid measurement;Plasma vrije vetzuren meting;Plasma vrije vetzuren meting;plasmaprote vrijde vetzuurdefici -
+313833001;Plasma arginine vasopressin measurement;Plasma arginine vasopressine meting;Plasma arginine vasopressin measurement;plasmaprote vasopressine
+313835008;HbA1c measurement (DCCT aligned);HbA1c meting ( DCCT uitgelijnd );HbA1c meting ( DCCT uitgelijnd );hba1c +++ dcct aligned -
+313869009;Plasma ethosuximide measurement;Plasma ethosuximide meting;Plasma ethosuximide measurement;plasmaprote ethosuximide -
+313870005;Plasma tobramycin measurement;Plasma tobramycine meting;Plasma tobramycine meting;plasmaprote tobramycin -
+313952006;Plasma ammonia measurement;Plasma ammoniak meting;Plasma ammoniak meting;plasmaprote ammonium
+313953001;Plasma leucine measurement;Plasma leucine meting;Plasma leucine measurement;plasmaprote leucine
+313963009;Plasma etiocholanolone measurement;Plasma etiocholanolon meting;Plasma etiocholanolone meting;plasmaprote etiocholanolone -
+313964003;Plasma IGF 1 measurement;Plasma IGF 1 meting;Plasma IGF - 1 meting;plasmaprote igf b1
+313966001;Plasma IGF 2 measurement;Plasma IGF 2 meting;Plasma IGF 2 meting;plasmaprote igf cellymfotroop -
+313967005;Plasma methemalbumin measurement;Plasma methemalbumin meting;Plasma methemalbumin meting;plasmaprote methemalbumin -
+314039006;Plasma lipid measurement;Plasma lipide - meting;Plasma lipide - meting;plasma , lipo ï ne
+314064009;Giving encouragement to participate;Het geven van aanmoediging om deel te nemen;Het geven van aanmoediging om deel te nemen;giving encouragement - participate
+314597002;Thoracoscopic splanchnicectomy;thoracoscopic splanchnicectomy;thoracoscopic splanchnicectomy;thoracoscopische splanchnicectomy
+315173008;Plasma teicoplanin level;Plasma teicoplanine niveau;Plasma teicoplanine niveau;plasmaprote teicoplanin antistof
+315203001;Trypanosomal antibody level;Trypanosomiasis antilichaam niveau;Trypanosomiasis antilichaam niveau;trypanosomal antistof
+341939001;Extracorporeal hemofiltration;extracorporele hemofiltratie;extracorporele hemofiltratie;extracorpori hemofiltratie
+347747004;Corneoconjunctivoplasty;Corneoconjunctivoplasty;Corneoconjunctivoplasty;corneoconjunctivoplasty
+358364006;Petrous apicotomy;petrous apicotomy;petrous apicotomy;petreuze apicotomy
+359607004;Ileopexy;Ileopexy;Ileopexy;ileopexy
+359779009;Antistreptococcal hyaluronidase titer;Antistreptococcal hyaluronidase titer;Antistreptococcal hyaluronidase titer;antistreptococcal hyaluronidase titer
+359819009;Antibiotic sensitivity, fungus;Gevoeligheid voor antibiotica , schimmel;Gevoeligheid voor antibiotica , schimmel;, mycotisch
+359855001;3-Methoxy-4-hydroxymandelic acid measurement;3 - Methoxy - 4 - hydroxyamandelzuur meting;3 - Methoxy - 4 - hydroxyamandelzuur meting;#NAAM?
+359940006;Partial breech extraction;Gedeeltelijke stuitligging extractie;Gedeeltelijke stuitligging extractie;parti stuitextractie
+359943008;Partial breech delivery;Gedeeltelijke stuitbevalling;Gedeeltelijke stuitbevalling;parti stuitligging
+359951006;Cycloelectrolysis;Cycloelectrolysis;Cycloelectrolysis;cycloelectrolysis
+360355003;Aminophyline measurement;Aminofylline meting;Aminofylline meting;aminophyline -
+361231003;Prescribed dietary intake;Voorgeschreven inname via de voeding;Voorgeschreven inname via de voeding;prescribed voedingsinname
+361233000;Barrier nursing;Barrier verpleging;Barrier verpleging;barri è re nursing
+363210006;Musculoskeletal system education;Bewegingsapparaat onderwijs;Bewegingsapparaat onderwijs;botspierstelsel ntenvoorlichting
+367476005;Colpoepisiorrhaphy;Colpoepisiorrhaphy;Colpoepisiorrhaphy;colpo - episiorafie
+370770001;Acting as individual patient advocate;Optreden als individuele pati ë nt pleitbezorger;Optreden als individuele pati ë nt pleitbezorger;pati ë ntenrecht
+370806004;Evaluates response to instructions;Evalueert reactie op instructies;Evalueert reactie op instructies;evaluates respons op instructions
+370855008;Securing patient's records, belongings, and valuables;Het beveiligen van de pati ë nt verslagen , bezittingen en kostbaarheden;Het beveiligen van de pati ë nt verslagen , bezittingen en kostbaarheden;securing pati ë nt records , belongings en valuables
+370862004;Verifying presence of prosthetics;Het verifi ë ren van de aanwezigheid van protheses;Het verifi ë ren van de aanwezigheid van protheses;verifying gewrichtsimplantaat prosthetics
+371070000;Empirical antibiotic therapy;Empirische behandeling met antibiotica;Empirische behandeling met antibiotica;empirical antibioticatherapie
+372034000;Implementation of hemostasis techniques;Implementatie van hemostase technieken;Implementatie van hemostase technieken;implementation coagulatieaandoening techniques
+372038002;Advocacy (regime/therapy)(procedure);Advocacy ( regime / therapie ) ( procedure );Advocacy ( regime / therapie ) ( procedure );ë ntenrecht ,
+372039005;Patient identification;pati ë ntidentificatie;pati ë ntidentificatie;pati identification
+372919008;Patient education based on identified need;Pati ë nt onderwijs op basis van ge ï dentificeerde behoefte;Pati ë nt onderwijs op basis van ge ï dentificeerde behoefte;pati ë ntenvoorlichting gebaseerde van ge ï dentificeerd need
+373784005;Dispensing medication;Verstrekking van medicijnen;Verstrekking van medicijnen;dispensing medicatie
+384715000;Nucleic acid hybridization procedure;Nucle ï nezuur hybridisatieprocedure;Nucle ï nezuur hybridisatieprocedure;nucle ï nezuurhybridisatie
+384732001;Steroid radiobioassay;stero ï de radiobioassay;stero ï de radiobioassay;lipoid radiobioassay
+384734000;Radiobioassay;Radiobioassay;Radiobioassay;radiobioassay
+385441004;Rodding of conjunctiva;Rodding van het bindvlies;Rodding van het bindvlies;rodding conjunctiva
+385710001;Enema adminstration education;Klysma adminstration onderwijs;Klysma adminstration onderwijs;klysma adminstration ntenvoorlichting
+385740004;Funeral arrangements education;Uitvaartverzorging onderwijs;Uitvaartverzorging onderwijs;funeral arrangements ntenvoorlichting
+385764003;Hospice care education;Hospice zorg onderwijs;Hospice zorg onderwijs;hospicezorg ntenvoorlichting
+385817007;Patient feeding technique education;Pati ë nt voeden techniek onderwijs;Pati ë nt voeden techniek onderwijs;pati voedings - ntenvoorlichting
+385820004;Infection control education;Infectie controle onderwijs;Infectie controle onderwijs;infectiebeheersing ntenvoorlichting
+385852004;Chest physiotherapy education;Borst fysiotherapie onderwijs;Borst fysiotherapie onderwijs;borstkasfysiotherapie ntenvoorlichting
+385855002;Inhalation therapy education;Inademing therapie onderwijs;Inademing therapie onderwijs;inhalatietherapie ntenvoorlichting
+385979001;Cardiac rehabilitation education;Hartrevalidatie onderwijs;Hartrevalidatie onderwijs;hartrehabilitatietherapie ntenvoorlichting
+385981004;Safety education;veiligheid onderwijs;veiligheid onderwijs;safety ntenvoorlichting
+385982006;Bronchial hygiene;bronchiale hygi ë ne;bronchiale hygi ë ne;bronchiale hygi ë ne
+386089008;Collection of coughed sputum;Het verzamelen van opgehoest sputum;Het verzamelen van opgehoest sputum;aanprikken ventriculo coughed sputum
+386226007;Calming;kalmerende;kalmerende;calming
+386252001;Culture brokerage;Culture brokerage;Culture brokerage;kweek brokerage
+386254000;Delegation;Delegatie;Delegeren;delegation
+386292004;Exercise promotion: stretching;Oefening promotie : het uitrekken;Oefening promotie : het uitrekken;inspanningsge promotie : stretching
+386332000;Incident reporting;Incidentmelding;Melding van incidenten;incident reporting
+386336002;Insurance authorization;verzekering vergunning;verzekering vergunning;verzekering authorization
+386365008;Meditation facilitation;meditatie faciliteren;meditatie faciliteren;meditation facilitation
+386371002;Normalization promotion;normalisatie promotie;normalisatie promotie;normalization promotie
+386383000;Parenting promotion;ouderschap promotie;ouderschap promotie;parenting promotie
+386386008;Patient rights protection;bescherming van rechten van de pati ë nt;bescherming van rechten van de pati ë nt;pati rights protection
+386391009;Preceptoring: employee;Preceptoring : werknemer;Preceptoring : werknemer;preceptoring : employee
+386396004;Preparatory sensory information;Voorbereidende sensorische informatie;Voorbereidende sensorische informatie;preparatory sensorieel information
+386410008;Resiliency promotion;veerkracht promotie;veerkracht promotie;resiliency promotie
+386416002;Role enhancement;rol enhancement;rol enhancement;role enhancement
+386417006;Security enhancement;verbetering van de beveiliging;verbetering van de beveiliging;security enhancement
+386442002;Socialization enhancement;socialisatie enhancement;socialisatie enhancement;socialization enhancement
+386463000;Prescribed activity/exercise education;Voorgeschreven activiteit / oefening onderwijs;Voorgeschreven activiteit / oefening onderwijs;prescribed activiteit , bewegings ntenvoorlichting
+386470000;Toddler safety education;veiligheid peuter onderwijs;veiligheid peuter onderwijs;toddler safety ntenvoorlichting
+386494000;Visitation facilitation;visitatie faciliteren;visitatie faciliteren;visitation facilitation
+386516004;Anticipatory guidance;anticiperende begeleiding;anticiperende begeleiding;anticipatory begeleiding
+386625001;Nonobstetric trachelotomy;Nonobstetric trachelotomy;Nonobstetric trachelotomy;nonobstetric trachelotomy
+387641007;Thoracectomy;Thoracectomy;Thoracectomy;thoracectomy
+387669004;Bevan orchidopexy;Bevan orchidopexie;Bevan orchidopexie;bevan orchidopexie
+387671004;Ombredanne orchidopexy;Ombredanne orchidopexie;Ombredanne orchidopexie;ombredanne orchidopexie
+387701008;Reimplantation of ureter;Re ï mplantatie van urineleider;Re ï mplantatie van urineleider;ureterre ï mplantatie
+388990007;Synovectomy;synovectomy;synovectomie;synovi ë ctomie
+390955003;Plasma albumin level;Plasma - albumine niveau;Plasma - albumine niveau;plasmaprote albumine
+390961000;Plasma alanine aminotransferase level;Plasma alanineaminotransferase niveau;Plasma alanineaminotransferase niveau;plasmaprote alanine aminotransferase antistof
+390964008;Plasma potassium level;Plasma kaliumgehalte;Plasma kaliumgehalte;plasmaprote kalium
+390994002;Plasma aldosterone level;Plasma aldosteron niveau;Plasma aldosteron niveau;plasmaprote aldosteron
+390998004;Plasma gastrin level;Plasma gastrine niveau;Plasma gastrine niveau;plasmaprote gastrine
+391001005;Plasma arsenic level;Plasma arsenicum niveau;Plasma arsenicum niveau;plasmaprote arsenicum
+391110004;Salbutamol reversibility;salbutamol omkeerbaarheid;salbutamol omkeerbaarheid;salbutamol reversibility
+391112007;Ipratropium reversibility;Ipratropium omkeerbaarheid;Ipratropium omkeerbaarheid;ipratropium reversibility
+391114008;Combined reversibility;gecombineerde omkeerbaarheid;gecombineerde omkeerbaarheid;heterotopische reversibility
+391169006;Plasma perhexiline level;Plasma perhexiline niveau;Plasma perhexiline niveau;plasmaprote perhexiline antistof
+391308009;CSF cytospin;CSF cytospin;CSF cytospin;cerebrospinaal cytospin
+391326007;Plasma calcitonin level;Plasma calcitonine niveau;Plasma calcitonine niveau;plasmaprote calcitonine
+391330005;Faecal clinitest;fecale Clinitest;fecale Clinitest;fecale clinitest
+391339006;Plasma neurotensin level;Plasma neurotensin niveau;Plasma neurotensin niveau;plasmaprote neurotensin antistof
+391375008;Roche number;Roche nummer;Roche nummer;roche aantal
+391405006;Plasma somatostatin level;Plasma somatostatine niveau;Plasma somatostatine niveau;plasmaprote somatostatin antistof
+391407003;Blood erythrocyte PBG deaminase level;Blood erytrocyten PBG deaminase niveau;Blood erytrocyten PBG deaminase niveau;erytocytenhoeveelheid / pbg defici antistof
+391421001;Plasma dothiepin level;Plasma Dothiepin niveau;Plasma Dothiepin niveau;plasmaprote dothiepin antistof
+391424009;Plasma desmethyldothiepin level;Plasma desmethyldothiepin niveau;Plasma desmethyldothiepin niveau;plasmaprote desmethyldothiepin antistof
+391507000;Plasma clomipramine level;Plasma clomipramine niveau;Plasma clomipramine niveau;plasmaprote clomipramine antistof
+391530006;Plasma cystine level;Plasma cystine niveau;Plasma cystine niveau;plasmaprote cystine antistof
+391554001;Plasma parathyroid hormone level;Plasma bijschildklierhormoon niveau;Plasma bijschildklierhormoon niveau;plasmaprote parathyro ï dhormoon
+391563004;Plasma cystathione level;Plasma cystathione niveau;Plasma cystathione niveau;plasmaprote cystathione antistof
+391565006;Plasma arginosuccinate level;Plasma arginosuccinate niveau;Plasma arginosuccinate niveau;plasmaprote argininosuccinaat antistof
+391574008;Plasma clonazepam level;Plasma clonazepam niveau;Plasma clonazepam niveau;plasmaprote clonazepam antistof
+391581001;Serum dibucaine number;Serum dibuca ï ne nummer;Serum dibuca ï ne nummer;serum dibuca ï ne aantal
+391996005;Salpingosalpingostomy;Salpingosalpingostomy;Salpingosalpingostomy;salpingo - sapingostomie
+392031002;Endarterectomy;endarterectomy;endarterectomy;endarteri ë ctomie
+394928002;Yo antibody level;Yo antilichaam niveau;Yo antilichaam niveau;yo antistof
+394937002;Hormone replacement therapy education;Hormoonvervangende therapie onderwijs;hormonale vervangingstherapie;hrt ntenvoorlichting
+394949001;Kaolin clotting time;Kaolien stollingstijd;Kaolien bloedstolling tijd;cefaline stollingstijd
+394958008;Plasma cyclosporin level;Plasma cyclosporine niveau;Plasma cyclosporin niveau;plasmaprote cyclosporin antistof
+394978000;Ribosomal autoantibody level;Ribosomaal autoantilichaam niveau;ribosomaal;ribosomal antistof
+395053006;Continence education;continentie onderwijs;Continence education;continentie ntenvoorlichting
+395101001;Ongoing review;Lopende beoordeling;Ongoing review;ongoing herziening
+395120004;Plasma renin recumbent level;Plasmarenineactiviteit ligfiets niveau;Plasma renine ligfiets niveau;plasmaprote renine recumbent antistof
+395129003;Amino acid chromatography;Aminozuur chromatografie;Aminozuur chromatografie;aminozuur chromatography
+395162006;Derived fibrinogen level;Afgeleide fibrinogeen niveau;Afgeleide fibrinogeen niveau;derived fibrinogeen
+395223007;Plasma aldosterone recumbent level;Plasma - aldosteron ligfiets niveau;Plasma - aldosteron ligfiets niveau;plasmaprote aldosteron recumbent antistof
+396071005;Patient education regarding Patient Bill of Rights;Pati ë nt onderwijs met betrekking tot Bill of Rights pati ë nt;Pati ë nteneducatie betreffende pati ë nt Bill of Rights;pati ë ntenvoorlichting regarding pati snavel van rights
+396075001;Medication monitoring education;Medicatiebewaking onderwijs;Medicatiebewaking onderwijs;geneesmiddelencontrole ntenvoorlichting
+397279008;Binocular balancing;verrekijker balancing;Verrekijker balancing;binocle balancing
+397557004;Corneal esthesiometry;cornea esthesiometry;Hoornvlies esthesiometry;cornea esthesiometry
+397899008;Weaning from mechanically assisted ventilation commenced;Ontwennen van mechanische beademing begonnen;Spenen van mechanisch bijgestaan ventilatie begonnen;beademingsweaning commenced
+397962009;Processed electronencephalography;verwerkte electronencephalography;Verwerkte electronencephalography;verwerkt electronencephalography
+397969000;Rubber band torniquet positioned on patient;Rubberen band tourniquet gepositioneerd op de pati ë nt;Rubber band torniquet geplaatst op pati ë nt;barron torniquet positioned van pati ë nt
+397998001;Weaning from mechanically assisted ventilation continued;Ontwennen van mechanische beademing voortgezet;Spenen van mechanisch bijgestaan ventilatie bleef;beademingsweaning continued
+398062009;Plasma creatine kinase measurement;Plasma creatine kinase meting;Plasma creatine kinase meting;plasmaprote cpk
+398142004;Emergency cricothryotomy;Emergency cricothryotomy;Emergency cricothryotomy;spoed cricothryotomy
+398207008;Plan and risks education;Plan en risico ' s onderwijs;Plan en risico ' s onderwijs;plannen en risks ntenvoorlichting
+398214005;Patient condition assessed;Conditie van de pati ë nt onderzocht;Toestand van de pati ë nt beoordeeld;pati conditie assessed
+398243002;Repair of rectocele;Reparatie van rectok è le;Reparatie van rectocele;rectok è leherstel
+398258005;Inflatable tourniquet positioned uninflated on patient;Opblaasbare tourniquet gepositioneerd opgeblazen op de pati ë nt;Opblaasbare tourniquet gepositioneerd uninflated op pati ë nt;opblaasbare tourniquet positioned uninflated van pati ë nt
+398260007;Tourniquet positioned on patient;Tourniquet gepositioneerd op de pati ë nt;Tourniquet gepositioneerd op de pati ë nt;tourniquet positioned van pati ë nt
+398381009;Neisseria gonorrhoeae nucleic acid assay;Neisseria nucle ï nezuur assay;Neisseria gonorrhoeae nucleic acid test;neisseria gonorrhoeae , nucle ï nezuur -
+398408001;Hantavirus nucleic acid assay;Hantavirus nucle ï nezuur assay;Hantavirus nucleic acid test;hantaanvirus nucle ï nezuur -
+398545005;Nucleic acid assay;Nucle ï nezuur assay;Nucleic acid test;nucle ï nezuur -
+398568001;Cytomegalovirus nucleic acid assay;Cytomegalovirus nucle ï nezuur assay;Cytomegalovirus nucleic acid test;cytomegalievirus , nucle ï nezuur -
+399208008;Plain chest X-ray;Plain X - thorax;Gewoon r ö ntgenonderzoek van de borstkas;borstkasr ö ntgenfoto
+400928005;Stereotests - Titmus;Stereotests - Titmus;Stereotests - Titmus;stereotests - titmus
+401028003;Plasma morphine metabolite level;Plasma morfine metaboliet niveau;Plasma morfine metaboliet niveau;plasmaprote morfine metabolite antistof
+401029006;Plasma nitrazepam level;Plasma Nitrazepam niveau;Plasma nitrazepam niveau;plasmaprote nitrazepam antistof
+401038008;Plasma temazepam level;Plasma temazepam niveau;Plasma temazepam niveau;plasmaprote temazepam antistof
+401128000;Plasma flunitrazepam level;Plasma flunitrazepam niveau;Plasma flunitrazepam niveau;plasmaprote flunitrazepam antistof
+401131004;Plasma oxazepam level;Plasma oxazepam niveau;Plasma oxazepam niveau;plasmaprote oxazepam antistof
+401143003;Plasma bicarbonate measurement;Plasma bicarbonaat meting;Plasma bicarbonaat meting;plasmaprote bicarbonaat
+401144009;Plasma chloride measurement;Plasma chloride meting;Plasma chloride meting;plasmaprote chloride
+401146006;Plasma dehydroepiandrosterone sulphate level;Plasma dehydroepiandrosteronsulfaat niveau;Plasma Dehydroepiandrosteron sulfaat niveau;plasmaprote dehydroepiandrosterone sulfaat antistof
+401147002;Plasma testosterone measurement;Plasma testosteron meting;Plasma testosteron meting;plasmaprote testosteron
+401148007;Plasma digoxin measurement;Plasma digoxine meting;Plasma digoxine meting;plasmaprote digoxinespiegel
+401149004;Plasma paracetamol measurement;Plasma paracetamol meting;Plasma paracetamol meting;plasmaprote acetaminofen
+401152007;Plasma ferritin measurement;Plasma ferritine meting;Plasma Ferritine meting;plasmaprote ferritine
+401154008;Plasma parathyroid hormone related peptide measurement;Plasma parathyro ï de hormoon gerelateerd peptide meting;Plasma bijschildklier hormoon gerelateerde peptide meting;plasmaprote parathyro gerelateerd peptide
+405658004;Hemodilution techniques;hemodilutie technieken;Hemodilution technieken;hemodilutie techniques
+405932002;Compartmentectomy;Compartmentectomy;Compartmentectomy;compartmentectomy
+406145006;Layette education;babyuitzet onderwijs;Layette onderwijs;layette ntenvoorlichting
+406163006;Bioterrorism preparedness;bioterrorisme paraatheid;Bioterrorisme paraatheid;bioterrorism preparedness
+406166003;Legal testimony;juridische verklaring;Juridische getuigenis;wettelijk testimony
+406860006;Fluorescein sodium stain method;Natriumfluoresce ï ne methode vlek;Fluoresce ï ne natrium vlek methode;natriumfluoresce ï ne kleuring
+407574002;Informing partner;Informeren van partner;Informeren van de partner;informing partner
+407686006;Plasma aspartic acid level;Plasma asparaginezuur niveau;Plasma asparaginezuur niveau;plasmaprote aspartic - antistof
+408188008;Plasma oxalate level;Plasma oxalaat niveau;Plasma oxalaat niveau;plasmaprote oxalaat
+408224000;Plasma buprenorphine level;Plasma buprenorfine niveau;Plasma buprenorfine niveau;plasmaprote buprenorphine antistof
+408286000;Refer to footcare protection programme;Raadpleeg voetverzorging programma voor de bescherming;Verwijzen naar footcare beschermingsprogramma;van footcare protection programme
+408490001;Antipsychotic drug therapy;Antipsychotische medicamenteuze therapie;Antipsychoticum medicamenteuze therapie;antipsychotic geneesmiddelentherapie
+408593002;Plasma plasminogen antigen level;Plasma plasminogeen antigen niveau;Plasma plasminogen antigeen niveau;plasmaprote plasminogen antigeen
+408740001;Radiography of hip;Radiografie van hip;Radiografie van heup;heupr ö ntgenfoto
+408762001;Photoscreening;Photoscreening;Photoscreening;photoscreening
+408840008;Extra-amniotic termination of pregnancy;Extra - vruchtwater zwangerschapsafbreking;Extra - vruchtwater be ë indiging van de zwangerschap;extra - amniotische zwangerschapsbe ë indiging
+409092009;Plasma inhibin measurement;Plasma inhibine meting;Plasma inhibine meting;plasmaprote inhibin -
+409516001;Post-exposure prophylaxis;Post - exposure profylaxe;Post Expositie Profylaxe;#NAAM?
+409634008;Post-vaccination precautions;Post - vaccinatie voorzorgsmaatregelen;Na vaccinatie voorzorgsmaatregelen;#NAAM?
+409635009;Post-vaccination precautions for smallpox;Post - vaccinatie voorzorgsmaatregelen voor pokken;Na vaccinatie voorzorgsmaatregelen voor pokken;#NAAM?
+410076000;Patient transfer education;Pati ë nt overdracht onderwijs;Pati ë nt overdracht onderwijs;pati ë ntentransport ntenvoorlichting
+410077009;Patient transfer management;Pati ë nt overdracht beheer;Pati ë nt overdracht beheer;pati ë ntentransport behandeling
+410082002;Rehabilitation therapy education;Revalidatie therapie onderwijs;Revalidatie therapie onderwijs;rehabilitatietherapie ntenvoorlichting
+410085000;Range of motion education;Bereik van de beweging onderwijs;Waaier van motie onderwijs;bewegingsbereik ntenvoorlichting
+410094006;Ostomy irrigation education;Ostomy irrigatie onderwijs;Ostomy irrigatie onderwijs;ostomy spoelen ntenvoorlichting
+410100009;Reality orientation education;Reality ori ë ntatie onderwijs;Werkelijkheid ori ë ntatie onderwijs;reality ori ntenvoorlichting
+410132009;Nursing conference education;Nursing - conferentie onderwijs;Verpleegkunde conferentie onderwijs;nursing conference ntenvoorlichting
+410144007;Medical regimen orders education;Medisch regime orders onderwijs;Medische regime bestellingen onderwijs;biomedische regimen orders ntenvoorlichting
+410200000;Weight control education;Gewichtsbeheersing onderwijs;Gewicht controle onderwijs;gewichtscontrole ntenvoorlichting
+410203003;Oxygen therapy education;Zuurstoftherapie onderwijs;Zuurstof therapie onderwijs;zuurstofinhalatietherapie ntenvoorlichting
+410206006;Respiratory care education;Respiratoire zorg onderwijs;Respiratoire zorg onderwijs;ademhalingstherapie ntenvoorlichting
+410239009;Pain control education;controle pijn onderwijs;Pijn controle onderwijs;pijnbestrijding ntenvoorlichting
+410538000;Scheduling;scheduling;Planning;scheduling
+410552003;Guardian interview;Guardian - interview;Guardian interview;guardian interview
+412807000;Serum inhibin measuement;Serum inhibine measuement;Serum inhibine measuement;serum inhibin measuement
+412910008;Plasma catecholamine measurement;Plasma catecholamine meting;Plasma catecholamine meting;plasmaprote catecholaminen
+412912000;Plasma amino acid chromatography;Plasma aminozuur chromatografie;Plasma aminozuur chromatografie;plasmaprote aminozuren chromatography
+412925008;Serum vitamin D2 measurement;Serum vitamine D2 meting;Serum vitamine D2 meting;serum - defici ë ne
+412932004;Monomeric prolactin measurement;Monomeer prolactine meting;Monomeer prolactine meting;monomeric prolactine
+412935002;Cerebrospinal fluid alpha-fetoprotein measurement;Cerebrospinale vloeistof alpha - foetoprote ï ne meting;Meting van de alpha - fetoprotein van de cerebrospinale vloeistof;csv - foetoprote ï ne ne
+412948003;Plasma sarcosine measurement;Plasma sarcosine meting;Plasma sarcosine meting;plasmaprote sarcosine -
+412950006;Plasma homocitrulline measurement;Plasma homocitrulline meting;Plasma homocitrulline meting;plasmaprote homocitrulline -
+412951005;Plasma alloisoleucine measurement;Plasma allo - isoleucine meting;Plasma alloisoleucine meting;plasmaprote alloisoleucine -
+412954002;Plasma ethanolamine measurement;Plasma ethanolamine meting;Plasma ethanolamine meting;plasmaprote ethanolamine -
+412983004;Cerebrospinal fluid net biliriubin absorbance;Cerebrospinale vloeistof net biliriubin absorptie;Cerebrospinale vloeistof netto biliriubin absorptie;csv netto biliriubin absorbance
+413020007;Plasma pristanate measurement;Plasma pristanate meting;Plasma pristanate meting;plasmaprote pristanate -
+413240005;Chromoscopy;Chromoscopy;chromatoscopie;chromoscopy
+413580000;Asialotransferrin measurement;asialotransferrine meting;Asialotransferrin meting;asialotransferrin -
+413651001;Bioptics;Bioptics;Bioptics;bioptics
+413833000;Chromogranin measurement;chromogranine meting;Chromogranin meting;chromogranin -
+414348006;Globoside antibody measurement;Globoside antilichaam meting;Globoside antilichaam meting;globoside antistof
+414384004;Parenting education;ouderschap onderwijs;Ouderschap onderwijs;parenting ntenvoorlichting
+414453002;IgA rheumatoid factor measurement;IgA reumato ï de factor meting;IgA reumato ï de factor meting;ziekte reumato ï dfactor
+414465003;Immunochemiluminometric assay;Immunochemiluminometric assay;Immunochemiluminometric bepaling;immunochemiluminometric -
+414536007;Intrastromal photodisruption laser keratectomy;Intrastromale photodisruptie laser keratectomy;Intrastromal photodisruption laser keratectomy;intrastromal photodisruption fotokeratectomie
+414797004;N-terminal glucagon measurement;N - terminale glucagon meting;N - terminale glucagon meting;#NAAM?
+414799001;N-terminal pro-brain natriuretic peptide measurement;N - terminale pro - brain natriuretisch peptide meting;N - terminale pro - brain natriuretisch peptide meting;#NAAM?
+414997006;Pancreastatin level;Pancreastatin niveau;Pancreastatin niveau;pancreastatin antistof
+415038008;Partial coherence inferometry biometry;Gedeeltelijke coherentie inferometry biometrie;Gedeeltelijke coherentie inferometry biometrie;parti coherentie inferometry biometry
+415069007;Percutaneous atherectomy of artery;Percutane atherectomie van de slagader;Percutane atherectomie van slagader;percutane endarteri ë ctomie
+415071007;Percutaneous endarterectomy;percutane endarterectomy;percutane endarterectomy;percutane endarteri ë ctomie
+415072000;Percutaneous thromboendarterectomy;percutane thromboendarterectomy;Percutane thromboendarterectomy;percutane endarteri ë ctomie
+415357005;S-100 neuronal cell marker measurement;S - 100 neuronale cel marker meting;S - 100 neuronale cel marker meting;#NAAM?
+415669008;Sulpiride measurement;sulpiride meting;sulpiride meting;sulpiride -
+416122009;Klapping;Klapping;Klapping;klapping
+416415005;Apolipoprotein E profile;Apolipoprote ï ne E profiel;Apolipoprote ï ne E profiel;dysbetalipoprote ï nemie profiel
+416733000;Supine abdominal X-ray;Rugligging buikoverzichtsfoto;Liggende abdominale X - ray;gesupineerd buikr ö ntgenfoto
+416882005;Toggle technique;toggle techniek;Toggle techniek;toggle -
+416942004;Hoover technique;Hoover techniek;Hoover techniek;hoover -
+416947005;Glycoasparaginase mearurement;Glycoasparaginase mearurement;Glycoasparaginase mearurement;glycoasparaginase mearurement
+417301002;Continence reassessment;continentie herbeoordeling;Continentie herbeoordeling;continentie reassessment
+417306007;Counterstrain technique;Counterstrain techniek;Counterstrain techniek;counterstrain -
+417439009;Springing technique;springende techniek;Verende techniek;springing -
+417730007;Myotension technique;Myotension techniek;Myotension techniek;myotension -
+418249008;Fluoroscopic herniography;fluoroscopische herniography;Fluoroscopic herniography;fluoroscopische herniography
+418253005;Fluoroscopic defecating proctography;Fluoroscopische mest - proctography;Fluoroscopic poepen proctography;fluosocopische defecating proctography
+418488007;Inservice;In dienst;INService;inservice
+418526005;Prevention education;preventie onderwijs;Preventie onderwijs;verhindering ntenvoorlichting
+418993004;Flicker perimetry;Flicker perimetrie;Flikkeren van perimetry;flicker perimetrie
+419108008;Fluoroscopic pharyngography;fluoroscopische pharyngography;Fluoroscopic pharyngography;fluoroscopische pharyngography
+419426003;Fluoroscopic proctography;fluoroscopische proctography;Fluoroscopic proctography;fluoroscopische proctography
+419719004;Fluoroscopic pouchography;fluoroscopische pouchography;Fluoroscopic pouchography;fluoroscopische pouchography
+419741004;Fluoroscopic gastrointestinal tract loopography;Fluoroscopische maagdarmkanaal loopography;Fluoroscopic gastro - intestinale tractus loopography;fluoroscopische gastro loopography
+419759001;Overrefraction;overrefractie;Overrefraction;overrefraction
+419876006;Fluoroscopic discography;fluoroscopische discografie;Fluoroscopic Discografie;fluoroscopische discography
+421865005;Interferometric corneal topography;Interferometrische cornea topografie;Interferometrische cornea topografie;interferometric corneatopografie
+422424000;Scheduling instructions;instructies scheduling;Planning instructies;scheduling instructions
+423289001;Informing surgeon;Informeren chirurg;Informeren van de chirurg;informing chirurg
+424794007;Application of brace;Toepassing van de brace;Toepassing van de brace;, brace
+425583002;Portable X-ray;Draagbare X - ray;Draagbare X - ray;portable ö ntgenfoto
+426036002;Fertiloscopy;Fertiloscopy;Fertiloscopy;fertiloscopy
+426166007;Dix-Hallpike maneuver;Dix - Hallpike manoeuvre;Dix - Hallpike manoeuvre;dix - hallpike manoeuvre
+426312008;Providing reassurance to neighbor;Van het vertrouwen van buurman;Van het vertrouwen van buurman;providing reassurance - neighbor
+426900002;Pulmonary thromboendarterectomy;pulmonale thromboendarterectomy;pulmonale thromboendarterectomy;pulmonale trombo - endarteri ë ctomie
+428632005;Transportation request;vervoer verzoek;vervoer verzoek;transportation verzoek
+428990002;Measurement of quetiapine;Meting van quetiapine;Meting van quetiapine;, quetiapine
+428991003;Measurement of norclomipramine;Meting van norclomipramine;Meting van norclomipramine;, norclomipramine
+429313002;Uvulopalatoplasty;Uvulopalatoplasty;Uvulopalatoplasty;uvulopalatoplasty
+429314008;Partial callosotomy;gedeeltelijke callosotomy;gedeeltelijke callosotomy;parti callosotomie
+431241006;Fluoroscopic genitography;fluoroscopische genitography;fluoroscopische genitography;fluoroscopische genitography
+432257009;Measurement of undercarboxylated osteocalcin;Meting van ondergecarboxyleerde osteocalcine;Meting van ondergecarboxyleerde osteocalcine;darmfunctiemeting undercarboxylated osteocalcin
+433023004;Fluoroscopic dacryocystoplasty;fluoroscopische dacryocystoplasty;Fluoroscopic dacryocystoplasty;fluoroscopische dacryocystoplasty
+438485003;Measurement of homocysteine concentration in urine;Meting van homocyste ï ne - concentratie in urine;Meting van de concentratie van homocyste ï ne in urine;, homocyste ï ne concentreren urine
+438828007;Trichogram;trichogram;Trichogram;trichogram
+439261002;Measurement of mycophenolic acid;Meting van mycofenolzuur;Meting van mycophenolic zuur;, mycophenolic -
+439389002;Measurement of methylenedioxymethamphetamine and methylenedioxyamphetamine;Meting van methyleendioxymethamfetamine en Methylenedioxyamphetamine;Meting van methyleendioxymethamfetamine en Methylenedioxyamphetamine;, methylenedioxymethamphetamine en methylenedioxyamphetamine
+439514002;Intraoperative radiography of hip;Intraoperatieve radiografie van hip;Intraoperatieve radiografie van heup;peroperatieve heupr ö ntgenfoto
+439568007;Measurement of holotranscobalamin concentration;Meting van holotranscobalamin concentratie;Meting van de concentratie van de holotranscobalamin;, holotranscobalamin concentration
+440213000;Measurement of encainide and metabolite in serum;Meting van encainide en metaboliet in serum;Meting van encainide en metaboliet in serum;, enca ï nide en metabolite in serum
+441506009;Measurement of amprenavir peak concentration;Meting van amprenavir piekconcentratie;Meting van amprenavir piek concentratie;, amprenavir piek concentration
+441651001;Measurement of acyclovir;Meting van acyclovir;Meting van aciclovir;, acyclovir
+441861006;Measurement of tobramycin trough concentration;Meting van tobramycine dalconcentratie;Meting van de concentratie van tobramycine trog;, tobramycin golfdiepte concentration
+442028003;Measurement of tobramycin peak concentration;Meting van tobramycine piekconcentratie;Meting van de concentratie van tobramycine piek;, tobramycin piek concentration
+442039000;Measurement of albumin gradient between serum specimen and ascitic fluid specimen;Meting van albumine gradi ë nt tussen serum monster en ascitesvloeistof specimen;Meting van albumine verloop tussen serum specimen en ascitic vloeistof specimen;#NAAM?
+442046009;Measurement of mercaptopurine metabolite;Meting van mercaptopurine metaboliet;Meting van mercaptopurine metaboliet;darmfunctiemeting mercaptopurine metabolite
+442047000;Measurement of efavirenz peak concentration;Meting van efavirenz piekconcentratie;Meting van de concentratie van efavirenz piek;, efavirenz piek concentration
+442090004;Measurement of oxcarbazepine metabolite;Meting van oxcarbazepine metaboliet;Meting van de metaboliet van oxcarbazepine;darmfunctiemeting oxcarbazepine metabolite
+442093002;Measurement of zonisamide;Meting van zonisamide;Meting van zonisamide;, zonisamide
+442199000;Measurement of gentamicin trough concentration;Meting van gentamicine dalconcentratie;Meting van de concentratie van gentamicine trog;, gentamicin golfdiepte concentration
+442200002;Measurement of gentamicin peak concentration;Meting van gentamicine piekconcentratie;Meting van de concentratie van gentamicine piek;, gentamicin piek concentration
+442494000;Measurement of ciclosporin trough concentration;Meting van ciclosporine dalconcentratie;Meting van de concentratie van ciclosporine trog;, ciclosporin golfdiepte concentration
+443273008;Measurement of vincristine;Meting van vincristine;Meting van vincristine;, vincristine
+443308002;Measurement of haptoglobin;Meting van haptoglobine;Meting van haptoglobin;, haptoglobine
+443337003;Measurement of Anaplasma phagocytophilum antibody;Meting van Anaplasma phagocytophilum antilichaam;Meting van Anaplasma phagocytophilum antilichaam;, hge -
+443399003;Measurement of betamethasone;Meting van betamethason;Meting van betamethasone;, betamethason
+443519003;Measurement of alloisoleucine;Meten van allo - isoleucine;Meting van alloisoleucine;, alloisoleucine
+443572004;Measurement of sirolimus;Meting van sirolimus;Meting van sirolimus;, sirolimus
+443712005;Measurement of glutamic acid;Meting van glutaminezuur;Meting van glutaminezuur;, glutaminezuur
+444181009;Hendra virus nucleic acid assay;Hendra virus nucle ï nezuur assay;Hendra virus nucleic acid test;hendravirus nucle ï nezuur -
+445434008;Measurement of aquaporin-4 antibody;Meting van aquaporine - 4 antilichaam;Meting van aquaporine - 4 antilichaam;, aquaporin - antistof
+445726003;Endoscopic excision of sphenoid sinus;Endoscopische excisie van wigvormig sinus;Endoscopische excisie van sphenoid sinus;endoscopische sfeno ï dectomie
+446077009;Automated otoacoustic emission test;Geautomatiseerde otoacoustic emissietest;Geautomatiseerde OTO emissietest;oto - akoustische emissies
+446078004;Dermoscopic photography;Dermoscopic fotografie;Dermoscopic fotografie;dermoscopic fotografie
+446229003;Evoked potential study;Evoked potential onderzoek;Evoked potential onderzoek;ge ë voceerde potentialen
+447328004;Endoscopic incision of sphenoid sinus;Endoscopische insnijding van wigvormig sinus;Endoscopische insnijding van sphenoid sinus;endoscopische sfeno ï dotomie
+447678008;Measurement of 25-hydroxyergocalciferol;Meting van 25 - hydroxyergocalciferol;Meting van 25 - hydroxyergocalciferol;, 25 - hydroxyergocalciferol
+448570005;Trapezoidal osteotomy;trapezium osteotomie;trapezium osteotomie;trapezoidal osteotomie
+449147001;Infracoccygeal hysteropexy;Infracoccygeal hysteropexy;Infracoccygeal hysteropexy;infracoccygeal hysteropexie
+449148006;Sacrohysteropexy;Sacrohysteropexy;Sacrohysteropexy;sacrohysteropexy
+449376006;Reamputation of thumb;Reamputation van de duim;Reamputation van duim;reamputation duim
+449864000;Surgical fixation of arytenoid cartilage;Chirurgische fixatie van bekerkraakbeentje;Surgical fixation of arytenoid cartilage;aryteno ï dopexie
+450875004;Laryngotracheal separation;laryngotracheale scheiding;Laryngotracheal scheiding;laryngotracheal retinalagen
+450918007;Nasopharyngolaryngoscopy;Nasopharyngolaryngoscopy;Nasopharyngolaryngoscopy;nasopharyngolaryngoscopy
+609385003;Monochloramine measurement;monochlooramine meting;monochlooramine meting;monochloramine -
+698517009;Stoma care education;Stomazorg onderwijs;Stomazorg onderwijs;stomazorg ntenvoorlichting
+698602003;Patient controlled analgesia education;Pati ë nt gecontroleerde analgesie onderwijs;Pati ë nt gecontroleerde analgesie onderwijs;pati ë nten
+698759007;Mucolytic drug therapy;Mucolytische medicamenteuze therapie;Mucolytische medicamenteuze therapie;mucolytic geneesmiddelentherapie
+699726001;Pial synangiosis;pial synangiosis;pial synangiosis;pial - synangiosis
+699823003;Provision of written information;Verstrekken van schriftelijke informatie;Verstrekken van schriftelijke informatie;provision , written information
+699835004;Provision of written information about colposcopy;Verstrekken van schriftelijke informatie over colposcopie;Verstrekken van schriftelijke informatie over colposcopie;provision , written information voor colposcopie
+699837007;Provision of written information about cystoscopy;Verstrekken van schriftelijke informatie over cystoscopie;Verstrekken van schriftelijke informatie over cystoscopie;provision , written information voor cystoscopie
+699838002;Provision of written information about hysteroscopy;Verstrekken van schriftelijke informatie over hysteroscopy;Verstrekken van schriftelijke informatie over hysteroscopy;provision , written information voor hysteroscopie
+699840007;Provision of written information about antibiotic therapy;Verstrekken van schriftelijke informatie over de behandeling met antibiotica;Verstrekken van schriftelijke informatie over de behandeling met antibiotica;provision , written information voor antibioticatherapie
+699841006;Provision of written information about parenting;Verstrekken van schriftelijke informatie over ouderschap;Verstrekken van schriftelijke informatie over ouderschap;provision , written information voor parenting
+700196009;Extracorporeal resection of liver;Extracorporele resectie van de lever;Extracorporele resectie van de lever;extracorpori hepatectomie
+702545008;Psychoeducation;psycho - educatie;Psycho - educatie;psychoeducation
+702603003;Laparoscopic hysterosacropexy;laparoscopische hysterosacropexy;laparoscopische hysterosacropexy;laparoscopische hysterosacropexy
+702731000;Answering patient preoperative questions;Het beantwoorden van de pati ë nt preoperatieve vragen;Het beantwoorden van de pati ë nt preoperatieve vragen;answering pati preoperatieve questions
+703985001;Chest thrust;borst stuwkracht;borst stuwkracht;borst thrust
+707805003;Dermofasciectomy;Dermofasciectomy;Dermofasciectomy;dermofasciectomy
+707835005;Hemicraniotomy;Hemicraniotomy;Hemicraniotomy;hemicraniotomy
+708004003;Multidisciplinary review;multidisciplinaire beoordeling;multidisciplinaire beoordeling;multidisciplinary herziening
+709544008;Administration of vitamin B12;Toediening van vitamine B12;Toediening van vitamine B12;bestuur defici ë ntie
+710504000;Categorizing surgical wound;Categoriseren operatiewond;Categoriseren operatiewond;categorizing operatiewond
+710562003;Assessment of sanitation;Beoordeling van de sanitaire voorzieningen;Beoordeling van de sanitaire voorzieningen;voedingsbeoordeling sanitation
+710850009;Assessment of expectations;Beoordeling van de verwachtingen;Beoordeling van verwachtingen;voedingsbeoordeling expectations
+711005003;Measurement of fluid output;Meting van vloeistofuitvoer;Meten van vloeibare output;, vloeistofproductie
+711007006;Measurement of chest circumference;Meting van de borstomvang;Meting van de omtrek van de borst;, borstomvang
+711048009;Assessment of oral hygiene pattern;Evaluatie van de mondhygi ë ne patroon;Beoordeling van mondhygi ë ne patroon;voedingsbeoordeling hygi ë ne , mod - patroon
+712490006;Facilitating forgiveness;Het faciliteren van vergeving;Vergemakkelijken van vergeving;facilitating forgiveness
+712553007;Liaising with patient;Contacten met de pati ë nt;Contacten met de pati ë nt;liaising met pati ë nt
+14130001000004103;Aquapheresis;Aquapheresis;Aquapheresis;aquapheresis

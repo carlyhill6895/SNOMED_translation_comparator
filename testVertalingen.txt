@@ -1,0 +1,6 @@
+﻿NUMBER; SNOMED term
+104001;excisie van van
+115006;uitneembare appliance therapie
+633004;chart review door arts
+673005;indirect laryngoscopy
+767002;witte bloedceltelling

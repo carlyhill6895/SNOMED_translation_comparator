@@ -1,0 +1,50 @@
+429930009;Injection of sacral spinal nerve root using computed tomography guidance;Injectie van sacrale spinale zenuwwortel met behulp van computertomografie begeleiding;Injectie van sacrale spinale zenuwwortel met behulp van computertomografie begeleiding;injectie van sacrale zenuwwortel met ct - geleiding
+265524008;Emergency replacement of aneurysmal femoral or popliteal artery;Emergency vervanging van aneurysma dijbeen of poplitea;Emergency vervanging van aneurysma dijbeen of poplitea;spoed vervanging van aneurysmatische femoralis en arteria poplitea
+26058004;Thoracoscopy with biopsy;Thoracoscopy met biopsie;Thoracoscopy met biopsie;thoracoscopie met biopsie
+265500000;Operations on aneurysm of cerebral artery or circle of Willis;Bewerkingen op aneurysma van de cerebrale slagader of cirkel van Willis;Bewerkingen op aneurysma van de cerebrale slagader of cirkel van Willis;chirurgie voor aneurysma van circulus arteriosus cerebri
+257832005;Internal fixation using tension band;Interne fixatie met behulp van spanning band;Interne fixatie met behulp van spanning band;interne fixatie met spanning band
+699140009;Creation of aorto-common carotid artery shunt;Oprichting van aorto - common halsslagader shunt;Oprichting van aorto - common halsslagader shunt;aanleggen van anastomose tussen aorta naar arteria carotis communis bypass
+177051000;Diagnostic endoscopic examination of ovary;Diagnostisch endoscopisch onderzoek van de eierstok;Diagnostisch endoscopisch onderzoek van de eierstok;langs endoscopische weg van de eierstok
+252532006;Dinitrochlorobenzene contact sensitivity test;Dinitrochloorbenzeen contact gevoeligheidstest;Dinitrochloorbenzeen contact gevoeligheidstest;dinitrochloorbenzeen contact allergietest
+344780002;Reimplantation of pancreatic tissue;Re ï mplantatie van de pancreas weefsel;Re ï mplantatie van de pancreas weefsel;transpositie van slokdarmweefsel
+57278009;Open reduction of separated epiphysis of tibia and fibula;Open reductie van gescheiden epifyse van scheenbeen en kuitbeen;Open reductie van gescheiden epifyse van scheenbeen en kuitbeen;open reductie van epiphysiolysis van tibia en fibula
+252356006;Basophil function test;Basofiel functietest;Basofiel functietest;basofielen - tests
+444224006;Quantitative measurement of mass concentration of creatinine in 4 hour postperitoneal dialysis fluid specimen;Kwantitatieve meting van de massa concentratie van creatinine in 4 uur postperitoneal dialysevloeistof specimen;Kwantitatieve meting van de massa concentratie van creatinine in 4 uur postperitoneal dialysevloeistof specimen;kwantitatieve van massa concentreren - creatinine in 4 uurs postperitoneal dialysis vocht
+6438007;Exploration of ciliary body;Verkenning van corpus ciliare;Verkenning van corpus ciliare;exploratie van het ciliair lichaam
+427479001;Anchoring of chest drain using suture;Verankering van thoraxdrain gebruik hechtdraad;Verankering van thoraxdrain gebruik hechtdraad;verankeren van thoraxdrain met hechtingen
+118736002;Procedure on vertebra;Procedure op wervel;Procedure op wervel;procedure van halswervel
+287400009;Epistaxis control - suture;Epistaxis control - hechtdraad;Epistaxis control - hechtdraad;controle van hemostase met sutuur
+46897002;Percutaneous balloon valvuloplasty of pulmonary valve;Percutane ballon valvuloplasty van pulmonaalklep;Percutane ballon valvuloplasty van pulmonaalklep;percutane ballon valvuloplastie pulmonalisklep
+231279003;Injection of local anesthetic and steroid into facet joint;Injectie van plaatselijke verdoving en stero ï den in facet joint;Injectie van plaatselijke verdoving en stero ï den in facet joint;infiltratie van lokaal anestheticum and steroid in gewricht
+391305007;Percentage CD10 count;Percentage CD10 count;Percentage CD10 count;procentueel cd10 bloedceltelling
+276060002;Reduction of fracture of carpal and metacarpal with internal fixation;Vermindering van de breuk van carpaal en middenhandsbeentje met interne fixatie;Vermindering van de breuk van carpaal en middenhandsbeentje met interne fixatie;reductie van van of metacarpaal van fractuur met inwendige fixatie
+91119001;Abdominal lymphangiogram;abdominale lymphangiogram;abdominale lymphangiogram;abdominale lymfangiografie
+58058006;Suction of patient;Zuigkracht van de pati ë nt;Zuigkracht van de pati ë nt;aspiratie van
+118815006;Procedure on lip;Procedure op de lip;Procedure op de lip;ingreep op lip
+243143008;Airway pressure release ventilation;Luchtwegdruk vrijlating ventilatie;Luchtwegdruk vrijlating ventilatie;airway pressure release ventilation
+708856005;Excision of lesion of oral cavity;Excisie van letsel van mondholte;Excisie van letsel van mondholte;excisie van van de mond
+432691003;Embolization using fluoroscopic guidance;Embolisatie met behulp van doorlichting;Embolisatie met behulp van doorlichting;embolisatie onder fluoroscopische geleide
+275305005;Antenatal / Postnatal care;Prenatale / postnatale zorg;Prenatale / postnatale zorg;prenatale , zorg , postnatale
+170794003;Initial obesity assessment;Initial obesitas assessment;Initial obesitas assessment;voorlopige obesitas onderzoek
+711431005;Repatriation by road;Repatri ë ring over de weg;Repatri ë ring over de weg;repatriation door road
+20630000;Laparoscopic cholecystectomy with cholangiography;Laparoscopische cholecystectomie met cholangiography;Laparoscopische cholecystectomie met cholangiography;laparoscopische cholecystectomie met cholangiografie
+39646005;Hemibody irradiation;Hemibody bestraling;Hemibody bestraling;irradiatie , hemicorporele
+7993000;Bone marrow imaging, whole body;Beenmerg imaging , het hele lichaam;Beenmerg imaging , het hele lichaam;beenmerg beeldvorming gehele lichaam
+241551006;CT of pancreas;CT van de alvleesklier;CT van de alvleesklier;ct pancreas
+431772006;Radionuclide imaging of adrenal gland using iodocholesterol;Radionuclide beeldvorming van bijnier gebruik iodocholesterol;Radionuclide beeldvorming van bijnier gebruik iodocholesterol;radionucleotidenscan van bijnier met iodocholesterol
+385774000;Encouragement of compliance with therapeutic regime;Bevordering van de naleving van de therapeutische regime;Bevordering van de naleving van de therapeutische regime;encouragement van compliance met therapeutisch ntgerichte
+287722003;Cystectomy - wedge resection;Cystectomie - wigresectie;Cystectomie - wigresectie;urineblaasexcisie - wigresectie
+303932001;Thoracic cage X-ray;Borstkas X - ray;Borstkas X - ray;radiografie , thoracale
+14029003;Krypton laser photocoagulation;Krypton laserfotocoagulatie;Krypton laserfotocoagulatie;krypton laser
+170339008;Second anthrax vaccination;Tweede miltvuur vaccinatie;Tweede miltvuur vaccinatie;2e immunisatie tegen anthrax
+117226006;Cresyl echt violet stain method;Cresyl echt methode paarse vlek;Cresyl echt methode paarse vlek;cresyl echt paarse vlek methode
+250379004;Rh antigen type determination;Rh antigen soort vastberadenheid;Rh antigen soort vastberadenheid;rh - antigeen type f
+180242007;Intramuscular gold therapy;Intramusculaire goud therapie;Intramusculaire goud therapie;intamusculair gold therapie
+427226009;Assessment of sense of balance;Beoordeling van evenwichtsgevoel;Beoordeling van evenwichtsgevoel;onderzoek van evenwicht
+175228009;Construction of aortopulmonary window;Bouw van aortopulmonary venster;Bouw van aortopulmonary venster;constructie aortopulmonaal venster
+708002004;Combined calcium and vitamin D3 preparation prophylaxis;Gecombineerde calcium en vitamine D3 preparaat profylaxe;Gecombineerde calcium en vitamine D3 preparaat profylaxe;heterotopische calcium en vitamine d3 preparaat profylaxe
+259696002;Hemoglobin Constant Spring measurement;Hemoglobine Constant Spring meting;Hemoglobine Constant Spring meting;hemoglobine constante oostenencefalitis -
+172904009;Reconstruction of defect of nasal sinus with local flap;Reconstructie van defect van nasale sinus met lokale flap;Reconstructie van defect van nasale sinus met lokale flap;reconstructie van defect nasale sinus met lokale flap
+122415007;Norwalk virus RNA assay;Norwalk virus RNA assay;Norwalk virus RNA assay;norwalk - virus , rna -
+405341004;Endarterectomy and angioplasty of superficial femoral artery with prosthesis;Endarterectomie en angioplastiek van oppervlakkige dijbeenslagader met prothese;Endarterectomie en angioplastiek van oppervlakkige dijbeenslagader met prothese;endarterectomie en angioplastie van arteria femoralis communis met prothese
+104583003;HDL/total cholesterol ratio measurement;HDL / totaal cholesterol ratio meting;HDL / totaal cholesterol ratio meting;/ hdl cholesterol totaal ratio

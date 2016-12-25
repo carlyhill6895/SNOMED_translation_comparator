@@ -1,0 +1,50 @@
+171448007;Excision of lesion of temporal lobe of brain;Uitsnijden van letsel van de temporale kwab van de hersenen;Uitsnijden van letsel van de temporale kwab van de hersenen;excisie van temporale lob
+426056001;Deep sclerectomy without spacer;Deep sclerectomy zonder spacer;Deep sclerectomy zonder spacer;diepe sclerectomie zonder spacer
+71749001;Glenoid bone block;Glenoid bot blok;Glenoid bot blok;glenoid botblok
+43143005;Removal of Mulligan hood from fallopian tube;Verwijdering van Mulligan kap van eileider;Verwijdering van Mulligan kap van eileider;verwijderen van prothese van mulligan van eileider
+90689002;Stain, iron, blood or bone marrow;Vlek , ijzer , bloed of beenmerg;Vlek , ijzer , bloed of beenmerg;vlek , ijzer en beenmerg
+58987005;Implantation of stimoceiver in spine;Implantatie van stimoceiver in de wervelkolom;Implantatie van stimoceiver in de wervelkolom;implantatie van stimoceiver de wervelkolom
+395123002;Urine screening test for diabetes;Urine test voor diabetes;Urine test voor diabetes;urine - screening voor diabetes
+26504003;Arthrotomy of knee with joint exploration;Arthrotomie van de knie met gezamenlijke exploratie;Arthrotomie van de knie met gezamenlijke exploratie;exploratieve arthrotomie van de knie
+6146001;Repair of heart septum with prosthesis;Reparatie van hart septum met prothese;Reparatie van hart septum met prothese;herstel van cardiaal septum met prothese
+303669000;CT of intrathoracic cardiovascular structures;CT van intrathoracale cardiovasculaire structuren;CT van intrathoracale cardiovasculaire structuren;ct van hart structuren
+305264001;Admission by chest physician;Toelating door longarts;Toelating door longarts;admission op borst arts
+314587006;Trial dissection of liver mass;Trial dissectie van de lever massa;Trial dissectie van de lever massa;poging tot dissectie van een levermassa
+23779000;Crystal identification, urine;Crystal identificatie , urine;Crystal identificatie , urine;artropathie identification urine
+122259000;Vibrio species culture;Vibrio soorten cultuur;Vibrio soorten cultuur;vibrio kweek
+55380000;Medical procedure on kidney;Medische procedure aan de nieren;Medische procedure aan de nieren;medische verrichting nier
+396078004;Medication prefill preparation management;Medicatie prefill voorbereiding beheer;Medicatie prefill voorbereiding beheer;intravaginale prefill preparaat behandeling
+10272008;Closure of fistula of diaphragm;Sluiting van de fistel van het membraan;Sluiting van de fistel van het membraan;herstel van het diafragma
+232158005;Reconstruction of external ear with distant flap;Reconstructie van uitwendige oor met verre flap;Reconstructie van uitwendige oor met verre flap;reconstructie van buitenoor met vrije flap
+305240002;Admission by intensive care specialist;Toelating van intensive care specialist;Toelating van intensive care specialist;admission door intensive zorg specialist
+86811003;Pulmonary ventilation study, aerosol;Pulmonale ventilatie studie , aerosol;Pulmonale ventilatie studie , aerosol;pulmonale ' luchtverversings '- functieonderzoek aerosol
+284422005;Examination of toenail;Onderzoek van de teennagel;Onderzoek van de teennagel;onderzoek van de teen
+10929006;Myectomy for graft;Myectomy voor graft;Myectomy voor graft;myectomie voor greffe
+288101000;Inject caustic endoscopically;Injecteren bijtende endoscopisch;Injecteren bijtende endoscopisch;injectie bijtende endoscopically
+388497002;Anguilla anguilla specific IgE antibody measurement;Anguilla specifieke IgE - antilichamen meting;Anguilla specifieke IgE - antilichamen meting;anguilla anguilla specifieke ige - antistof
+274344008;Palate -surgical biopsy;Gehemelte - surgical biopsie;Gehemelte - surgical biopsie;verhemelte - chirurgische maagbiopsie
+9175006;Parietal cell vagotomy with pyloroplasty and gastrostomy;Pari ë tale cel vagotomie met pyloroplastiek en gastrostomy;Pari ë tale cel vagotomie met pyloroplastiek en gastrostomy;hoogselectieve vagotomie met pyloroplastie met gastrostomie
+284397007;Examination of elbow joint;Onderzoek van ellebooggewricht;Onderzoek van ellebooggewricht;endoscopie van de elleboog
+1678006;Endoscopic procedure of nerve;Endoscopische procedure van de zenuw;Endoscopische procedure van de zenuw;endoscopie nao
+233458009;Avulsion of varicose vein;Avulsion van spataders;Avulsion van spataders;avulsie van variceuse vene
+243062008;Anesthetic procedure explained;Verdoving procedure uitgelegd;Verdoving procedure uitgelegd;anesthesie explained
+303781007;Brain contrast procedure;Brain contrast procedure;Brain contrast procedure;hersenen contrast onderzoek
+172811007;Surgical arrest of bleeding from internal nose;Chirurgische arrestatie van bloeden uit interne neus;Chirurgische arrestatie van bloeden uit interne neus;chirurgische contr ô le van inwendige neusbloeding
+70852009;Implantation of prosthetic limb device;Implantatie van prothese - inrichting;Implantatie van prothese - inrichting;implantatie van prosthetisch extremiteit apparaat
+182643001;Inject organ for local action;Injecteren orgaan voor de lokale actie;Injecteren orgaan voor de lokale actie;injectie van orgaan voor lokale actie
+3691002;Wedge osteotomy of tarsals and metatarsals;Wig osteotomie van tarsals en middenvoetsbeentjes;Wig osteotomie van tarsals en middenvoetsbeentjes;wigosteotomie van metatarsalen en tarsale beenderen
+14135001;Labyrinthectomy with mastoidectomy;Labyrinthectomy met masto ï dectomie;Labyrinthectomy met masto ï dectomie;labyrinthectomie met mastoidectomie
+370826000;Implementation of protective measures to prevent injury due to radiation sources;Implementatie van beschermende maatregelen om letsel te voorkomen als gevolg van stralingsbronnen;Implementatie van beschermende maatregelen om letsel te voorkomen als gevolg van stralingsbronnen;implementation , beschermende maat voor prevent letsel bestraling bevindingen
+183473005;Admit oral surgical emergency;Toegeven kaakchirurgische nood;Toegeven kaakchirurgische nood;admit orale chirurgische noodgeval
+16310003;Diagnostic ultrasonography;diagnostische echografie;diagnostische echografie;diagnostische echo
+68940001;Thallium measurement, blood;Thallium meting , bloed;Thallium meting , bloed;thallium - bloeding
+59418009;Nonexcisional debridement of wound or infection of integumentary system;Nonexcisional debridement van de wond of infectie van integumentum;Nonexcisional debridement van de wond of infectie van integumentum;nonexcisional debridement van wond van van systeem
+373624003;Biopsy of lesion of abdominal wall;Biopsie laesie buikwand;Biopsie laesie buikwand;buikwandbiopsie
+184280004;Death notification - non-hospital source;Death kennisgeving - extramurale source;Death kennisgeving - extramurale source;sterfte , kennisgeving - ziekenhuizen bron
+391309001;Percentage FMC 7 count;Percentage FMC 7 stuks;Percentage FMC 7 stuks;procentueel fmc 7 bloedceltelling
+306194007;Referral to colorectal surgery service;Verwijzing naar colorectale chirurgie dienst;Verwijzing naar colorectale chirurgie dienst;verwijzing naar het colorectale chirurgie service
+236253008;Transurethral resection of male bladder neck;Transurethrale resectie van de mannelijke blaas nek;Transurethrale resectie van de mannelijke blaas nek;transurethrale resectie blaashals man
+86910001;Phlebectomy of upper limb vein;Phlebectomy van ader bovenste ledematen;Phlebectomy van ader bovenste ledematen;flebectomie van vene van bovenste lidmaat
+252352008;Purified protein derivative T-cell stimulation;Gezuiverde eiwit afgeleide T - cel stimulatie;Gezuiverde eiwit afgeleide T - cel stimulatie;gezuiverd eiwit derivaat - stimulatie
+232726007;Percutaneous endarterectomy of coronary artery;Percutane endarterectomie van de kransslagader;Percutane endarterectomie van de kransslagader;percutane endarteri ë ctomie van coronaire arterie
+473277000;Laparoscopic excision of hydrosalpinx;Laparoscopische excisie van hydrosalpinx;Laparoscopische excisie van hydrosalpinx;laserablatie van neoplasm hydrosalpinx

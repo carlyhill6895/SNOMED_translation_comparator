@@ -1,0 +1,50 @@
+311584003;Eliciting combined sounds;Uitlokken gecombineerd geluiden;Opwekken van gecombineerde geluiden;eliciting gemengde klanken
+406830001;Chromotrope 2R stain method;Chromotroop 2R methode vlek;Chromotrope 2R vlek methode;chromotroop 2r kleuring
+307291003;Aspiration of lesion of brain tissue;Aspiratie van letsel van hersenweefsel;Aspiratie van laesie van hersenweefsel;aspiratie van intracerebrale tumor
+399052009;Aortic balloon pump operation;Aorta ballon pompbedrijf;Aorta ballon pomp operatie;intra - aortale ballonpomp
+419834003;Culture of conjunctiva;Cultuur van conjunctiva;Cultuur van bindvlies;kweek conjunctiva
+449180008;Excision of vascular graft of extremity;Excisie van vasculaire graft extremiteit;Excisie van vasculaire prothese van extremiteit;verwijderen van vasculaire greffe van een lidmaat
+78089009;Transfer training;Transfer training;transfer;tranfer training
+414509005;Insertion of drug coated stent;Het inbrengen van drug gecoate stent;Invoeging van drug gecoat stent;plaatsen van drug - coating stent
+439899003;Cluster of differentiation antigen 57 percentage count procedure;Cluster van differentiatie antigeen 57 percentage count procedure;Cluster van differentiatie antigeen 57 percentage graaf procedure;cd8 - antigeen batonrouge procentueel bloedceltelling nao
+406897001;Methylene violet stain (Bernthsen) method;Methyleen paarse vlek ( Bernthsen ) methode;Methyleenblauw violet vlek ( Bernthsen ) methode;methyleen violette vlek ( bernthsen ) methode
+313083007;Unemployment counselling;werkloosheid begeleiding;Werkloosheid counseling;werkloosheid , advies
+439262009;Taking an impression for creation of custom orbital prosthesis;Het nemen van een indruk voor het maken van aangepaste orbitale prothese;Nemen van een impressie voor de creatie van aangepaste orbitale prothese;afdruk orbita nemen voor oog prothese
+412861002;Dialysis fluid urea measurement;Dialysevloeistof ureum meting;Dialyse vloeistof ureum meting;dialysis vocht ureum
+446420001;Simple mastectomy with complete axillary lymphadenectomy;Simple mastectomie met volledige oksel lymphadenectomy;Eenvoudige mastectomie , met volledige axillaire lymphadenectomy;mastectomie met volledig axillaire lymfadenectomie
+405530000;Femoro-peroneal artery bypass with prosthesis;Femoro - peroneal artery bypass met prothese;Femoro - peroneale artery bypass met prothese;arteria femoralis communis naar arteria peronealis bypass met prothese
+311781009;Making ergonomic equipment;Het maken van ergonomische apparatuur;Maken van ergonomische apparatuur;making ergonomic apparatuur
+711011000;Assessment of urinary status;Beoordeling van de urine - status;Assessment of urinary status;onderzoek van de toestand
+310666000;Excision or biopsy of pelvic lymph node;Excisie of biopsie van het bekken lymfeklieren;Excisie of biopsie van de lymfeklier bekken;excisie met biopsie van pelviene lymfeknoop
+442679005;Quantitative measurement of amino acid in urine;Kwantitatieve meting van aminozuren in de urine;Kwantitatieve meting van aminozuur in urine;urine aminozuurspiegel
+443368004;Single photon emission computed tomography with computed tomography ventriculography at cardiac rest;SPECT - scan met computertomografie ventriculografie bij cardiale rust;Single photon emission tomography met computertomografie ventriculography cardiale onbeweeglijk berekend;single photon emission computed tomography ( spect ) met ct van hart in rust
+441378005;Collection of specimen by culture plate;Het verzamelen van specimen door de cultuur plaat;Collectie voor specimen door cultuur plaat;opvangen van specimen met cultuurplaat
+306902001;Faradism under pressure to upper limb;Faradism onder druk bovenste ledematen;Faradism onder druk om de bovenste extremiteit;faradism onder druk en bovenste ledemaat
+308251003;Admission to clinical oncology department;Toelating tot de klinische oncologie - afdeling;Toelating tot de klinische oncologie afdeling;toelating tot maligne niet ziekenhuis , afdeling
+448763008;Closed reduction of traumatic injury of epiphyseal plate with internal fixation;Gesloten vermindering van traumatisch letsel van de groeischijf met interne fixatie;Gesloten reductie van traumatische letsel van de Epifysaire plaat met interne fixatie;gesloten reductie van een letsel van de epifyse van fractuur met inwendige fixatie
+29513000;Irrigation with syringe;Irrigatie met spuit;spuit voor het spoelen;maagspoeling met injectiespuit
+407715006;Percentage CD11b count;Percentage count CD11b;Percentage CD11b graaf;procentueel cd11b bloedceltelling
+445133005;Detection of Human herpesvirus 3 using polymerase chain reaction technique;Detectie van humaan herpesvirus 3 middels polymerase kettingreactie techniek;Detectie van Humaan herpesvirus 3 met behulp van polymerase kettingreactie techniek;test zoster met polymerasekettingreactie -
+441729003;Measurement of alprazolam in serum specimen;Meting van alprazolam in serummonster;Meting van alprazolam in serum monster;, alprazolam in serum
+313049000;Augmentation of glenoid;Augmentation van glenoid;Vergroting van gleno ï de;augmentatie van het gleno
+440112003;Defecating proctogram using magnetic resonance imaging;Ontlasten proctogram met behulp van magnetische resonantie imaging;Poepen proctogram met behulp van magnetische resonantie beeldvorming;defecografie met mr
+443958002;Surgical removal of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator by transvenous approach;Chirurgische verwijdering van transveneuze elektrode van enkele kamer pacing cardioverter defibrillator pulsgenerator door transveneuze aanpak;Chirurgische verwijdering van transvenous elektrode van éé n kamer pacing cardioverter defibrillator pulse generator door de aanpak van de transvenous;chirurgisch verwijderen van transveneuze elektrode van ?? nkamer pacer cardiovertor defibrillator langs transveneuze weg
+397804006;Intubation of esophagus;Intubatie slokdarm;Intubatie van slokdarm;slokdarmintubatie
+448237004;Ligation of arteriovenous fistula of extremity;Ligatie van arterioveneuze fistel van extremiteit;Afbinding van Arterioveneuze fistels van extremiteit;ligatuur van arterioveneuze fistula van extremiteiten
+413669005;Blood ethylene glycol measurement;Bloed ethyleenglycol meting;Bloed ethyleen glycol meting;bloed ethyleenglycol -
+444975002;Detection of Treponema pallidum using polymerase chain reaction technique;Detectie van Treponema pallidum met behulp van polymerase chain reaction techniek;Detectie van Treponema pallidum met behulp van polymerase kettingreactie techniek;test , treponema met polymerasekettingreactie -
+170608002;Initial resp. assessment;Eerste resp . beoordeling;C Eerste beoordeling;voorlopige luchtwegen onderzoek
+443518006;Magnetic resonance imaging of trigeminal nerve with contrast;Magnetische resonantie beeldvorming van de nervus vagus met contrast;Magnetische resonantie beeldvorming van nervus trigeminus met contrast;mri nervus trigeminus met contrast
+398378004;HTLV 1 nucleic acid assay;HTLV 1 nucle ï nezuur assay;HTLV 1 nucleic acid test;virus 1 , nucle ï nezuur -
+417103009;Advice to GP to decrease patient medication;Advies aan de huisarts van de pati ë nt de medicatie te verminderen;Advies aan GP pati ë nt medicijnen verlagen;voorlichting - groep - natriumarm pati medicatie
+408882007;Nausea care management;Misselijkheid zorgmanagement;Misselijkheid zorg management;misselijkheid zorg behandeling
+418641004;Procedure on abducens nerve;Procedure op nervus abducens;Procedure op de Nervus abducens;procedure van nervus abducens
+448168006;Intracavitary brachytherapy of nasopharynx;Intracavitaire brachytherapie van nasopharynx;Intracavitaire brachytherapie van de Nasofarynx;radiotherapie , intracavitaire nasofarynx
+414669002;Mental health monitoring invitation;Mental health monitoring uitnodiging;Geestelijke gezondheid toezicht uitnodiging;psychische stoornissen monitoring invitation
+311627001;Therapy to promote recognition and understanding of concrete words;Therapie om de erkenning en begrip van beton woorden te bevorderen;Therapie ter bevordering van de erkenning van en inzicht in concrete woorden;therapie promote herkenning en begrip van concrete woorden
+5415002;Destruction of lesion of liver;Vernietiging van beschadiging van de lever;Vernietiging van letsel van de lever;destructie van letsel van de lever
+424252005;Prescription of premedication;Het voorschrijven van premedicatie;Recept van premedication;profylaxe , premedication
+307246007;Excision of portal vein;Excisie van poortader;Excisie van portal vein;excisie van de vena porta
+307374004;Referral to rehabilitation service;Verwijzing naar revalidatie dienst;Verwijzing naar revalidatie service;verwijzing naar het rehabilitatietherapie service
+712535001;Assessment of electrical injury;Beoordeling van de elektrische letsel;Assessment of electrical injury;bepaling van letsels , electrocutie -
+446216003;Assessment using evaluation tool of children's handwriting;Beoordeling met behulp van evaluatie - instrument van het handschrift van kinderen;Beoordeling hulpprogramma voor evaluatie van children ' s handschrift;onderzoek van evaluatie van de kinderen handwriting

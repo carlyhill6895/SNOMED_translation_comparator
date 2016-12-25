@@ -1,0 +1,50 @@
+265037002;Diagnostic fiberoptic endoscopic examination of pharynx and larynx;Diagnostic fiberoptische endoscopisch onderzoek van de keelholte en het strottenhoofd;Diagnostic fiberoptische endoscopisch onderzoek van de keelholte en het strottenhoofd;diagnostisch endoscopisch onderzoek van de keelholte en strottenhoofd
+252757004;Sphincter EMG;sluitspier EMG;sluitspier EMG;electromyografie van de sfincter
+72732005;Triple sugar iron test;Triple suiker ijzer - test;Triple suiker ijzer - test;drievoudige glucose ijzer -
+53088000;Autogenous transplantation;autogeen transplantatie;autogeen transplantatie;autologe transplantatie
+27755001;Operation on vessels of heart;Operatie op schepen van het hart;Operatie op schepen van het hart;chirurgie , vaat - hart
+20838005;Arthrotomy of acromioclavicular joint for infection with drainage;Arthrotomie van acromioclaviculaire gewricht op besmetting met drainage;Arthrotomie van acromioclaviculaire gewricht op besmetting met drainage;arthrotomie van het acromioclaviculaire gewricht met drainage omwille van infectie
+233118004;Placement of stent in major aortopulmonary collateral artery;Plaatsing van de stent in de grote aortopulmonary onderpand slagader;Plaatsing van de stent in de grote aortopulmonary onderpand slagader;plaatsing van stent in majeure aorto - pulmonale collaterale arterie
+116813009;Administration of Varicella virus immune globulin;Toediening van Varicella virus immunoglobuline;Toediening van Varicella virus immunoglobuline;toediening , varicella zoster - virus , passieve
+172919005;Functional endoscopic sinus surgery - therapeutic antroscopy via middle meatus;Functionele endoscopische sinus chirurgie - therapeutische antroscopy via midden gehoorgang;Functionele endoscopische sinus chirurgie - therapeutische antroscopy via midden gehoorgang;functioneel endoscopische sinus ingreep , antroscopie via meatus medius
+287339004;Vessel graft implant;Vessel graft implantaat;Vessel graft implantaat;implantatie van vaatgreffe
+370841000;Protecting from cross-contamination;Het beschermen van kruisbesmetting;Het beschermen van kruisbesmetting;protecting in esotropie contaminatie
+243157005;Liquid ventilation;vloeibare ventilatie;vloeibare ventilatie;' liquid ventilation '
+175063009;Exploration of coronary artery;Verkenning van de kransslagader;Verkenning van de kransslagader;exploratie van coronaire arterie
+88584000;Evacuation of subungual hematoma;Evacuatie van subungual hematoom;Evacuatie van subungual hematoom;verwijdering van subunguaal hematoom
+35289009;Antibody to cell surface receptor measurement;Antilichaam tegen celoppervlak receptor meting;Antilichaam tegen celoppervlak receptor meting;auto - - facies receptor -
+115981007;Fusion by stapling;Fusion door nieten;Fusion door nieten;fusie met nieten
+241218003;Common carotid arteriogram;Halsslagader arteriogram;Halsslagader arteriogram;arteria carotis angiografie
+52672008;Excision of lesion of abdominal aorta with end-to-end anastomosis;Excisie van letsel van abdominale aorta met end - to - end anastomose;Excisie van letsel van abdominale aorta met end - to - end anastomose;excisie van van abdominale aorta met end - to - end anastomose
+700256000;Management of antenatal education;Beheer van prenatale onderwijs;Beheer van prenatale onderwijs;behandeling van prenatale ntenvoorlichting
+239249007;Transfer of flexor to extensor tendon of lesser toe;Overdracht van flexor tot pees van mindere teen Extensor;Overdracht van flexor tot pees van mindere teen Extensor;flexor naar extensor peestransfer van een teen
+237385002;Excision of mastectomy scar;Excisie van mastectomie litteken;Excisie van mastectomie litteken;excisie van mastectomielitteken
+439051004;Dietary education for gestational diabetes;Dietary onderwijs voor zwangerschapsdiabetes;Dietary onderwijs voor zwangerschapsdiabetes;aandoening onderwijzen van diabetes mellitus ontstaand tijdens zwangerschap
+90722001;Removal of supernumerary finger;Verwijdering van overtallige vinger;Verwijdering van overtallige vinger;verwijderen van een surnummeraire vinger
+229460008;Manipulation of the patellofemoral articulation - non-surgical;Manipulatie van de patellofemorale gewricht - niet - chirurgische;Manipulatie van de patellofemorale gewricht - niet - chirurgische;manipulatie van het patellofemoraal articulatie - -
+16280008;Closure of gastric fistula;Sluiting van maagfistel;Sluiting van maagfistel;maagfistel reparatie
+4707009;Partial excision of calcaneus;Gedeeltelijke excisie van calcaneus;Gedeeltelijke excisie van calcaneus;partiele excisie van calcaneus
+241582005;CT arthrogram;CT arthrogram;CT arthrogram;ct - artrografie
+13767004;Removal of foreign body from choroid without use of magnet;Verwijdering van vreemde lichaam van choroid zonder gebruik te maken van de magneet;Verwijdering van vreemde lichaam van choroid zonder gebruik te maken van de magneet;verwijderen van vreemd voorwerp uit de chorioidea zonder magneet
+252617009;Auditory brainstem response screening test;BAER - test screening test;BAER - test screening test;auditieve hersenstam response screening
+178923005;Cryoablation of bone lesion;Cryoablation van botlaesie;Cryoablation van botlaesie;cryoablatie van een botletsel
+384685001;Operation on oral cavity;Operatie op mondholte;Operatie op mondholte;chirurgie , mond -
+175625002;Emergency replacement of aneurysmal popliteal artery by anastomosis of popliteal artery to tibial artery using prosthesis;Emergency vervanging van aneurysmatische arteria poplitea door anastomose van de arteria poplitea tot scheenbeen slagader met behulp van prothese;Emergency vervanging van aneurysmatische arteria poplitea door anastomose van de arteria poplitea tot scheenbeen slagader met behulp van prothese;spoed vervanging van aneurysma van arteria poplitea met arteria poplitea naar arteria tibialis onder prothese
+107896002;Operative procedure on skin of extremity;Operatieve procedure op de huid van de extremiteiten;Operatieve procedure op de huid van de extremiteiten;operatie van de ledematen
+303585000;Transsphincteric biopsy of rectum;Transsfincterische biopsie van rectum;Transsfincterische biopsie van rectum;transsfincterische rectumbiopsie
+176452006;Injection sclerotherapy of hydrocele;Injectie sclerotherapie van hydrocele;Injectie sclerotherapie van hydrocele;sclerotherapie voor hydrocoele
+263666002;Evaluation of aluminum stores;Evaluatie van aluminium winkels;Evaluatie van aluminium winkels;evaluatie van aluminiumgerelateerde stores
+250573004;Hydrogen ion concentration measurement;Waterstof ion meting van de concentratie;Waterstof ion meting van de concentratie;ph -
+306901008;Faradic nerve stimulation to foot;Faradic zenuwstimulatie te voet;Faradic zenuwstimulatie te voet;faradic analgetische en voet
+63296004;Excision of aorta;Excisie van aorta;Excisie van aorta;excisie van de aorta
+176053009;Percutaneous insertion of ureteric stent;Percutane inbrengen van ureteric stent;Percutane inbrengen van ureteric stent;percutaan plaatsen ureterstent
+169385000;Preload radiotherapy - OP cavity;Preload radiotherapie - OP holte;Preload radiotherapie - OP holte;preload radiotherapie , op holte
+698943000;Referral to nurse complex case manager;Verwijzing naar complexe case manager verpleegkundige;Verwijzing naar complexe case manager verpleegkundige;verwijzing naar het verpleegkunde complex volledig manager
+112976009;Excision of inner ear;Excisie van binnenoor;Excisie van binnenoor;excisie van het binnenoor
+287963002;Closed reduction - zygomatic fracture;Gesloten reductie - jukbeen breuk;Gesloten reductie - jukbeen breuk;gesloten reductie van zygomafractuur
+252519001;Histamine challenge;histamine uitdaging;histamine uitdaging;cluster provocatietest
+42893000;Reduction of open fracture of leg;Vermindering van de open fractuur van het been;Vermindering van de open fractuur van het been;reductie van fractuur
+233414009;Adjustment of arterial intraluminal device;Aanpassing van de arteri ë le intraluminale inrichting;Aanpassing van de arteri ë le intraluminale inrichting;aanpassing van arterieel intraluminaal device
+103931005;Blood typing, RBC antigens from Chido/Rodgers system (ISBT 017);Bloed typen , RBC antigenen van Chido / Rodgers systeem ( ISBT 017 );Bloed typen , RBC antigenen van Chido / Rodgers systeem ( ISBT 017 );bloed typering , rode antigenen van chido en rodgers , isbt 017 -
+88081001;Kligler iron test;Kligler ijzer - test;Kligler ijzer - test;kligler ijzer -
+173992008;Open relief of strangulation of ileum;Open verlichting van wurging van ileum;Open verlichting van wurging van ileum;open opheffen van ileum strangulatie

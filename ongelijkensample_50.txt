@@ -1,0 +1,50 @@
+306910000;Acid etch splinting of teeth;Zure regen spalken van tanden;Zuur etch spalken van de tanden;zuur etch spalkaanbrenging tanden
+309694007;Injection of Lederspan into knee joint;Injectie van Lederspan in het kniegewricht;Injectie van albicort in kniegewricht;infiltratie van lederspan in kniegewricht
+442959004;Harvesting of sheet of fascia from fascia lata by incision of skin and subcutaneous tissue;Het oogsten van het vel van de fascia van fascia lata door incisie van de huid en onderhuids weefsel;Oogsten van vel fascia van de fascia lata door insnijding van huid en subcutane weefsel;oogsten van de fascia lata door incisie van de huid
+410309002;Signs/symptoms-physical education, guidance, and counseling;Tekenen / symptomen - lichamelijke opvoeding , begeleiding en advisering;Tekenen / symptomen - lichamelijke opvoeding , begeleiding en counseling;tekenen en symptomen , lichamelijke ntenvoorlichting begeleiding en advies
+449450005;Biosseous angulation osteotomy of periarticular bone and internal fixation;Biosseous gehoekt osteotomie van periarticulaire bot en interne fixatie;Biosseous angulation osteotomy of periarticular bone and internal fixation;biosseous hoekvorming osteotomie van periarticulair bot en inwendige fixatie
+308496008;Gittes endoscopic bladder neck suspension;Gittes endoscopische Blaashalssuspensie;Gittes Endoscopische blaas hals schorsing;gittes endoscopisch blaashals suspensie
+441875004;Imaging of head;Beeldvorming van het hoofd;Beeldvorming van hoofd;van hoofd
+441730008;Transposition of ligament for stabilization of joint;Omzetting van ligament voor het stabiliseren van de gezamenlijke;Omzetting van ligament voor stabilisatie van de gemeenschappelijke;transpositie van ligament voor gewrichtsstabilisatie
+710834001;Assessment of attitude toward health status;Beoordeling van de houding ten opzichte van de gezondheidstoestand;Beoordeling van houding ten opzichte van gezondheidstoestand;voedingsbeoordeling attitude toward gezondheidstoestand
+415673006;Surface palpation;Surface palpatie;Oppervlakte palpatie;facies palperen
+418386007;Family medication education;Family medicatie onderwijs;Familie medicatie onderwijs;familie intravaginale ntenvoorlichting
+449179005;Suturing of capsule of interphalangeal joint of hand;Hechten van de capsule van het interfalangeale gewricht van de hand;Wordt van de capsule van interfalangeale gewricht van hand;hechting van kapsel van het interfalangeaal gewricht
+425366005;Maintenance of temporary epicardial cardiac pacemaker system;Onderhoud van tijdelijke epicardiale pacemaker systeem;Onderhoud van tijdelijke epicardial cardiale pacemakers systeem;onderhoud van tijdelijke epicardiale pacemaker
+439355003;Replacement of tunneled centrally inserted central venous catheter;Vervanging van de tunnel centraal geplaatste centraal veneuze katheter;Vervanging van getunnelde centraal ingevoegde centraal veneuze katheter;vervangen van een centrally fractuur van een centraal veneuze tunnel katheter
+410633003;Well child visit, 2 years;Nou kind bezoek , 2 jaar;Goed kind bezoek , 2 jaar;normale kind bezoek , niet gespecificeerd
+440328002;Dietary education for pancreatic disorder;Dietary onderwijs voor pancreas stoornis;Dieet onderwijs voor alvleesklier aandoening;aandoening onderwijzen van pancreas -
+421037007;Subjective refraction by prism dissociation technique;Subjectieve refractie door prisma dissociatie techniek;Subjectieve breking door een prisma dissociatie techniek;manifeste refractie door prisma dissociatie -
+444770000;Exploration of spermatic cord;Verkenning van Zaadstreng;Verkenning van de Zaadstreng;exploratie zaadstreng
+443981000;Testing for known gene mutation in family member;Testen op bekende genmutatie in familielid;Testen voor bekende genmutatie in familielid;test voor bekend genmutatie van verwante
+443843009;Analysis using metapolymerase chain reaction technique;Analyse met meta polymerase kettingreactietechniek;Analyse met metapolymerase kettingreactietechniek;analyse van metapolymerase - adie -
+442451005;Education about child car seat safety;Voorlichting over autozitje veiligheid;Onderwijs over autostoel kindveiligheid;onderwijzen voor kinderen car seat safety
+439908001;Education about selection of newborn care provider;Voorlichting over selectie van de pasgeboren zorgaanbieder;Onderwijs over selectie van pasgeboren zorgverlener;onderwijzen voor selectie , zorg provider
+711010004;Assessment of use of traditional therapy;Evaluatie van het gebruik van traditionele therapie;Beoordeling van het gebruik van traditionele therapie;bepaling van van traditional therapie
+447225004;Ultrasonography of vein of neck;Echografie van de ader van de nek;Ultrasonografie van ader van nek;echografie halsvene
+416521007;Mesenteric release technique;releasetechniek mesenteriale;Mesenterische release techniek;mesenterische losmaken van
+443187002;Removal of tattoo of skin;Het verwijderen van de tatoeage van de huid;Verwijdering van de tatoegering van de huid;excisie tattoe
+404198007;Extraction of submerged tooth;Extractie van tanden ondergedompeld;Extractie van verzonken tand;extractie van submerged tanden
+434417009;Insertion of cardiac biventricular permanent pacemaker using fluoroscopic guidance;Het inbrengen van cardiale biventriculaire permanente pacemaker met behulp van doorlichting;Invoeging van permanente pacemaker cardiale biventricular met behulp van fluoroscopic begeleiding;implantatie van cardiale bioventriculaire permanente pacemaker onder fluoroscopische begeleiding
+420043000;Fluoroscopy and biopsy of abdomen;Fluoroscopy en biopsie van de buik;Fluoroscopie en biopsie van buik;fluoroscopische angiografie van de buik
+307511000;Under-running of bleeding duodenal ulcer;Onder - running van bloedingen darmzweren;Geringe werking van bloeden duodenale zweer;hechten van een bloedend duodenumulcus
+405396005;Endarterectomy and angioplasty of iliac artery;Endarterectomie en angioplastiek van iliaca;Endarterectomy en angioplasty van iliac slagader;endarterectomie en angioplastie van arteria iliaca
+313274005;Respiratory syncytial virus swab;Respiratoir syncytieel virus swab;respiratoir - syncytiumvormend virus;rsv wattenstaafje
+406851003;Fast red TR salt stain method;Snelle rode TR methode zout vlek;Snel rode TR zout vlek methode;snelle rode tr zout kleuring
+440590002;Contouring of forehead for reduction and setback of anterior frontal sinus wall;Contouren van het voorhoofd voor vermindering en tegenslag van de voorste frontale sinus muur;Contouren van voorhoofd voor vermindering en tegenslag van anterior frontale sinus muur;knippen os frontale met reductie setback van frontale sinus wand
+446782006;Ultrasonography of deep inferior epigastric perforator skin flap;Echografie van diepe inferieur epigastrische perforator huidflap;Ultrasonografie van diep inferieur epigastrische perforator huid klep;echografie diep huidflap
+433803001;Fluoroscopic venography of subclavian vein using contrast with insertion of stent graft;Fluoroscopische venografie ader subclavia gebruik tegenstelling inbrengen van stent graft;Fluoroscopic venography van subclavian ader contrast met invoeging van stent graft;fluoroscopische contrastmiddel venografie van de vena subclavia met plaatsen van stent greffe
+711006002;Measurement of fluid intake;Meting van vloeistofinname;Meting van de vochtinname;maat van vochtinname
+425469002;Excision of lesion of extradural spinal cord;Excisie van letsel van ruggenmerg extradurale;Excisie van laesie van het ruggenmerg extradural;resectie van epiduraal ruggenmerg
+397931005;Lamaze method education;Lamaze methode onderwijs;LAMAZE methode - onderwijs;lamaze methode ntenvoorlichting
+401266006;Referral to drug abuse counsellor;Verwijzing naar drugsgebruik counselor;Verwijzing naar drug abuse counselor;verwijzing naar het drugsgebruik begeleider
+412759000;Debulking of upper eyelid;Debulking van de bovenste ooglid;Debulking van bovenste ooglid;debulking bovenste ooglid
+439093003;Percutaneous transluminal insertion of stent into superior vena cava using fluoroscopic guidance;Percutane transluminale inbrengen van stent in superior vena cava via doorlichting;Percutane transluminale inbrengen van stent in superieure vena cava met behulp van fluoroscopic begeleiding;percutane transluminale plaatsing van stent in vena cava superior onder fluoroscopische begeleiding
+313954007;Epstein-Barr virus nuclear IgG measurement;Epstein - Barr virus nucleair IgG meting;Epstein - Barr virus nuclear IgG meting;ebv - nucleaire igg -
+443070001;Augmentation of pectoral region;Vergroting van borstvinnen regio;Vergroting van de borstvinnen regio;verhogen van de regio pectoralis
+439586005;Focused ultrasound ablation of breast using magnetic resonance imaging guidance;Focused Ultrasound ablatie van borstkanker met behulp van magnetische resonantie beeldvorming begeleiding;Echografie ablatie van de borst met behulp van magnetische resonantie beeldvorming begeleiding gericht;gefocuste ultrasound ablatie van borst onder magnetische resonantie
+472839005;Termination of pregnancy after first trimester;Zwangerschapsafbreking na de eerste trimester;Be ë indiging van de zwangerschap na eerste trimester;be ë indiging van zwangerschap na eerste trimester
+394724007;Coronary heart disease medication review;Coronaire hartziekten medicatie beoordeling;Coronaire hart - en vaatziekten medicatie overzicht;hart intravaginale herziening
+456004;Total abdominal colectomy with ileostomy;Totale abdominale colectomy met ileostoma;Total abdominale colectomy met ileostoma;totale colectomie met ileostomie
+3278006;Lysis of adhesions of bursa of hand;Lysis van verklevingen van de slijmbeurs van de hand;Lysis van verklevingen van de bursa van de hand;adhesiolyse van bursa van de hand
+421422004;Intravitreal fluid air exchange;Intravitreale vloeistof uitwisseling van lucht;Intravitreal vloeibare lucht verversen;intravitreale vocht lucht uitwisseling
